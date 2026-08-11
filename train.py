@@ -203,6 +203,7 @@ def main():
     parser.add_argument("--min_lr", type=float, default=3e-5)
     parser.add_argument("--checkpoint_dir", type=str, default="./ckpt")
     parser.add_argument("--data_path", type=str, default="data.bin")
+    parser.add_argument("--tokenizer_path", type=str, default="bpe_tokenizer/tokenizer.json")
     args = parser.parse_args()
 
     if torch.cuda.is_available():
@@ -214,12 +215,17 @@ def main():
     print(f"Using Device: {device}")
     os.makedirs(args.checkpoint_dir, exist_ok=True)
 
+    tokenizer = PreTrainedTokenizerFast(
+        tokenizer_file=args.tokenizer_path
+    )
+    vocab_size = tokenizer.vocab_size
+
     # 生成模拟数据 (dtype必须为int32以匹配Dataset读取)
     if not os.path.exists(args.data_path):
         print(f"创建模拟数据{args.data_path}...")
         # 保证有足够的数据生成若干batch
         dummy_len = args.context_length * args.batch_size * 20
-        dummy_data = np.random.randint(0, args.vocab_size, (dummy_len,), dtype=np.int32)
+        dummy_data = np.random.randint(0, vocab_size, (dummy_len,), dtype=np.int32)
         dummy_data.tofile(args.data_path)
 
     total_ds = CausalMemmapDataset(args.data_path, args.context_length)
@@ -277,7 +283,7 @@ def main():
 
     # 初始化模型
     model = TransformerLM(
-        vocab_size=args.vocab_size,
+        vocab_size=vocab_size,
         d_model=args.d_model,
         num_heads=args.num_heads,
         num_layers=args.num_layers,
@@ -314,7 +320,7 @@ def main():
             optimizer.zero_grad()
             logits = model(x)  # (B, T, Vocab)
 
-            loss = criterion(logits.view(-1, args.vocab_size), y.view(-1))
+            loss = criterion(logits.reshape(-1, vocab_size), y.reshape(-1))
 
             # 变量名定义
             loss_val = loss.item()
@@ -364,7 +370,7 @@ def main():
             for batch_idx, (x, y) in enumerate(val_loader):
                 x, y = x.to(device), y.to(device)
                 logits = model(x)
-                loss = criterion(logits.view(-1, args.vocab_size), y.view(-1))
+                loss = criterion(logits.reshape(-1, vocab_size), y.reshape(-1))
                 val_losses.append(loss.item())
                 step_v += 1
                 val_ppl = math.exp(loss.item())
@@ -396,7 +402,7 @@ def main():
         if epoch % 1 == 0:
 
             save_checkpoint(
-                path=f"ckpt/epoch_{epoch}.pt",
+                path=os.path.join(args.checkpoint_dir, f"epoch_{epoch}.pt"),
                 model=model,
                 optimizer=optimizer,
                 iteration=step_t,

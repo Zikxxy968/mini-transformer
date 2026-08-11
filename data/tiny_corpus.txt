@@ -1,0 +1,20 @@
+Lily likes apples.
+Tom has a small dog.
+The cat is sleeping on the sofa.
+A robot can learn from data.
+A language model predicts the next token.
+The sun is bright today.
+Children read books in the classroom.
+The teacher writes a sentence on the board.
+Mini transformers are useful for learning.
+Attention helps tokens read previous tokens.
+The model learns patterns from text.
+Training data is converted into token ids.
+The loss becomes smaller when predictions improve.
+Gradient descent updates model parameters.
+A checkpoint stores the model weights.
+Inference loads the checkpoint and generates text.
+The quick brown fox jumps over the lazy dog.
+Lily likes playing computer games.
+Tom likes reading stories at night.
+Small tests make a project easier to trust.

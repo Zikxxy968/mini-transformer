@@ -1,4 +1,25 @@
 __pycache__/
+.pytest_cache/
 *.pyc
+.ipynb_checkpoints/
+
+# Generated data and training artifacts
+data/raw/
+data/*.bin
+*.bin
 ckpt/
-.venv/
+ckpt*/
+checkpoints/
+*.pt
+*.pth
+
+# Large/raw datasets
+TinyStoriesV2-GPT4-train.txt
+TinyStoriesV2-GPT4-valid.txt
+Assignment1_Ablations/
+Assignment1_Ablations/data.in
+
+# Local plots/logs
+*.log
+train_ppl.png
+val_ppl.png
