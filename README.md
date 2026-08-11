@@ -27,25 +27,24 @@ The project is based on Datawhale DIY-LLM Assignment 1 and extends the original 
 
 ```text
 mini-transformer/
-鈹溾攢鈹€ model.py                         # model architecture, RoPE, attention, SwiGLU, generation
-鈹溾攢鈹€ train.py                         # training loop, dataset, optimizer, checkpoint, PPL curves
-鈹溾攢鈹€ prepare_data.py                  # raw text -> token ids -> data.bin
-鈹溾攢鈹€ infer.py                         # load checkpoint and generate text
-鈹溾攢鈹€ requirements.txt                 # Python dependencies
-鈹溾攢鈹€ README.md
-鈹溾攢鈹€ bpe_tokenizer/
-鈹?  鈹斺攢鈹€ tokenizer.json               # BPE tokenizer vocabulary and merge rules
-鈹溾攢鈹€ data/
-鈹?  鈹斺攢鈹€ tiny_corpus.txt              # small smoke-test corpus
-鈹溾攢鈹€ tests/
-鈹?  鈹溾攢鈹€ test_model.py                # model forward and generation tests
-鈹?  鈹溾攢鈹€ test_dataset.py              # next-token dataset test
-鈹?  鈹溾攢鈹€ test_train_step.py           # one-step training test
-鈹?  鈹斺攢鈹€ test_checkpoint.py           # checkpoint save/load test
-鈹斺攢鈹€ benchmarks/
-    鈹斺攢鈹€ benchmark_inference.py       # inference performance benchmark
+|-- model.py                         # model architecture, RoPE, attention, SwiGLU, generation
+|-- train.py                         # training loop, dataset, optimizer, checkpoint, PPL curves
+|-- prepare_data.py                  # raw text -> token ids -> data.bin
+|-- infer.py                         # load checkpoint and generate text
+|-- requirements.txt                 # Python dependencies
+|-- README.md
+|-- bpe_tokenizer/
+|   `-- tokenizer.json               # BPE tokenizer vocabulary and merge rules
+|-- data/
+|   `-- tiny_corpus.txt              # small smoke-test corpus
+|-- tests/
+|   |-- test_model.py                # model forward and generation tests
+|   |-- test_dataset.py              # next-token dataset test
+|   |-- test_train_step.py           # one-step training test
+|   `-- test_checkpoint.py           # checkpoint save/load test
+`-- benchmarks/
+    `-- benchmark_inference.py       # inference performance benchmark
 ```
-
 ## Environment
 
 ```bash
