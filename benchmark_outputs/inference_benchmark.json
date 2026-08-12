@@ -1,0 +1,48 @@
+{
+  "device": "cuda",
+  "checkpoint": "ckpt_tinystories_300mb_1024d6l/epoch_1.pt",
+  "parameter_count": 178830336,
+  "parameter_count_millions": 178.830336,
+  "prompt": "Once upon a time",
+  "prompt_tokens": 4,
+  "max_new_tokens": 120,
+  "temperature": 0.7,
+  "top_k": null,
+  "top_p": 0.9,
+  "runs": [
+    {
+      "run": 1,
+      "time_sec": 0.6939348601736128,
+      "generated_tokens_estimate": 120,
+      "tokens_per_second": 172.92689398825945
+    },
+    {
+      "run": 2,
+      "time_sec": 0.6990427621640265,
+      "generated_tokens_estimate": 120,
+      "tokens_per_second": 171.663318032957
+    },
+    {
+      "run": 3,
+      "time_sec": 0.7022929210215807,
+      "generated_tokens_estimate": 120,
+      "tokens_per_second": 170.86887309848385
+    },
+    {
+      "run": 4,
+      "time_sec": 0.7041815440170467,
+      "generated_tokens_estimate": 120,
+      "tokens_per_second": 170.4106008167335
+    },
+    {
+      "run": 5,
+      "time_sec": 0.7048476559575647,
+      "generated_tokens_estimate": 120,
+      "tokens_per_second": 170.24955532692385
+    }
+  ],
+  "avg_time_sec": 0.7008599486667663,
+  "avg_tokens_per_second": 171.22384825267153,
+  "peak_cuda_memory_mb": 715.9599609375,
+  "sample_output": " Once upon a time, in a small house, there lived a little girl named Lucy. She had a big, pretty dress that she loved to wear. Lucy loved to play with her toys and have fun with her friends.applaud were always there for her. Marbles was a reliable friend. unspoiled was always there to help her. rungs was always there to help Lucy. despair, Lucy and her friends played together every day. accumulating was always there to help Lucy. starfish was a reliable friend to Lucy. Jabu was always there to help Lucy when she needed it. enjoy playing with her friends in the garden.Pahpah was"
+}

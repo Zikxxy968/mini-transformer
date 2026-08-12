@@ -1,0 +1,24 @@
+{
+  "checkpoint": "ckpt_tinystories_300mb_1024d6l/epoch_1.pt",
+  "device": "cuda",
+  "max_new_tokens": 120,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "samples": [
+    {
+      "prompt": "Once upon a time",
+      "output_file": "eval_outputs/sample_1.txt",
+      "text": " Once upon a time, there was a little girl named Lucy. Lucy loved to play outside in the sun. One day, she saw a new friend in the park. It was a tiny, cute bird. The bird was sad because it could not fly.ased wanted to help the bird. Travelling had an idea.ic told Lucy to find a hidden spot in the park.Film the hidden spot in the park was a small hole. Lucy thought it was a good place to find a hidden spot. Blla was a good spot for the bird to rest. wheels made a path for the bird to rest. Fudge and"
+    },
+    {
+      "prompt": "Lily found a little cat",
+      "output_file": "eval_outputs/sample_2.txt",
+      "text": " Lily found a little cat. The cat was cold and hungry. Lily wanted to help the cat. She put the cat on her back and gave it some food. The cat was happy and warm now. Lily and the cat became best friends. They played together every day. Candies and Lily were always together.BAD was a good friend.ummer the cat was a happy cat. Persephone was a happy cat. mimicking was not cold anymore. They lived happily ever after.Martin and Lily were the best of friends.Caroline and Lily were always happy together. bon was a happy and healthy cat. rather than ever. relaxation and"
+    },
+    {
+      "prompt": "Tom wanted to help his friend",
+      "output_file": "eval_outputs/sample_3.txt",
+      "text": " Tom wanted to help his friend, a little bird named Sue. Sue was very good at flying. Tom was happy to see Sue and wanted to help her. donated Tom to his nest, but Tom was scared. He didn't want Sue to be scared. yeti was very good at flying.Soy and Sue became friends. tutoring was not scared anymore. He was happy to have a friend. Lie and Sue played together every day. wandering was a fun and happy place for both of them. Bene Tom and Sue were always there to help them when they needed it.Oscar and Sue were the best of friends, and they lived"
+    }
+  ]
+}
