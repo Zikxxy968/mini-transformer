@@ -1,0 +1,308 @@
+Using Device: cuda
+模型参数量: 178.83M
+
+--- Epoch 1 ---
+初始内存占用: 682.18 MB (GPU)
+Step 0 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 1/14834 | LR: 0.000000 | Train Loss: 10.8489 | Train PPL: 51477.6832 | Step Time: 0.63s
+Step 100 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 101/14834 | LR: 0.000020 | Train Loss: 8.8059 | Train PPL: 6673.8174 | Step Time: 10.71s
+Step 200 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 201/14834 | LR: 0.000040 | Train Loss: 5.1853 | Train PPL: 178.6185 | Step Time: 10.72s
+Step 300 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 301/14834 | LR: 0.000061 | Train Loss: 4.0377 | Train PPL: 56.6936 | Step Time: 10.69s
+Step 400 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 401/14834 | LR: 0.000081 | Train Loss: 3.4830 | Train PPL: 32.5570 | Step Time: 10.66s
+Step 500 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 501/14834 | LR: 0.000101 | Train Loss: 3.4475 | Train PPL: 31.4214 | Step Time: 10.69s
+Step 600 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 601/14834 | LR: 0.000121 | Train Loss: 3.0932 | Train PPL: 22.0473 | Step Time: 10.70s
+Step 700 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 701/14834 | LR: 0.000142 | Train Loss: 2.8239 | Train PPL: 16.8417 | Step Time: 10.71s
+Step 800 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 801/14834 | LR: 0.000162 | Train Loss: 2.8016 | Train PPL: 16.4708 | Step Time: 10.70s
+Step 900 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 901/14834 | LR: 0.000182 | Train Loss: 2.7449 | Train PPL: 15.5630 | Step Time: 10.72s
+Step 1000 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 1001/14834 | LR: 0.000202 | Train Loss: 2.7247 | Train PPL: 15.2518 | Step Time: 10.72s
+Step 1100 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 1101/14834 | LR: 0.000223 | Train Loss: 2.5508 | Train PPL: 12.8169 | Step Time: 10.74s
+Step 1200 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 1201/14834 | LR: 0.000243 | Train Loss: 2.6999 | Train PPL: 14.8788 | Step Time: 10.75s
+Step 1300 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 1301/14834 | LR: 0.000263 | Train Loss: 2.4441 | Train PPL: 11.5203 | Step Time: 10.75s
+Step 1400 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 1401/14834 | LR: 0.000283 | Train Loss: 2.3338 | Train PPL: 10.3167 | Step Time: 10.76s
+Step 1500 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 1501/14834 | LR: 0.000300 | Train Loss: 2.3383 | Train PPL: 10.3631 | Step Time: 10.77s
+Step 1600 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 1601/14834 | LR: 0.000300 | Train Loss: 2.3382 | Train PPL: 10.3630 | Step Time: 10.78s
+Step 1700 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 1701/14834 | LR: 0.000300 | Train Loss: 2.4186 | Train PPL: 11.2296 | Step Time: 10.77s
+Step 1800 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 1801/14834 | LR: 0.000300 | Train Loss: 2.2890 | Train PPL: 9.8654 | Step Time: 10.78s
+Step 1900 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 1901/14834 | LR: 0.000299 | Train Loss: 2.1843 | Train PPL: 8.8840 | Step Time: 10.79s
+Step 2000 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 2001/14834 | LR: 0.000299 | Train Loss: 2.1469 | Train PPL: 8.5585 | Step Time: 10.77s
+Step 2100 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 2101/14834 | LR: 0.000299 | Train Loss: 2.0820 | Train PPL: 8.0207 | Step Time: 10.78s
+Step 2200 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 2201/14834 | LR: 0.000298 | Train Loss: 2.1985 | Train PPL: 9.0116 | Step Time: 10.78s
+Step 2300 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 2301/14834 | LR: 0.000298 | Train Loss: 2.1081 | Train PPL: 8.2329 | Step Time: 10.79s
+Step 2400 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 2401/14834 | LR: 0.000297 | Train Loss: 2.0066 | Train PPL: 7.4379 | Step Time: 10.78s
+Step 2500 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 2501/14834 | LR: 0.000296 | Train Loss: 1.9159 | Train PPL: 6.7931 | Step Time: 10.79s
+Step 2600 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 2601/14834 | LR: 0.000295 | Train Loss: 1.9714 | Train PPL: 7.1806 | Step Time: 10.79s
+Step 2700 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 2701/14834 | LR: 0.000295 | Train Loss: 1.9059 | Train PPL: 6.7256 | Step Time: 10.80s
+Step 2800 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 2801/14834 | LR: 0.000294 | Train Loss: 2.0039 | Train PPL: 7.4179 | Step Time: 10.79s
+Step 2900 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 2901/14834 | LR: 0.000293 | Train Loss: 2.2009 | Train PPL: 9.0329 | Step Time: 10.78s
+Step 3000 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 3001/14834 | LR: 0.000291 | Train Loss: 2.0113 | Train PPL: 7.4733 | Step Time: 10.79s
+Step 3100 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 3101/14834 | LR: 0.000290 | Train Loss: 1.9200 | Train PPL: 6.8209 | Step Time: 10.78s
+Step 3200 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 3201/14834 | LR: 0.000289 | Train Loss: 1.7897 | Train PPL: 5.9875 | Step Time: 10.79s
+Step 3300 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 3301/14834 | LR: 0.000288 | Train Loss: 1.9559 | Train PPL: 7.0703 | Step Time: 10.78s
+Step 3400 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 3401/14834 | LR: 0.000286 | Train Loss: 2.1031 | Train PPL: 8.1919 | Step Time: 10.79s
+Step 3500 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 3501/14834 | LR: 0.000285 | Train Loss: 1.8283 | Train PPL: 6.2233 | Step Time: 10.78s
+Step 3600 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 3601/14834 | LR: 0.000284 | Train Loss: 1.9497 | Train PPL: 7.0269 | Step Time: 10.78s
+Step 3700 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 3701/14834 | LR: 0.000282 | Train Loss: 1.9392 | Train PPL: 6.9530 | Step Time: 10.79s
+Step 3800 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 3801/14834 | LR: 0.000280 | Train Loss: 1.8672 | Train PPL: 6.4701 | Step Time: 10.80s
+Step 3900 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 3901/14834 | LR: 0.000279 | Train Loss: 1.9496 | Train PPL: 7.0260 | Step Time: 10.79s
+Step 4000 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 4001/14834 | LR: 0.000277 | Train Loss: 2.1094 | Train PPL: 8.2436 | Step Time: 10.79s
+Step 4100 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 4101/14834 | LR: 0.000275 | Train Loss: 1.8845 | Train PPL: 6.5829 | Step Time: 10.78s
+Step 4200 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 4201/14834 | LR: 0.000273 | Train Loss: 1.6782 | Train PPL: 5.3559 | Step Time: 10.79s
+Step 4300 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 4301/14834 | LR: 0.000271 | Train Loss: 1.8044 | Train PPL: 6.0762 | Step Time: 10.79s
+Step 4400 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 4401/14834 | LR: 0.000269 | Train Loss: 1.6941 | Train PPL: 5.4415 | Step Time: 10.80s
+Step 4500 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 4501/14834 | LR: 0.000267 | Train Loss: 1.7535 | Train PPL: 5.7745 | Step Time: 10.81s
+Step 4600 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 4601/14834 | LR: 0.000265 | Train Loss: 1.7231 | Train PPL: 5.6017 | Step Time: 10.79s
+Step 4700 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 4701/14834 | LR: 0.000263 | Train Loss: 1.7350 | Train PPL: 5.6691 | Step Time: 10.80s
+Step 4800 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 4801/14834 | LR: 0.000261 | Train Loss: 1.7908 | Train PPL: 5.9944 | Step Time: 10.79s
+Step 4900 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 4901/14834 | LR: 0.000259 | Train Loss: 1.6985 | Train PPL: 5.4658 | Step Time: 10.81s
+Step 5000 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 5001/14834 | LR: 0.000256 | Train Loss: 1.7751 | Train PPL: 5.9008 | Step Time: 10.78s
+Step 5100 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 5101/14834 | LR: 0.000254 | Train Loss: 1.9171 | Train PPL: 6.8009 | Step Time: 10.78s
+Step 5200 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 5201/14834 | LR: 0.000252 | Train Loss: 1.8634 | Train PPL: 6.4457 | Step Time: 10.78s
+Step 5300 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 5301/14834 | LR: 0.000249 | Train Loss: 1.7785 | Train PPL: 5.9210 | Step Time: 10.78s
+Step 5400 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 5401/14834 | LR: 0.000247 | Train Loss: 1.7466 | Train PPL: 5.7349 | Step Time: 10.78s
+Step 5500 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 5501/14834 | LR: 0.000244 | Train Loss: 1.8685 | Train PPL: 6.4787 | Step Time: 10.78s
+Step 5600 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 5601/14834 | LR: 0.000241 | Train Loss: 1.9558 | Train PPL: 7.0694 | Step Time: 10.78s
+Step 5700 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 5701/14834 | LR: 0.000239 | Train Loss: 1.7851 | Train PPL: 5.9600 | Step Time: 10.78s
+Step 5800 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 5801/14834 | LR: 0.000236 | Train Loss: 1.7069 | Train PPL: 5.5117 | Step Time: 10.78s
+Step 5900 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 5901/14834 | LR: 0.000233 | Train Loss: 1.7425 | Train PPL: 5.7117 | Step Time: 10.78s
+Step 6000 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 6001/14834 | LR: 0.000231 | Train Loss: 1.5924 | Train PPL: 4.9154 | Step Time: 10.80s
+Step 6100 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 6101/14834 | LR: 0.000228 | Train Loss: 1.6383 | Train PPL: 5.1462 | Step Time: 10.78s
+Step 6200 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 6201/14834 | LR: 0.000225 | Train Loss: 1.7458 | Train PPL: 5.7308 | Step Time: 10.77s
+Step 6300 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 6301/14834 | LR: 0.000222 | Train Loss: 1.5746 | Train PPL: 4.8288 | Step Time: 10.78s
+Step 6400 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 6401/14834 | LR: 0.000219 | Train Loss: 1.7206 | Train PPL: 5.5878 | Step Time: 10.78s
+Step 6500 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 6501/14834 | LR: 0.000216 | Train Loss: 1.6630 | Train PPL: 5.2751 | Step Time: 10.78s
+Step 6600 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 6601/14834 | LR: 0.000213 | Train Loss: 1.6960 | Train PPL: 5.4522 | Step Time: 10.78s
+Step 6700 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 6701/14834 | LR: 0.000210 | Train Loss: 1.5738 | Train PPL: 4.8250 | Step Time: 10.78s
+Step 6800 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 6801/14834 | LR: 0.000207 | Train Loss: 1.9563 | Train PPL: 7.0732 | Step Time: 10.78s
+Step 6900 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 6901/14834 | LR: 0.000204 | Train Loss: 1.6591 | Train PPL: 5.2545 | Step Time: 10.78s
+Step 7000 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 7001/14834 | LR: 0.000201 | Train Loss: 1.6299 | Train PPL: 5.1033 | Step Time: 10.80s
+Step 7100 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 7101/14834 | LR: 0.000198 | Train Loss: 1.6844 | Train PPL: 5.3893 | Step Time: 10.80s
+Step 7200 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 7201/14834 | LR: 0.000195 | Train Loss: 1.7512 | Train PPL: 5.7615 | Step Time: 10.79s
+Step 7300 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 7301/14834 | LR: 0.000192 | Train Loss: 1.6674 | Train PPL: 5.2985 | Step Time: 10.79s
+Step 7400 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 7401/14834 | LR: 0.000189 | Train Loss: 1.5343 | Train PPL: 4.6381 | Step Time: 10.78s
+Step 7500 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 7501/14834 | LR: 0.000186 | Train Loss: 1.8267 | Train PPL: 6.2135 | Step Time: 10.78s
+Step 7600 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 7601/14834 | LR: 0.000183 | Train Loss: 1.6732 | Train PPL: 5.3291 | Step Time: 10.77s
+Step 7700 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 7701/14834 | LR: 0.000180 | Train Loss: 1.6844 | Train PPL: 5.3892 | Step Time: 10.78s
+Step 7800 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 7801/14834 | LR: 0.000176 | Train Loss: 1.5962 | Train PPL: 4.9345 | Step Time: 10.77s
+Step 7900 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 7901/14834 | LR: 0.000173 | Train Loss: 1.6559 | Train PPL: 5.2378 | Step Time: 10.78s
+Step 8000 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 8001/14834 | LR: 0.000170 | Train Loss: 1.4798 | Train PPL: 4.3921 | Step Time: 10.78s
+Step 8100 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 8101/14834 | LR: 0.000167 | Train Loss: 1.6591 | Train PPL: 5.2546 | Step Time: 10.77s
+Step 8200 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 8201/14834 | LR: 0.000164 | Train Loss: 1.4914 | Train PPL: 4.4433 | Step Time: 10.79s
+Step 8300 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 8301/14834 | LR: 0.000161 | Train Loss: 1.5582 | Train PPL: 4.7505 | Step Time: 10.78s
+Step 8400 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 8401/14834 | LR: 0.000157 | Train Loss: 1.5946 | Train PPL: 4.9262 | Step Time: 10.78s
+Step 8500 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 8501/14834 | LR: 0.000154 | Train Loss: 1.5551 | Train PPL: 4.7357 | Step Time: 10.78s
+Step 8600 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 8601/14834 | LR: 0.000151 | Train Loss: 1.6503 | Train PPL: 5.2087 | Step Time: 10.79s
+Step 8700 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 8701/14834 | LR: 0.000148 | Train Loss: 1.7964 | Train PPL: 6.0279 | Step Time: 10.79s
+Step 8800 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 8801/14834 | LR: 0.000145 | Train Loss: 1.6059 | Train PPL: 4.9824 | Step Time: 10.79s
+Step 8900 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 8901/14834 | LR: 0.000142 | Train Loss: 1.6053 | Train PPL: 4.9791 | Step Time: 10.78s
+Step 9000 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 9001/14834 | LR: 0.000138 | Train Loss: 1.6090 | Train PPL: 4.9980 | Step Time: 10.78s
+Step 9100 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 9101/14834 | LR: 0.000135 | Train Loss: 1.6560 | Train PPL: 5.2385 | Step Time: 10.79s
+Step 9200 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 9201/14834 | LR: 0.000132 | Train Loss: 1.6943 | Train PPL: 5.4430 | Step Time: 10.78s
+Step 9300 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 9301/14834 | LR: 0.000129 | Train Loss: 1.5297 | Train PPL: 4.6167 | Step Time: 10.79s
+Step 9400 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 9401/14834 | LR: 0.000126 | Train Loss: 1.5130 | Train PPL: 4.5405 | Step Time: 10.79s
+Step 9500 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 9501/14834 | LR: 0.000123 | Train Loss: 1.4972 | Train PPL: 4.4693 | Step Time: 10.77s
+Step 9600 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 9601/14834 | LR: 0.000120 | Train Loss: 1.6006 | Train PPL: 4.9561 | Step Time: 10.78s
+Step 9700 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 9701/14834 | LR: 0.000117 | Train Loss: 1.6110 | Train PPL: 5.0080 | Step Time: 10.78s
+Step 9800 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 9801/14834 | LR: 0.000114 | Train Loss: 1.6179 | Train PPL: 5.0425 | Step Time: 10.77s
+Step 9900 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 9901/14834 | LR: 0.000111 | Train Loss: 1.3911 | Train PPL: 4.0195 | Step Time: 10.79s
+Step 10000 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 10001/14834 | LR: 0.000108 | Train Loss: 1.5987 | Train PPL: 4.9466 | Step Time: 10.79s
+Step 10100 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 10101/14834 | LR: 0.000105 | Train Loss: 1.5570 | Train PPL: 4.7447 | Step Time: 10.79s
+Step 10200 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 10201/14834 | LR: 0.000103 | Train Loss: 1.6839 | Train PPL: 5.3867 | Step Time: 10.81s
+Step 10300 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 10301/14834 | LR: 0.000100 | Train Loss: 1.5716 | Train PPL: 4.8145 | Step Time: 10.79s
+Step 10400 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 10401/14834 | LR: 0.000097 | Train Loss: 1.6491 | Train PPL: 5.2022 | Step Time: 10.79s
+Step 10500 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 10501/14834 | LR: 0.000094 | Train Loss: 1.4711 | Train PPL: 4.3540 | Step Time: 10.79s
+Step 10600 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 10601/14834 | LR: 0.000092 | Train Loss: 1.4645 | Train PPL: 4.3252 | Step Time: 10.77s
+Step 10700 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 10701/14834 | LR: 0.000089 | Train Loss: 1.5499 | Train PPL: 4.7110 | Step Time: 10.77s
+Step 10800 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 10801/14834 | LR: 0.000086 | Train Loss: 1.5567 | Train PPL: 4.7432 | Step Time: 10.80s
+Step 10900 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 10901/14834 | LR: 0.000084 | Train Loss: 1.7091 | Train PPL: 5.5242 | Step Time: 10.78s
+Step 11000 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 11001/14834 | LR: 0.000081 | Train Loss: 1.5890 | Train PPL: 4.8987 | Step Time: 10.78s
+Step 11100 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 11101/14834 | LR: 0.000079 | Train Loss: 1.5501 | Train PPL: 4.7120 | Step Time: 10.78s
+Step 11200 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 11201/14834 | LR: 0.000076 | Train Loss: 1.5425 | Train PPL: 4.6761 | Step Time: 10.80s
+Step 11300 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 11301/14834 | LR: 0.000074 | Train Loss: 1.5030 | Train PPL: 4.4952 | Step Time: 10.78s
+Step 11400 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 11401/14834 | LR: 0.000072 | Train Loss: 1.3340 | Train PPL: 3.7963 | Step Time: 10.79s
+Step 11500 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 11501/14834 | LR: 0.000069 | Train Loss: 1.5636 | Train PPL: 4.7760 | Step Time: 10.79s
+Step 11600 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 11601/14834 | LR: 0.000067 | Train Loss: 1.5683 | Train PPL: 4.7984 | Step Time: 10.81s
+Step 11700 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 11701/14834 | LR: 0.000065 | Train Loss: 1.6135 | Train PPL: 5.0202 | Step Time: 10.78s
+Step 11800 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 11801/14834 | LR: 0.000063 | Train Loss: 1.4246 | Train PPL: 4.1563 | Step Time: 10.78s
+Step 11900 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 11901/14834 | LR: 0.000061 | Train Loss: 1.5394 | Train PPL: 4.6616 | Step Time: 10.78s
+Step 12000 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 12001/14834 | LR: 0.000059 | Train Loss: 1.4613 | Train PPL: 4.3116 | Step Time: 10.78s
+Step 12100 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 12101/14834 | LR: 0.000057 | Train Loss: 1.7334 | Train PPL: 5.6599 | Step Time: 10.78s
+Step 12200 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 12201/14834 | LR: 0.000055 | Train Loss: 1.3564 | Train PPL: 3.8822 | Step Time: 10.78s
+Step 12300 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 12301/14834 | LR: 0.000053 | Train Loss: 1.4880 | Train PPL: 4.4283 | Step Time: 10.78s
+Step 12400 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 12401/14834 | LR: 0.000052 | Train Loss: 1.3743 | Train PPL: 3.9524 | Step Time: 10.79s
+Step 12500 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 12501/14834 | LR: 0.000050 | Train Loss: 1.4071 | Train PPL: 4.0842 | Step Time: 10.78s
+Step 12600 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 12601/14834 | LR: 0.000048 | Train Loss: 1.3573 | Train PPL: 3.8858 | Step Time: 10.78s
+Step 12700 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 12701/14834 | LR: 0.000047 | Train Loss: 1.3741 | Train PPL: 3.9515 | Step Time: 10.80s
+Step 12800 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 12801/14834 | LR: 0.000045 | Train Loss: 1.3869 | Train PPL: 4.0024 | Step Time: 10.79s
+Step 12900 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 12901/14834 | LR: 0.000044 | Train Loss: 1.3346 | Train PPL: 3.7983 | Step Time: 10.78s
+Step 13000 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 13001/14834 | LR: 0.000042 | Train Loss: 1.4046 | Train PPL: 4.0738 | Step Time: 10.78s
+Step 13100 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 13101/14834 | LR: 0.000041 | Train Loss: 1.5526 | Train PPL: 4.7240 | Step Time: 10.78s
+Step 13200 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 13201/14834 | LR: 0.000040 | Train Loss: 1.5044 | Train PPL: 4.5013 | Step Time: 10.78s
+Step 13300 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 13301/14834 | LR: 0.000039 | Train Loss: 1.3657 | Train PPL: 3.9183 | Step Time: 10.78s
+Step 13400 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 13401/14834 | LR: 0.000038 | Train Loss: 1.4707 | Train PPL: 4.3524 | Step Time: 10.78s
+Step 13500 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 13501/14834 | LR: 0.000037 | Train Loss: 1.5936 | Train PPL: 4.9214 | Step Time: 10.78s
+Step 13600 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 13601/14834 | LR: 0.000036 | Train Loss: 1.5545 | Train PPL: 4.7328 | Step Time: 10.79s
+Step 13700 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 13701/14834 | LR: 0.000035 | Train Loss: 1.6025 | Train PPL: 4.9656 | Step Time: 10.78s
+Step 13800 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 13801/14834 | LR: 0.000034 | Train Loss: 1.3417 | Train PPL: 3.8256 | Step Time: 10.80s
+Step 13900 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 13901/14834 | LR: 0.000033 | Train Loss: 1.7433 | Train PPL: 5.7162 | Step Time: 10.78s
+Step 14000 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 14001/14834 | LR: 0.000033 | Train Loss: 1.3649 | Train PPL: 3.9152 | Step Time: 10.79s
+Step 14100 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 14101/14834 | LR: 0.000032 | Train Loss: 1.5250 | Train PPL: 4.5950 | Step Time: 10.78s
+Step 14200 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 14201/14834 | LR: 0.000031 | Train Loss: 1.3796 | Train PPL: 3.9732 | Step Time: 10.79s
+Step 14300 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 14301/14834 | LR: 0.000031 | Train Loss: 1.4516 | Train PPL: 4.2697 | Step Time: 10.79s
+Step 14400 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 14401/14834 | LR: 0.000031 | Train Loss: 1.4077 | Train PPL: 4.0865 | Step Time: 10.79s
+Step 14500 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 14501/14834 | LR: 0.000030 | Train Loss: 1.6543 | Train PPL: 5.2294 | Step Time: 10.78s
+Step 14600 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 14601/14834 | LR: 0.000030 | Train Loss: 1.3466 | Train PPL: 3.8444 | Step Time: 10.78s
+Step 14700 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 14701/14834 | LR: 0.000030 | Train Loss: 1.4615 | Train PPL: 4.3124 | Step Time: 10.78s
+Step 14800 | 实时内存: 3532.53 MB (GPU)
+Epoch 1 | Step 14801/14834 | LR: 0.000030 | Train Loss: 1.6759 | Train PPL: 5.3438 | Step Time: 10.78s
+[Epoch 1 训练完成] 耗时: 1599.38s | 平均Loss: 1.8977 | 内存占用: 3532.53 MB (GPU)
+[Epoch 1 END] Train Avg Loss: 1.8977 | Train PPL: 6.67
+
+[Epoch 1 验证完成] 耗时: 125.63s | 验证Loss: 1.4679 | 内存占用: 3335.47 MB (GPU)
+[Epoch 1 END] Val Avg Loss: 1.4679 | Val PPL: 4.34

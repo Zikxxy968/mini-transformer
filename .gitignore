@@ -23,3 +23,16 @@ Assignment1_Ablations/data.in
 *.log
 train_ppl.png
 val_ppl.png
+# Keep lightweight training artifacts
+!logs/
+!logs/*.log
+!ckpt_tinystories_300mb_1024d6l/
+!ckpt_tinystories_300mb_1024d6l/.gitkeep
+!ckpt_tinystories_300mb_1024d6l/*.png
+!data/raw/.gitkeep
+
+# Keep raw data directory placeholder
+!data/
+data/raw/*
+!data/raw/
+!data/raw/.gitkeep
