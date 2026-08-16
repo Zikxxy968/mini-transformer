@@ -1,0 +1,2560 @@
+Using Device: cuda
+Model parameters: 326.93M
+
+--- Epoch 1 ---
+Initial memory: 1248.35 MB (GPU)
+Batch 0 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 1/135018 | LR: 0.000000 | Train Loss: 10.8510 | Train PPL: 51584.0300 | Interval Time: 1.09s
+Batch 100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 101/135018 | LR: 0.000002 | Train Loss: 10.1837 | Train PPL: 26469.0666 | Interval Time: 46.96s
+Batch 200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 201/135018 | LR: 0.000004 | Train Loss: 9.0780 | Train PPL: 8760.2194 | Interval Time: 47.32s
+Batch 300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 301/135018 | LR: 0.000007 | Train Loss: 7.7085 | Train PPL: 2227.1233 | Interval Time: 47.40s
+Batch 400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 401/135018 | LR: 0.000009 | Train Loss: 6.3110 | Train PPL: 550.5755 | Interval Time: 47.49s
+Batch 500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 501/135018 | LR: 0.000011 | Train Loss: 5.2255 | Train PPL: 185.9472 | Interval Time: 47.50s
+Batch 600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 601/135018 | LR: 0.000013 | Train Loss: 4.4137 | Train PPL: 82.5719 | Interval Time: 47.57s
+Batch 700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 701/135018 | LR: 0.000016 | Train Loss: 4.2058 | Train PPL: 67.0733 | Interval Time: 47.39s
+Batch 800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 801/135018 | LR: 0.000018 | Train Loss: 3.8222 | Train PPL: 45.7049 | Interval Time: 47.47s
+Batch 900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 901/135018 | LR: 0.000020 | Train Loss: 3.5141 | Train PPL: 33.5870 | Interval Time: 47.57s
+Batch 1000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 1001/135018 | LR: 0.000022 | Train Loss: 3.4209 | Train PPL: 30.5980 | Interval Time: 47.59s
+Batch 1100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 1101/135018 | LR: 0.000024 | Train Loss: 3.1229 | Train PPL: 22.7131 | Interval Time: 47.58s
+Batch 1200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 1201/135018 | LR: 0.000027 | Train Loss: 3.2014 | Train PPL: 24.5675 | Interval Time: 47.59s
+Batch 1300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 1301/135018 | LR: 0.000029 | Train Loss: 3.1310 | Train PPL: 22.8978 | Interval Time: 47.55s
+Batch 1400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 1401/135018 | LR: 0.000031 | Train Loss: 2.8157 | Train PPL: 16.7043 | Interval Time: 47.55s
+Batch 1500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 1501/135018 | LR: 0.000033 | Train Loss: 2.8549 | Train PPL: 17.3735 | Interval Time: 47.57s
+Batch 1600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 1601/135018 | LR: 0.000036 | Train Loss: 2.8656 | Train PPL: 17.5588 | Interval Time: 47.59s
+Batch 1700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 1701/135018 | LR: 0.000038 | Train Loss: 2.7140 | Train PPL: 15.0900 | Interval Time: 47.58s
+Batch 1800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 1801/135018 | LR: 0.000040 | Train Loss: 2.6083 | Train PPL: 13.5759 | Interval Time: 47.58s
+Batch 1900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 1901/135018 | LR: 0.000042 | Train Loss: 2.6776 | Train PPL: 14.5496 | Interval Time: 47.59s
+Batch 2000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 2001/135018 | LR: 0.000044 | Train Loss: 2.8351 | Train PPL: 17.0325 | Interval Time: 47.54s
+Batch 2100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 2101/135018 | LR: 0.000047 | Train Loss: 2.4961 | Train PPL: 12.1357 | Interval Time: 47.53s
+Batch 2200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 2201/135018 | LR: 0.000049 | Train Loss: 2.5162 | Train PPL: 12.3814 | Interval Time: 47.54s
+Batch 2300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 2301/135018 | LR: 0.000051 | Train Loss: 2.4823 | Train PPL: 11.9683 | Interval Time: 47.49s
+Batch 2400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 2401/135018 | LR: 0.000053 | Train Loss: 2.2358 | Train PPL: 9.3536 | Interval Time: 47.53s
+Batch 2500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 2501/135018 | LR: 0.000056 | Train Loss: 2.3504 | Train PPL: 10.4893 | Interval Time: 47.50s
+Batch 2600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 2601/135018 | LR: 0.000058 | Train Loss: 2.3688 | Train PPL: 10.6843 | Interval Time: 47.52s
+Batch 2700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 2701/135018 | LR: 0.000060 | Train Loss: 2.3428 | Train PPL: 10.4100 | Interval Time: 47.45s
+Batch 2800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 2801/135018 | LR: 0.000062 | Train Loss: 2.3152 | Train PPL: 10.1271 | Interval Time: 47.36s
+Batch 2900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 2901/135018 | LR: 0.000064 | Train Loss: 2.4710 | Train PPL: 11.8345 | Interval Time: 47.24s
+Batch 3000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 3001/135018 | LR: 0.000067 | Train Loss: 2.2946 | Train PPL: 9.9201 | Interval Time: 47.30s
+Batch 3100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 3101/135018 | LR: 0.000069 | Train Loss: 2.2881 | Train PPL: 9.8560 | Interval Time: 47.22s
+Batch 3200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 3201/135018 | LR: 0.000071 | Train Loss: 2.1537 | Train PPL: 8.6163 | Interval Time: 47.10s
+Batch 3300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 3301/135018 | LR: 0.000073 | Train Loss: 2.2072 | Train PPL: 9.0902 | Interval Time: 47.08s
+Batch 3400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 3401/135018 | LR: 0.000076 | Train Loss: 2.0114 | Train PPL: 7.4737 | Interval Time: 47.09s
+Batch 3500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 3501/135018 | LR: 0.000078 | Train Loss: 2.2333 | Train PPL: 9.3307 | Interval Time: 47.09s
+Batch 3600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 3601/135018 | LR: 0.000080 | Train Loss: 2.0589 | Train PPL: 7.8373 | Interval Time: 47.13s
+Batch 3700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 3701/135018 | LR: 0.000082 | Train Loss: 2.0893 | Train PPL: 8.0790 | Interval Time: 47.10s
+Batch 3800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 3801/135018 | LR: 0.000084 | Train Loss: 2.2029 | Train PPL: 9.0514 | Interval Time: 47.18s
+Batch 3900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 3901/135018 | LR: 0.000087 | Train Loss: 2.0676 | Train PPL: 7.9058 | Interval Time: 47.11s
+Batch 4000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 4001/135018 | LR: 0.000089 | Train Loss: 2.0979 | Train PPL: 8.1492 | Interval Time: 47.21s
+Batch 4100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 4101/135018 | LR: 0.000091 | Train Loss: 1.9014 | Train PPL: 6.6953 | Interval Time: 47.15s
+Batch 4200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 4201/135018 | LR: 0.000093 | Train Loss: 1.9055 | Train PPL: 6.7228 | Interval Time: 47.21s
+Batch 4300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 4301/135018 | LR: 0.000096 | Train Loss: 2.1573 | Train PPL: 8.6477 | Interval Time: 47.13s
+Batch 4400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 4401/135018 | LR: 0.000098 | Train Loss: 2.0479 | Train PPL: 7.7520 | Interval Time: 47.20s
+Batch 4500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 4501/135018 | LR: 0.000100 | Train Loss: 1.9415 | Train PPL: 6.9692 | Interval Time: 47.13s
+Batch 4600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 4601/135018 | LR: 0.000102 | Train Loss: 1.9307 | Train PPL: 6.8945 | Interval Time: 47.16s
+Batch 4700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 4701/135018 | LR: 0.000104 | Train Loss: 1.9029 | Train PPL: 6.7051 | Interval Time: 47.15s
+Batch 4800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 4801/135018 | LR: 0.000107 | Train Loss: 1.9511 | Train PPL: 7.0361 | Interval Time: 47.14s
+Batch 4900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 4901/135018 | LR: 0.000109 | Train Loss: 1.7879 | Train PPL: 5.9768 | Interval Time: 47.10s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 5000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 5001/135018 | LR: 0.000111 | Train Loss: 1.8739 | Train PPL: 6.5133 | Interval Time: 55.67s
+Batch 5100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 5101/135018 | LR: 0.000113 | Train Loss: 1.7960 | Train PPL: 6.0255 | Interval Time: 46.88s
+Batch 5200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 5201/135018 | LR: 0.000116 | Train Loss: 1.8463 | Train PPL: 6.3366 | Interval Time: 47.02s
+Batch 5300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 5301/135018 | LR: 0.000118 | Train Loss: 1.8065 | Train PPL: 6.0890 | Interval Time: 47.03s
+Batch 5400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 5401/135018 | LR: 0.000120 | Train Loss: 1.9363 | Train PPL: 6.9329 | Interval Time: 47.02s
+Batch 5500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 5501/135018 | LR: 0.000122 | Train Loss: 1.7747 | Train PPL: 5.8982 | Interval Time: 47.08s
+Batch 5600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 5601/135018 | LR: 0.000124 | Train Loss: 1.8209 | Train PPL: 6.1772 | Interval Time: 47.03s
+Batch 5700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 5701/135018 | LR: 0.000127 | Train Loss: 1.8019 | Train PPL: 6.0609 | Interval Time: 47.03s
+Batch 5800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 5801/135018 | LR: 0.000129 | Train Loss: 1.8075 | Train PPL: 6.0954 | Interval Time: 47.03s
+Batch 5900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 5901/135018 | LR: 0.000131 | Train Loss: 1.7631 | Train PPL: 5.8307 | Interval Time: 47.07s
+Batch 6000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 6001/135018 | LR: 0.000133 | Train Loss: 1.7803 | Train PPL: 5.9316 | Interval Time: 47.07s
+Batch 6100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 6101/135018 | LR: 0.000136 | Train Loss: 1.8464 | Train PPL: 6.3370 | Interval Time: 47.01s
+Batch 6200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 6201/135018 | LR: 0.000138 | Train Loss: 1.5691 | Train PPL: 4.8025 | Interval Time: 47.01s
+Batch 6300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 6301/135018 | LR: 0.000140 | Train Loss: 1.7114 | Train PPL: 5.5369 | Interval Time: 47.02s
+Batch 6400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 6401/135018 | LR: 0.000142 | Train Loss: 1.7929 | Train PPL: 6.0068 | Interval Time: 47.00s
+Batch 6500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 6501/135018 | LR: 0.000144 | Train Loss: 1.8779 | Train PPL: 6.5397 | Interval Time: 46.98s
+Batch 6600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 6601/135018 | LR: 0.000147 | Train Loss: 1.7537 | Train PPL: 5.7762 | Interval Time: 46.96s
+Batch 6700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 6701/135018 | LR: 0.000149 | Train Loss: 1.7168 | Train PPL: 5.5665 | Interval Time: 47.03s
+Batch 6800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 6801/135018 | LR: 0.000151 | Train Loss: 1.6568 | Train PPL: 5.2427 | Interval Time: 47.00s
+Batch 6900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 6901/135018 | LR: 0.000153 | Train Loss: 1.8977 | Train PPL: 6.6708 | Interval Time: 46.99s
+Batch 7000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 7001/135018 | LR: 0.000156 | Train Loss: 1.6746 | Train PPL: 5.3369 | Interval Time: 46.99s
+Batch 7100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 7101/135018 | LR: 0.000158 | Train Loss: 1.7153 | Train PPL: 5.5586 | Interval Time: 47.11s
+Batch 7200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 7201/135018 | LR: 0.000160 | Train Loss: 1.7024 | Train PPL: 5.4870 | Interval Time: 47.08s
+Batch 7300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 7301/135018 | LR: 0.000162 | Train Loss: 1.6170 | Train PPL: 5.0379 | Interval Time: 47.01s
+Batch 7400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 7401/135018 | LR: 0.000164 | Train Loss: 1.6170 | Train PPL: 5.0378 | Interval Time: 47.06s
+Batch 7500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 7501/135018 | LR: 0.000167 | Train Loss: 1.6611 | Train PPL: 5.2651 | Interval Time: 47.03s
+Batch 7600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 7601/135018 | LR: 0.000169 | Train Loss: 1.7301 | Train PPL: 5.6412 | Interval Time: 47.02s
+Batch 7700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 7701/135018 | LR: 0.000171 | Train Loss: 1.7206 | Train PPL: 5.5877 | Interval Time: 47.12s
+Batch 7800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 7801/135018 | LR: 0.000173 | Train Loss: 1.7163 | Train PPL: 5.5639 | Interval Time: 47.11s
+Batch 7900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 7901/135018 | LR: 0.000176 | Train Loss: 1.8002 | Train PPL: 6.0509 | Interval Time: 47.08s
+Batch 8000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 8001/135018 | LR: 0.000178 | Train Loss: 1.7603 | Train PPL: 5.8139 | Interval Time: 47.06s
+Batch 8100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 8101/135018 | LR: 0.000180 | Train Loss: 1.6697 | Train PPL: 5.3108 | Interval Time: 47.06s
+Batch 8200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 8201/135018 | LR: 0.000182 | Train Loss: 1.7306 | Train PPL: 5.6443 | Interval Time: 47.07s
+Batch 8300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 8301/135018 | LR: 0.000184 | Train Loss: 1.6347 | Train PPL: 5.1278 | Interval Time: 47.13s
+Batch 8400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 8401/135018 | LR: 0.000187 | Train Loss: 1.7534 | Train PPL: 5.7744 | Interval Time: 47.16s
+Batch 8500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 8501/135018 | LR: 0.000189 | Train Loss: 1.7041 | Train PPL: 5.4962 | Interval Time: 47.15s
+Batch 8600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 8601/135018 | LR: 0.000191 | Train Loss: 1.7615 | Train PPL: 5.8209 | Interval Time: 47.10s
+Batch 8700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 8701/135018 | LR: 0.000193 | Train Loss: 1.5761 | Train PPL: 4.8360 | Interval Time: 47.17s
+Batch 8800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 8801/135018 | LR: 0.000196 | Train Loss: 1.5840 | Train PPL: 4.8743 | Interval Time: 47.19s
+Batch 8900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 8901/135018 | LR: 0.000198 | Train Loss: 1.6044 | Train PPL: 4.9750 | Interval Time: 47.15s
+Batch 9000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 9001/135018 | LR: 0.000200 | Train Loss: 1.4491 | Train PPL: 4.2593 | Interval Time: 47.16s
+Batch 9100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 9101/135018 | LR: 0.000202 | Train Loss: 1.6314 | Train PPL: 5.1108 | Interval Time: 47.14s
+Batch 9200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 9201/135018 | LR: 0.000204 | Train Loss: 1.6681 | Train PPL: 5.3020 | Interval Time: 47.19s
+Batch 9300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 9301/135018 | LR: 0.000207 | Train Loss: 1.5249 | Train PPL: 4.5948 | Interval Time: 47.16s
+Batch 9400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 9401/135018 | LR: 0.000209 | Train Loss: 1.6153 | Train PPL: 5.0295 | Interval Time: 47.09s
+Batch 9500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 9501/135018 | LR: 0.000211 | Train Loss: 1.8342 | Train PPL: 6.2604 | Interval Time: 47.16s
+Batch 9600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 9601/135018 | LR: 0.000213 | Train Loss: 1.6289 | Train PPL: 5.0983 | Interval Time: 47.12s
+Batch 9700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 9701/135018 | LR: 0.000216 | Train Loss: 1.5989 | Train PPL: 4.9478 | Interval Time: 47.18s
+Batch 9800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 9801/135018 | LR: 0.000218 | Train Loss: 1.4968 | Train PPL: 4.4676 | Interval Time: 47.07s
+Batch 9900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 9901/135018 | LR: 0.000220 | Train Loss: 1.6489 | Train PPL: 5.2013 | Interval Time: 47.17s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 10000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 10001/135018 | LR: 0.000222 | Train Loss: 1.6429 | Train PPL: 5.1701 | Interval Time: 56.09s
+Batch 10100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 10101/135018 | LR: 0.000224 | Train Loss: 1.7977 | Train PPL: 6.0356 | Interval Time: 46.95s
+Batch 10200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 10201/135018 | LR: 0.000227 | Train Loss: 1.5117 | Train PPL: 4.5346 | Interval Time: 47.12s
+Batch 10300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 10301/135018 | LR: 0.000229 | Train Loss: 1.5037 | Train PPL: 4.4983 | Interval Time: 47.06s
+Batch 10400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 10401/135018 | LR: 0.000231 | Train Loss: 1.6456 | Train PPL: 5.1840 | Interval Time: 47.01s
+Batch 10500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 10501/135018 | LR: 0.000233 | Train Loss: 1.6908 | Train PPL: 5.4237 | Interval Time: 47.04s
+Batch 10600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 10601/135018 | LR: 0.000236 | Train Loss: 1.7002 | Train PPL: 5.4749 | Interval Time: 46.97s
+Batch 10700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 10701/135018 | LR: 0.000238 | Train Loss: 1.5631 | Train PPL: 4.7737 | Interval Time: 46.99s
+Batch 10800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 10801/135018 | LR: 0.000240 | Train Loss: 1.7456 | Train PPL: 5.7295 | Interval Time: 47.01s
+Batch 10900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 10901/135018 | LR: 0.000242 | Train Loss: 1.6629 | Train PPL: 5.2747 | Interval Time: 47.03s
+Batch 11000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 11001/135018 | LR: 0.000244 | Train Loss: 1.4960 | Train PPL: 4.4638 | Interval Time: 46.99s
+Batch 11100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 11101/135018 | LR: 0.000247 | Train Loss: 1.5353 | Train PPL: 4.6427 | Interval Time: 47.06s
+Batch 11200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 11201/135018 | LR: 0.000249 | Train Loss: 1.5169 | Train PPL: 4.5581 | Interval Time: 47.03s
+Batch 11300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 11301/135018 | LR: 0.000251 | Train Loss: 1.5464 | Train PPL: 4.6945 | Interval Time: 47.00s
+Batch 11400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 11401/135018 | LR: 0.000253 | Train Loss: 1.6685 | Train PPL: 5.3045 | Interval Time: 47.07s
+Batch 11500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 11501/135018 | LR: 0.000256 | Train Loss: 1.6626 | Train PPL: 5.2728 | Interval Time: 47.01s
+Batch 11600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 11601/135018 | LR: 0.000258 | Train Loss: 1.4808 | Train PPL: 4.3963 | Interval Time: 47.01s
+Batch 11700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 11701/135018 | LR: 0.000260 | Train Loss: 1.6080 | Train PPL: 4.9929 | Interval Time: 47.09s
+Batch 11800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 11801/135018 | LR: 0.000262 | Train Loss: 1.6101 | Train PPL: 5.0031 | Interval Time: 46.99s
+Batch 11900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 11901/135018 | LR: 0.000264 | Train Loss: 1.4213 | Train PPL: 4.1425 | Interval Time: 47.01s
+Batch 12000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 12001/135018 | LR: 0.000267 | Train Loss: 1.5362 | Train PPL: 4.6470 | Interval Time: 47.00s
+Batch 12100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 12101/135018 | LR: 0.000269 | Train Loss: 1.6895 | Train PPL: 5.4169 | Interval Time: 47.08s
+Batch 12200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 12201/135018 | LR: 0.000271 | Train Loss: 1.5509 | Train PPL: 4.7157 | Interval Time: 47.03s
+Batch 12300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 12301/135018 | LR: 0.000273 | Train Loss: 1.7059 | Train PPL: 5.5066 | Interval Time: 47.03s
+Batch 12400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 12401/135018 | LR: 0.000276 | Train Loss: 1.4909 | Train PPL: 4.4410 | Interval Time: 47.09s
+Batch 12500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 12501/135018 | LR: 0.000278 | Train Loss: 1.6014 | Train PPL: 4.9598 | Interval Time: 47.10s
+Batch 12600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 12601/135018 | LR: 0.000280 | Train Loss: 1.5645 | Train PPL: 4.7805 | Interval Time: 47.10s
+Batch 12700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 12701/135018 | LR: 0.000282 | Train Loss: 1.5315 | Train PPL: 4.6250 | Interval Time: 47.10s
+Batch 12800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 12801/135018 | LR: 0.000284 | Train Loss: 1.4706 | Train PPL: 4.3519 | Interval Time: 47.18s
+Batch 12900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 12901/135018 | LR: 0.000287 | Train Loss: 1.5390 | Train PPL: 4.6598 | Interval Time: 47.05s
+Batch 13000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 13001/135018 | LR: 0.000289 | Train Loss: 1.5608 | Train PPL: 4.7627 | Interval Time: 47.11s
+Batch 13100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 13101/135018 | LR: 0.000291 | Train Loss: 1.5781 | Train PPL: 4.8455 | Interval Time: 47.15s
+Batch 13200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 13201/135018 | LR: 0.000293 | Train Loss: 1.5082 | Train PPL: 4.5185 | Interval Time: 47.12s
+Batch 13300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 13301/135018 | LR: 0.000296 | Train Loss: 1.4530 | Train PPL: 4.2757 | Interval Time: 47.17s
+Batch 13400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 13401/135018 | LR: 0.000298 | Train Loss: 1.6303 | Train PPL: 5.1052 | Interval Time: 47.17s
+Batch 13500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 13501/135018 | LR: 0.000300 | Train Loss: 1.5617 | Train PPL: 4.7667 | Interval Time: 47.10s
+Batch 13600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 13601/135018 | LR: 0.000300 | Train Loss: 1.4984 | Train PPL: 4.4746 | Interval Time: 47.06s
+Batch 13700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 13701/135018 | LR: 0.000300 | Train Loss: 1.6116 | Train PPL: 5.0107 | Interval Time: 47.11s
+Batch 13800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 13801/135018 | LR: 0.000300 | Train Loss: 1.6763 | Train PPL: 5.3457 | Interval Time: 47.08s
+Batch 13900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 13901/135018 | LR: 0.000300 | Train Loss: 1.6436 | Train PPL: 5.1735 | Interval Time: 47.06s
+Batch 14000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 14001/135018 | LR: 0.000300 | Train Loss: 1.4723 | Train PPL: 4.3593 | Interval Time: 47.04s
+Batch 14100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 14101/135018 | LR: 0.000300 | Train Loss: 1.5445 | Train PPL: 4.6854 | Interval Time: 47.16s
+Batch 14200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 14201/135018 | LR: 0.000300 | Train Loss: 1.6534 | Train PPL: 5.2249 | Interval Time: 47.10s
+Batch 14300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 14301/135018 | LR: 0.000300 | Train Loss: 1.5638 | Train PPL: 4.7769 | Interval Time: 47.13s
+Batch 14400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 14401/135018 | LR: 0.000300 | Train Loss: 1.6221 | Train PPL: 5.0638 | Interval Time: 47.08s
+Batch 14500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 14501/135018 | LR: 0.000300 | Train Loss: 1.4826 | Train PPL: 4.4043 | Interval Time: 47.10s
+Batch 14600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 14601/135018 | LR: 0.000300 | Train Loss: 1.6017 | Train PPL: 4.9615 | Interval Time: 47.22s
+Batch 14700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 14701/135018 | LR: 0.000300 | Train Loss: 1.5223 | Train PPL: 4.5829 | Interval Time: 47.20s
+Batch 14800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 14801/135018 | LR: 0.000300 | Train Loss: 1.4732 | Train PPL: 4.3634 | Interval Time: 47.12s
+Batch 14900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 14901/135018 | LR: 0.000300 | Train Loss: 1.4384 | Train PPL: 4.2141 | Interval Time: 47.18s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 15000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 15001/135018 | LR: 0.000300 | Train Loss: 1.4450 | Train PPL: 4.2417 | Interval Time: 57.31s
+Batch 15100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 15101/135018 | LR: 0.000300 | Train Loss: 1.4165 | Train PPL: 4.1229 | Interval Time: 46.95s
+Batch 15200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 15201/135018 | LR: 0.000300 | Train Loss: 1.4357 | Train PPL: 4.2024 | Interval Time: 47.02s
+Batch 15300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 15301/135018 | LR: 0.000300 | Train Loss: 1.5921 | Train PPL: 4.9138 | Interval Time: 47.14s
+Batch 15400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 15401/135018 | LR: 0.000300 | Train Loss: 1.6027 | Train PPL: 4.9663 | Interval Time: 47.13s
+Batch 15500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 15501/135018 | LR: 0.000300 | Train Loss: 1.5136 | Train PPL: 4.5430 | Interval Time: 47.14s
+Batch 15600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 15601/135018 | LR: 0.000300 | Train Loss: 1.5309 | Train PPL: 4.6225 | Interval Time: 47.16s
+Batch 15700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 15701/135018 | LR: 0.000300 | Train Loss: 1.4779 | Train PPL: 4.3837 | Interval Time: 47.11s
+Batch 15800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 15801/135018 | LR: 0.000300 | Train Loss: 1.4428 | Train PPL: 4.2327 | Interval Time: 47.18s
+Batch 15900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 15901/135018 | LR: 0.000300 | Train Loss: 1.5119 | Train PPL: 4.5351 | Interval Time: 47.04s
+Batch 16000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 16001/135018 | LR: 0.000300 | Train Loss: 1.4666 | Train PPL: 4.3347 | Interval Time: 47.12s
+Batch 16100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 16101/135018 | LR: 0.000300 | Train Loss: 1.4492 | Train PPL: 4.2596 | Interval Time: 47.19s
+Batch 16200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 16201/135018 | LR: 0.000300 | Train Loss: 1.5010 | Train PPL: 4.4860 | Interval Time: 47.16s
+Batch 16300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 16301/135018 | LR: 0.000300 | Train Loss: 1.5365 | Train PPL: 4.6484 | Interval Time: 47.19s
+Batch 16400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 16401/135018 | LR: 0.000300 | Train Loss: 1.4987 | Train PPL: 4.4760 | Interval Time: 47.17s
+Batch 16500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 16501/135018 | LR: 0.000300 | Train Loss: 1.5063 | Train PPL: 4.5102 | Interval Time: 47.21s
+Batch 16600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 16601/135018 | LR: 0.000300 | Train Loss: 1.3935 | Train PPL: 4.0289 | Interval Time: 47.14s
+Batch 16700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 16701/135018 | LR: 0.000300 | Train Loss: 1.4655 | Train PPL: 4.3299 | Interval Time: 47.11s
+Batch 16800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 16801/135018 | LR: 0.000300 | Train Loss: 1.5041 | Train PPL: 4.4999 | Interval Time: 47.17s
+Batch 16900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 16901/135018 | LR: 0.000299 | Train Loss: 1.4310 | Train PPL: 4.1829 | Interval Time: 47.25s
+Batch 17000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 17001/135018 | LR: 0.000299 | Train Loss: 1.5164 | Train PPL: 4.5560 | Interval Time: 47.20s
+Batch 17100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 17101/135018 | LR: 0.000299 | Train Loss: 1.4339 | Train PPL: 4.1948 | Interval Time: 47.25s
+Batch 17200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 17201/135018 | LR: 0.000299 | Train Loss: 1.5773 | Train PPL: 4.8416 | Interval Time: 47.23s
+Batch 17300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 17301/135018 | LR: 0.000299 | Train Loss: 1.4648 | Train PPL: 4.3269 | Interval Time: 47.25s
+Batch 17400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 17401/135018 | LR: 0.000299 | Train Loss: 1.3769 | Train PPL: 3.9625 | Interval Time: 47.23s
+Batch 17500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 17501/135018 | LR: 0.000299 | Train Loss: 1.4746 | Train PPL: 4.3694 | Interval Time: 47.23s
+Batch 17600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 17601/135018 | LR: 0.000299 | Train Loss: 1.3941 | Train PPL: 4.0312 | Interval Time: 47.25s
+Batch 17700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 17701/135018 | LR: 0.000299 | Train Loss: 1.5468 | Train PPL: 4.6962 | Interval Time: 47.19s
+Batch 17800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 17801/135018 | LR: 0.000299 | Train Loss: 1.5948 | Train PPL: 4.9274 | Interval Time: 47.14s
+Batch 17900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 17901/135018 | LR: 0.000299 | Train Loss: 1.4002 | Train PPL: 4.0562 | Interval Time: 47.22s
+Batch 18000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 18001/135018 | LR: 0.000299 | Train Loss: 1.4189 | Train PPL: 4.1327 | Interval Time: 47.17s
+Batch 18100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 18101/135018 | LR: 0.000299 | Train Loss: 1.4478 | Train PPL: 4.2537 | Interval Time: 47.20s
+Batch 18200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 18201/135018 | LR: 0.000299 | Train Loss: 1.3954 | Train PPL: 4.0366 | Interval Time: 47.15s
+Batch 18300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 18301/135018 | LR: 0.000299 | Train Loss: 1.4923 | Train PPL: 4.4472 | Interval Time: 47.16s
+Batch 18400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 18401/135018 | LR: 0.000299 | Train Loss: 1.5771 | Train PPL: 4.8408 | Interval Time: 47.14s
+Batch 18500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 18501/135018 | LR: 0.000299 | Train Loss: 1.4258 | Train PPL: 4.1613 | Interval Time: 47.09s
+Batch 18600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 18601/135018 | LR: 0.000299 | Train Loss: 1.4085 | Train PPL: 4.0897 | Interval Time: 47.14s
+Batch 18700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 18701/135018 | LR: 0.000299 | Train Loss: 1.4072 | Train PPL: 4.0844 | Interval Time: 47.08s
+Batch 18800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 18801/135018 | LR: 0.000299 | Train Loss: 1.5561 | Train PPL: 4.7403 | Interval Time: 47.12s
+Batch 18900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 18901/135018 | LR: 0.000299 | Train Loss: 1.4576 | Train PPL: 4.2957 | Interval Time: 47.05s
+Batch 19000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 19001/135018 | LR: 0.000299 | Train Loss: 1.4726 | Train PPL: 4.3604 | Interval Time: 47.10s
+Batch 19100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 19101/135018 | LR: 0.000299 | Train Loss: 1.4436 | Train PPL: 4.2359 | Interval Time: 47.11s
+Batch 19200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 19201/135018 | LR: 0.000299 | Train Loss: 1.3350 | Train PPL: 3.8000 | Interval Time: 46.99s
+Batch 19300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 19301/135018 | LR: 0.000298 | Train Loss: 1.4628 | Train PPL: 4.3181 | Interval Time: 47.06s
+Batch 19400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 19401/135018 | LR: 0.000298 | Train Loss: 1.4673 | Train PPL: 4.3374 | Interval Time: 47.04s
+Batch 19500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 19501/135018 | LR: 0.000298 | Train Loss: 1.6378 | Train PPL: 5.1439 | Interval Time: 47.06s
+Batch 19600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 19601/135018 | LR: 0.000298 | Train Loss: 1.5426 | Train PPL: 4.6768 | Interval Time: 47.05s
+Batch 19700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 19701/135018 | LR: 0.000298 | Train Loss: 1.4469 | Train PPL: 4.2501 | Interval Time: 47.07s
+Batch 19800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 19801/135018 | LR: 0.000298 | Train Loss: 1.5477 | Train PPL: 4.7005 | Interval Time: 47.10s
+Batch 19900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 19901/135018 | LR: 0.000298 | Train Loss: 1.3996 | Train PPL: 4.0534 | Interval Time: 47.09s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 20000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 20001/135018 | LR: 0.000298 | Train Loss: 1.4672 | Train PPL: 4.3373 | Interval Time: 57.47s
+Batch 20100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 20101/135018 | LR: 0.000298 | Train Loss: 1.4392 | Train PPL: 4.2173 | Interval Time: 46.89s
+Batch 20200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 20201/135018 | LR: 0.000298 | Train Loss: 1.4967 | Train PPL: 4.4671 | Interval Time: 47.03s
+Batch 20300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 20301/135018 | LR: 0.000298 | Train Loss: 1.3826 | Train PPL: 3.9853 | Interval Time: 47.09s
+Batch 20400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 20401/135018 | LR: 0.000298 | Train Loss: 1.3756 | Train PPL: 3.9574 | Interval Time: 47.15s
+Batch 20500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 20501/135018 | LR: 0.000298 | Train Loss: 1.4274 | Train PPL: 4.1679 | Interval Time: 47.02s
+Batch 20600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 20601/135018 | LR: 0.000298 | Train Loss: 1.4569 | Train PPL: 4.2925 | Interval Time: 47.06s
+Batch 20700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 20701/135018 | LR: 0.000298 | Train Loss: 1.4139 | Train PPL: 4.1121 | Interval Time: 47.13s
+Batch 20800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 20801/135018 | LR: 0.000298 | Train Loss: 1.3952 | Train PPL: 4.0356 | Interval Time: 47.13s
+Batch 20900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 20901/135018 | LR: 0.000298 | Train Loss: 1.3740 | Train PPL: 3.9512 | Interval Time: 47.20s
+Batch 21000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 21001/135018 | LR: 0.000297 | Train Loss: 1.4771 | Train PPL: 4.3802 | Interval Time: 47.22s
+Batch 21100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 21101/135018 | LR: 0.000297 | Train Loss: 1.6118 | Train PPL: 5.0120 | Interval Time: 47.14s
+Batch 21200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 21201/135018 | LR: 0.000297 | Train Loss: 1.5126 | Train PPL: 4.5387 | Interval Time: 47.20s
+Batch 21300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 21301/135018 | LR: 0.000297 | Train Loss: 1.3506 | Train PPL: 3.8596 | Interval Time: 47.25s
+Batch 21400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 21401/135018 | LR: 0.000297 | Train Loss: 1.3428 | Train PPL: 3.8299 | Interval Time: 47.11s
+Batch 21500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 21501/135018 | LR: 0.000297 | Train Loss: 1.2784 | Train PPL: 3.5907 | Interval Time: 47.27s
+Batch 21600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 21601/135018 | LR: 0.000297 | Train Loss: 1.4678 | Train PPL: 4.3398 | Interval Time: 47.25s
+Batch 21700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 21701/135018 | LR: 0.000297 | Train Loss: 1.4215 | Train PPL: 4.1432 | Interval Time: 47.28s
+Batch 21800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 21801/135018 | LR: 0.000297 | Train Loss: 1.3062 | Train PPL: 3.6921 | Interval Time: 47.26s
+Batch 21900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 21901/135018 | LR: 0.000297 | Train Loss: 1.3870 | Train PPL: 4.0029 | Interval Time: 47.22s
+Batch 22000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 22001/135018 | LR: 0.000297 | Train Loss: 1.5303 | Train PPL: 4.6193 | Interval Time: 47.27s
+Batch 22100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 22101/135018 | LR: 0.000297 | Train Loss: 1.2907 | Train PPL: 3.6354 | Interval Time: 47.34s
+Batch 22200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 22201/135018 | LR: 0.000297 | Train Loss: 1.3330 | Train PPL: 3.7923 | Interval Time: 47.28s
+Batch 22300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 22301/135018 | LR: 0.000297 | Train Loss: 1.3576 | Train PPL: 3.8870 | Interval Time: 47.30s
+Batch 22400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 22401/135018 | LR: 0.000296 | Train Loss: 1.6004 | Train PPL: 4.9550 | Interval Time: 47.25s
+Batch 22500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 22501/135018 | LR: 0.000296 | Train Loss: 1.3691 | Train PPL: 3.9317 | Interval Time: 47.17s
+Batch 22600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 22601/135018 | LR: 0.000296 | Train Loss: 1.4130 | Train PPL: 4.1081 | Interval Time: 47.34s
+Batch 22700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 22701/135018 | LR: 0.000296 | Train Loss: 1.4139 | Train PPL: 4.1119 | Interval Time: 47.19s
+Batch 22800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 22801/135018 | LR: 0.000296 | Train Loss: 1.3615 | Train PPL: 3.9022 | Interval Time: 47.19s
+Batch 22900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 22901/135018 | LR: 0.000296 | Train Loss: 1.5119 | Train PPL: 4.5353 | Interval Time: 47.21s
+Batch 23000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 23001/135018 | LR: 0.000296 | Train Loss: 1.3003 | Train PPL: 3.6704 | Interval Time: 47.15s
+Batch 23100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 23101/135018 | LR: 0.000296 | Train Loss: 1.2093 | Train PPL: 3.3510 | Interval Time: 47.23s
+Batch 23200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 23201/135018 | LR: 0.000296 | Train Loss: 1.4109 | Train PPL: 4.0994 | Interval Time: 47.20s
+Batch 23300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 23301/135018 | LR: 0.000296 | Train Loss: 1.2370 | Train PPL: 3.4453 | Interval Time: 47.17s
+Batch 23400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 23401/135018 | LR: 0.000296 | Train Loss: 1.4018 | Train PPL: 4.0626 | Interval Time: 47.13s
+Batch 23500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 23501/135018 | LR: 0.000296 | Train Loss: 1.4825 | Train PPL: 4.4042 | Interval Time: 47.15s
+Batch 23600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 23601/135018 | LR: 0.000295 | Train Loss: 1.4306 | Train PPL: 4.1814 | Interval Time: 47.14s
+Batch 23700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 23701/135018 | LR: 0.000295 | Train Loss: 1.5471 | Train PPL: 4.6980 | Interval Time: 47.16s
+Batch 23800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 23801/135018 | LR: 0.000295 | Train Loss: 1.3792 | Train PPL: 3.9717 | Interval Time: 47.10s
+Batch 23900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 23901/135018 | LR: 0.000295 | Train Loss: 1.4499 | Train PPL: 4.2628 | Interval Time: 47.08s
+Batch 24000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 24001/135018 | LR: 0.000295 | Train Loss: 1.4746 | Train PPL: 4.3693 | Interval Time: 47.04s
+Batch 24100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 24101/135018 | LR: 0.000295 | Train Loss: 1.4141 | Train PPL: 4.1128 | Interval Time: 47.08s
+Batch 24200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 24201/135018 | LR: 0.000295 | Train Loss: 1.4097 | Train PPL: 4.0946 | Interval Time: 47.11s
+Batch 24300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 24301/135018 | LR: 0.000295 | Train Loss: 1.3409 | Train PPL: 3.8224 | Interval Time: 47.11s
+Batch 24400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 24401/135018 | LR: 0.000295 | Train Loss: 1.3337 | Train PPL: 3.7952 | Interval Time: 47.12s
+Batch 24500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 24501/135018 | LR: 0.000295 | Train Loss: 1.3260 | Train PPL: 3.7658 | Interval Time: 47.06s
+Batch 24600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 24601/135018 | LR: 0.000294 | Train Loss: 1.3738 | Train PPL: 3.9503 | Interval Time: 47.11s
+Batch 24700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 24701/135018 | LR: 0.000294 | Train Loss: 1.4667 | Train PPL: 4.3348 | Interval Time: 47.15s
+Batch 24800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 24801/135018 | LR: 0.000294 | Train Loss: 1.2618 | Train PPL: 3.5317 | Interval Time: 47.10s
+Batch 24900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 24901/135018 | LR: 0.000294 | Train Loss: 1.4349 | Train PPL: 4.1994 | Interval Time: 47.14s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 25000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 25001/135018 | LR: 0.000294 | Train Loss: 1.3843 | Train PPL: 3.9920 | Interval Time: 57.30s
+Batch 25100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 25101/135018 | LR: 0.000294 | Train Loss: 1.3734 | Train PPL: 3.9487 | Interval Time: 46.89s
+Batch 25200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 25201/135018 | LR: 0.000294 | Train Loss: 1.4148 | Train PPL: 4.1156 | Interval Time: 47.04s
+Batch 25300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 25301/135018 | LR: 0.000294 | Train Loss: 1.3611 | Train PPL: 3.9004 | Interval Time: 47.16s
+Batch 25400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 25401/135018 | LR: 0.000294 | Train Loss: 1.3758 | Train PPL: 3.9582 | Interval Time: 47.20s
+Batch 25500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 25501/135018 | LR: 0.000294 | Train Loss: 1.4404 | Train PPL: 4.2224 | Interval Time: 47.16s
+Batch 25600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 25601/135018 | LR: 0.000293 | Train Loss: 1.4052 | Train PPL: 4.0764 | Interval Time: 47.15s
+Batch 25700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 25701/135018 | LR: 0.000293 | Train Loss: 1.3999 | Train PPL: 4.0549 | Interval Time: 47.18s
+Batch 25800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 25801/135018 | LR: 0.000293 | Train Loss: 1.4259 | Train PPL: 4.1616 | Interval Time: 47.20s
+Batch 25900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 25901/135018 | LR: 0.000293 | Train Loss: 1.2972 | Train PPL: 3.6592 | Interval Time: 47.19s
+Batch 26000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 26001/135018 | LR: 0.000293 | Train Loss: 1.3013 | Train PPL: 3.6740 | Interval Time: 47.16s
+Batch 26100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 26101/135018 | LR: 0.000293 | Train Loss: 1.3302 | Train PPL: 3.7817 | Interval Time: 47.17s
+Batch 26200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 26201/135018 | LR: 0.000293 | Train Loss: 1.4035 | Train PPL: 4.0694 | Interval Time: 47.21s
+Batch 26300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 26301/135018 | LR: 0.000293 | Train Loss: 1.3376 | Train PPL: 3.8100 | Interval Time: 47.19s
+Batch 26400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 26401/135018 | LR: 0.000293 | Train Loss: 1.3441 | Train PPL: 3.8349 | Interval Time: 47.19s
+Batch 26500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 26501/135018 | LR: 0.000292 | Train Loss: 1.3465 | Train PPL: 3.8440 | Interval Time: 47.16s
+Batch 26600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 26601/135018 | LR: 0.000292 | Train Loss: 1.3693 | Train PPL: 3.9327 | Interval Time: 47.25s
+Batch 26700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 26701/135018 | LR: 0.000292 | Train Loss: 1.4985 | Train PPL: 4.4751 | Interval Time: 47.18s
+Batch 26800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 26801/135018 | LR: 0.000292 | Train Loss: 1.3198 | Train PPL: 3.7428 | Interval Time: 47.23s
+Batch 26900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 26901/135018 | LR: 0.000292 | Train Loss: 1.2515 | Train PPL: 3.4956 | Interval Time: 47.23s
+Batch 27000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 27001/135018 | LR: 0.000292 | Train Loss: 1.2635 | Train PPL: 3.5376 | Interval Time: 47.17s
+Batch 27100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 27101/135018 | LR: 0.000292 | Train Loss: 1.3817 | Train PPL: 3.9817 | Interval Time: 47.20s
+Batch 27200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 27201/135018 | LR: 0.000292 | Train Loss: 1.4671 | Train PPL: 4.3367 | Interval Time: 47.13s
+Batch 27300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 27301/135018 | LR: 0.000292 | Train Loss: 1.4239 | Train PPL: 4.1533 | Interval Time: 47.14s
+Batch 27400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 27401/135018 | LR: 0.000291 | Train Loss: 1.3941 | Train PPL: 4.0315 | Interval Time: 47.12s
+Batch 27500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 27501/135018 | LR: 0.000291 | Train Loss: 1.3618 | Train PPL: 3.9032 | Interval Time: 47.16s
+Batch 27600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 27601/135018 | LR: 0.000291 | Train Loss: 1.4248 | Train PPL: 4.1571 | Interval Time: 47.13s
+Batch 27700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 27701/135018 | LR: 0.000291 | Train Loss: 1.3220 | Train PPL: 3.7511 | Interval Time: 47.07s
+Batch 27800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 27801/135018 | LR: 0.000291 | Train Loss: 1.4197 | Train PPL: 4.1359 | Interval Time: 47.06s
+Batch 27900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 27901/135018 | LR: 0.000291 | Train Loss: 1.4254 | Train PPL: 4.1597 | Interval Time: 47.09s
+Batch 28000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 28001/135018 | LR: 0.000291 | Train Loss: 1.4592 | Train PPL: 4.3027 | Interval Time: 47.16s
+Batch 28100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 28101/135018 | LR: 0.000290 | Train Loss: 1.2913 | Train PPL: 3.6374 | Interval Time: 47.15s
+Batch 28200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 28201/135018 | LR: 0.000290 | Train Loss: 1.3466 | Train PPL: 3.8443 | Interval Time: 47.10s
+Batch 28300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 28301/135018 | LR: 0.000290 | Train Loss: 1.3039 | Train PPL: 3.6836 | Interval Time: 47.08s
+Batch 28400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 28401/135018 | LR: 0.000290 | Train Loss: 1.3224 | Train PPL: 3.7525 | Interval Time: 47.09s
+Batch 28500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 28501/135018 | LR: 0.000290 | Train Loss: 1.3447 | Train PPL: 3.8370 | Interval Time: 47.06s
+Batch 28600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 28601/135018 | LR: 0.000290 | Train Loss: 1.3660 | Train PPL: 3.9196 | Interval Time: 47.08s
+Batch 28700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 28701/135018 | LR: 0.000290 | Train Loss: 1.3831 | Train PPL: 3.9873 | Interval Time: 47.05s
+Batch 28800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 28801/135018 | LR: 0.000290 | Train Loss: 1.1928 | Train PPL: 3.2964 | Interval Time: 47.04s
+Batch 28900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 28901/135018 | LR: 0.000289 | Train Loss: 1.4496 | Train PPL: 4.2612 | Interval Time: 46.98s
+Batch 29000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 29001/135018 | LR: 0.000289 | Train Loss: 1.3696 | Train PPL: 3.9338 | Interval Time: 46.98s
+Batch 29100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 29101/135018 | LR: 0.000289 | Train Loss: 1.3666 | Train PPL: 3.9218 | Interval Time: 46.96s
+Batch 29200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 29201/135018 | LR: 0.000289 | Train Loss: 1.3222 | Train PPL: 3.7518 | Interval Time: 46.93s
+Batch 29300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 29301/135018 | LR: 0.000289 | Train Loss: 1.3570 | Train PPL: 3.8846 | Interval Time: 46.91s
+Batch 29400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 29401/135018 | LR: 0.000289 | Train Loss: 1.2939 | Train PPL: 3.6471 | Interval Time: 46.94s
+Batch 29500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 29501/135018 | LR: 0.000289 | Train Loss: 1.3798 | Train PPL: 3.9741 | Interval Time: 46.99s
+Batch 29600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 29601/135018 | LR: 0.000288 | Train Loss: 1.3791 | Train PPL: 3.9715 | Interval Time: 47.06s
+Batch 29700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 29701/135018 | LR: 0.000288 | Train Loss: 1.2607 | Train PPL: 3.5278 | Interval Time: 47.04s
+Batch 29800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 29801/135018 | LR: 0.000288 | Train Loss: 1.2697 | Train PPL: 3.5597 | Interval Time: 47.12s
+Batch 29900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 29901/135018 | LR: 0.000288 | Train Loss: 1.3602 | Train PPL: 3.8969 | Interval Time: 47.07s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 30000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 30001/135018 | LR: 0.000288 | Train Loss: 1.3699 | Train PPL: 3.9351 | Interval Time: 57.31s
+Batch 30100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 30101/135018 | LR: 0.000288 | Train Loss: 1.3796 | Train PPL: 3.9733 | Interval Time: 46.83s
+Batch 30200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 30201/135018 | LR: 0.000288 | Train Loss: 1.2823 | Train PPL: 3.6049 | Interval Time: 46.97s
+Batch 30300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 30301/135018 | LR: 0.000287 | Train Loss: 1.4797 | Train PPL: 4.3917 | Interval Time: 46.96s
+Batch 30400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 30401/135018 | LR: 0.000287 | Train Loss: 1.3928 | Train PPL: 4.0260 | Interval Time: 47.03s
+Batch 30500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 30501/135018 | LR: 0.000287 | Train Loss: 1.2693 | Train PPL: 3.5582 | Interval Time: 47.04s
+Batch 30600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 30601/135018 | LR: 0.000287 | Train Loss: 1.4048 | Train PPL: 4.0746 | Interval Time: 47.12s
+Batch 30700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 30701/135018 | LR: 0.000287 | Train Loss: 1.3047 | Train PPL: 3.6867 | Interval Time: 47.13s
+Batch 30800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 30801/135018 | LR: 0.000287 | Train Loss: 1.3156 | Train PPL: 3.7271 | Interval Time: 47.04s
+Batch 30900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 30901/135018 | LR: 0.000287 | Train Loss: 1.3609 | Train PPL: 3.8997 | Interval Time: 47.06s
+Batch 31000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 31001/135018 | LR: 0.000286 | Train Loss: 1.3293 | Train PPL: 3.7784 | Interval Time: 47.06s
+Batch 31100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 31101/135018 | LR: 0.000286 | Train Loss: 1.3478 | Train PPL: 3.8488 | Interval Time: 47.06s
+Batch 31200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 31201/135018 | LR: 0.000286 | Train Loss: 1.2626 | Train PPL: 3.5346 | Interval Time: 47.14s
+Batch 31300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 31301/135018 | LR: 0.000286 | Train Loss: 1.2389 | Train PPL: 3.4518 | Interval Time: 47.10s
+Batch 31400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 31401/135018 | LR: 0.000286 | Train Loss: 1.5002 | Train PPL: 4.4824 | Interval Time: 47.10s
+Batch 31500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 31501/135018 | LR: 0.000286 | Train Loss: 1.3452 | Train PPL: 3.8389 | Interval Time: 47.09s
+Batch 31600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 31601/135018 | LR: 0.000285 | Train Loss: 1.2836 | Train PPL: 3.6095 | Interval Time: 47.11s
+Batch 31700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 31701/135018 | LR: 0.000285 | Train Loss: 1.2868 | Train PPL: 3.6211 | Interval Time: 47.09s
+Batch 31800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 31801/135018 | LR: 0.000285 | Train Loss: 1.2698 | Train PPL: 3.5602 | Interval Time: 47.07s
+Batch 31900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 31901/135018 | LR: 0.000285 | Train Loss: 1.2891 | Train PPL: 3.6296 | Interval Time: 47.06s
+Batch 32000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 32001/135018 | LR: 0.000285 | Train Loss: 1.3009 | Train PPL: 3.6725 | Interval Time: 47.08s
+Batch 32100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 32101/135018 | LR: 0.000285 | Train Loss: 1.3431 | Train PPL: 3.8311 | Interval Time: 47.07s
+Batch 32200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 32201/135018 | LR: 0.000285 | Train Loss: 1.2930 | Train PPL: 3.6436 | Interval Time: 47.05s
+Batch 32300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 32301/135018 | LR: 0.000284 | Train Loss: 1.3093 | Train PPL: 3.7037 | Interval Time: 47.03s
+Batch 32400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 32401/135018 | LR: 0.000284 | Train Loss: 1.3986 | Train PPL: 4.0494 | Interval Time: 47.00s
+Batch 32500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 32501/135018 | LR: 0.000284 | Train Loss: 1.3580 | Train PPL: 3.8883 | Interval Time: 47.02s
+Batch 32600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 32601/135018 | LR: 0.000284 | Train Loss: 1.1978 | Train PPL: 3.3130 | Interval Time: 46.99s
+Batch 32700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 32701/135018 | LR: 0.000284 | Train Loss: 1.3139 | Train PPL: 3.7207 | Interval Time: 47.04s
+Batch 32800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 32801/135018 | LR: 0.000284 | Train Loss: 1.3079 | Train PPL: 3.6984 | Interval Time: 46.99s
+Batch 32900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 32901/135018 | LR: 0.000283 | Train Loss: 1.3076 | Train PPL: 3.6972 | Interval Time: 46.99s
+Batch 33000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 33001/135018 | LR: 0.000283 | Train Loss: 1.3920 | Train PPL: 4.0231 | Interval Time: 46.90s
+Batch 33100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 33101/135018 | LR: 0.000283 | Train Loss: 1.3558 | Train PPL: 3.8800 | Interval Time: 46.97s
+Batch 33200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 33201/135018 | LR: 0.000283 | Train Loss: 1.4578 | Train PPL: 4.2965 | Interval Time: 46.97s
+Batch 33300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 33301/135018 | LR: 0.000283 | Train Loss: 1.3000 | Train PPL: 3.6693 | Interval Time: 46.93s
+Batch 33400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 33401/135018 | LR: 0.000283 | Train Loss: 1.2519 | Train PPL: 3.4970 | Interval Time: 46.94s
+Batch 33500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 33501/135018 | LR: 0.000282 | Train Loss: 1.4310 | Train PPL: 4.1829 | Interval Time: 46.93s
+Batch 33600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 33601/135018 | LR: 0.000282 | Train Loss: 1.2838 | Train PPL: 3.6102 | Interval Time: 47.06s
+Batch 33700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 33701/135018 | LR: 0.000282 | Train Loss: 1.3460 | Train PPL: 3.8419 | Interval Time: 46.97s
+Batch 33800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 33801/135018 | LR: 0.000282 | Train Loss: 1.1779 | Train PPL: 3.2476 | Interval Time: 46.93s
+Batch 33900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 33901/135018 | LR: 0.000282 | Train Loss: 1.3091 | Train PPL: 3.7028 | Interval Time: 46.95s
+Batch 34000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 34001/135018 | LR: 0.000281 | Train Loss: 1.3191 | Train PPL: 3.7402 | Interval Time: 46.93s
+Batch 34100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 34101/135018 | LR: 0.000281 | Train Loss: 1.2527 | Train PPL: 3.4999 | Interval Time: 47.05s
+Batch 34200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 34201/135018 | LR: 0.000281 | Train Loss: 1.2693 | Train PPL: 3.5585 | Interval Time: 47.11s
+Batch 34300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 34301/135018 | LR: 0.000281 | Train Loss: 1.2921 | Train PPL: 3.6406 | Interval Time: 47.08s
+Batch 34400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 34401/135018 | LR: 0.000281 | Train Loss: 1.2420 | Train PPL: 3.4626 | Interval Time: 47.11s
+Batch 34500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 34501/135018 | LR: 0.000281 | Train Loss: 1.2999 | Train PPL: 3.6688 | Interval Time: 47.08s
+Batch 34600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 34601/135018 | LR: 0.000280 | Train Loss: 1.2921 | Train PPL: 3.6403 | Interval Time: 47.06s
+Batch 34700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 34701/135018 | LR: 0.000280 | Train Loss: 1.2387 | Train PPL: 3.4512 | Interval Time: 47.12s
+Batch 34800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 34801/135018 | LR: 0.000280 | Train Loss: 1.3041 | Train PPL: 3.6845 | Interval Time: 47.11s
+Batch 34900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 34901/135018 | LR: 0.000280 | Train Loss: 1.4030 | Train PPL: 4.0674 | Interval Time: 47.10s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 35000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 35001/135018 | LR: 0.000280 | Train Loss: 1.3557 | Train PPL: 3.8795 | Interval Time: 55.99s
+Batch 35100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 35101/135018 | LR: 0.000279 | Train Loss: 1.3008 | Train PPL: 3.6722 | Interval Time: 46.83s
+Batch 35200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 35201/135018 | LR: 0.000279 | Train Loss: 1.2377 | Train PPL: 3.4476 | Interval Time: 47.01s
+Batch 35300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 35301/135018 | LR: 0.000279 | Train Loss: 1.2943 | Train PPL: 3.6485 | Interval Time: 46.99s
+Batch 35400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 35401/135018 | LR: 0.000279 | Train Loss: 1.2856 | Train PPL: 3.6167 | Interval Time: 47.01s
+Batch 35500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 35501/135018 | LR: 0.000279 | Train Loss: 1.2820 | Train PPL: 3.6038 | Interval Time: 46.98s
+Batch 35600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 35601/135018 | LR: 0.000279 | Train Loss: 1.2348 | Train PPL: 3.4376 | Interval Time: 46.93s
+Batch 35700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 35701/135018 | LR: 0.000278 | Train Loss: 1.3138 | Train PPL: 3.7201 | Interval Time: 46.95s
+Batch 35800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 35801/135018 | LR: 0.000278 | Train Loss: 1.3643 | Train PPL: 3.9128 | Interval Time: 47.06s
+Batch 35900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 35901/135018 | LR: 0.000278 | Train Loss: 1.3224 | Train PPL: 3.7525 | Interval Time: 46.97s
+Batch 36000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 36001/135018 | LR: 0.000278 | Train Loss: 1.2198 | Train PPL: 3.3866 | Interval Time: 47.01s
+Batch 36100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 36101/135018 | LR: 0.000278 | Train Loss: 1.2989 | Train PPL: 3.6651 | Interval Time: 47.00s
+Batch 36200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 36201/135018 | LR: 0.000277 | Train Loss: 1.3734 | Train PPL: 3.9486 | Interval Time: 47.03s
+Batch 36300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 36301/135018 | LR: 0.000277 | Train Loss: 1.3745 | Train PPL: 3.9530 | Interval Time: 47.03s
+Batch 36400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 36401/135018 | LR: 0.000277 | Train Loss: 1.2189 | Train PPL: 3.3835 | Interval Time: 46.98s
+Batch 36500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 36501/135018 | LR: 0.000277 | Train Loss: 1.3375 | Train PPL: 3.8095 | Interval Time: 46.99s
+Batch 36600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 36601/135018 | LR: 0.000277 | Train Loss: 1.2942 | Train PPL: 3.6481 | Interval Time: 46.92s
+Batch 36700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 36701/135018 | LR: 0.000276 | Train Loss: 1.2293 | Train PPL: 3.4187 | Interval Time: 46.99s
+Batch 36800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 36801/135018 | LR: 0.000276 | Train Loss: 1.2794 | Train PPL: 3.5943 | Interval Time: 47.02s
+Batch 36900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 36901/135018 | LR: 0.000276 | Train Loss: 1.1777 | Train PPL: 3.2470 | Interval Time: 46.95s
+Batch 37000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 37001/135018 | LR: 0.000276 | Train Loss: 1.3742 | Train PPL: 3.9520 | Interval Time: 46.93s
+Batch 37100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 37101/135018 | LR: 0.000276 | Train Loss: 1.2865 | Train PPL: 3.6201 | Interval Time: 47.04s
+Batch 37200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 37201/135018 | LR: 0.000275 | Train Loss: 1.2482 | Train PPL: 3.4840 | Interval Time: 46.91s
+Batch 37300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 37301/135018 | LR: 0.000275 | Train Loss: 1.4642 | Train PPL: 4.3242 | Interval Time: 46.86s
+Batch 37400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 37401/135018 | LR: 0.000275 | Train Loss: 1.3020 | Train PPL: 3.6766 | Interval Time: 46.93s
+Batch 37500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 37501/135018 | LR: 0.000275 | Train Loss: 1.2981 | Train PPL: 3.6625 | Interval Time: 46.98s
+Batch 37600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 37601/135018 | LR: 0.000275 | Train Loss: 1.3747 | Train PPL: 3.9539 | Interval Time: 46.91s
+Batch 37700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 37701/135018 | LR: 0.000274 | Train Loss: 1.3713 | Train PPL: 3.9406 | Interval Time: 46.97s
+Batch 37800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 37801/135018 | LR: 0.000274 | Train Loss: 1.4097 | Train PPL: 4.0946 | Interval Time: 46.96s
+Batch 37900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 37901/135018 | LR: 0.000274 | Train Loss: 1.2926 | Train PPL: 3.6423 | Interval Time: 46.94s
+Batch 38000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 38001/135018 | LR: 0.000274 | Train Loss: 1.5250 | Train PPL: 4.5950 | Interval Time: 46.96s
+Batch 38100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 38101/135018 | LR: 0.000274 | Train Loss: 1.2388 | Train PPL: 3.4515 | Interval Time: 47.00s
+Batch 38200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 38201/135018 | LR: 0.000273 | Train Loss: 1.2276 | Train PPL: 3.4129 | Interval Time: 47.03s
+Batch 38300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 38301/135018 | LR: 0.000273 | Train Loss: 1.3022 | Train PPL: 3.6772 | Interval Time: 47.01s
+Batch 38400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 38401/135018 | LR: 0.000273 | Train Loss: 1.2345 | Train PPL: 3.4365 | Interval Time: 47.03s
+Batch 38500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 38501/135018 | LR: 0.000273 | Train Loss: 1.2684 | Train PPL: 3.5552 | Interval Time: 47.03s
+Batch 38600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 38601/135018 | LR: 0.000273 | Train Loss: 1.2438 | Train PPL: 3.4689 | Interval Time: 47.08s
+Batch 38700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 38701/135018 | LR: 0.000272 | Train Loss: 1.3081 | Train PPL: 3.6991 | Interval Time: 47.10s
+Batch 38800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 38801/135018 | LR: 0.000272 | Train Loss: 1.2728 | Train PPL: 3.5710 | Interval Time: 47.13s
+Batch 38900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 38901/135018 | LR: 0.000272 | Train Loss: 1.2755 | Train PPL: 3.5806 | Interval Time: 47.10s
+Batch 39000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 39001/135018 | LR: 0.000272 | Train Loss: 1.2744 | Train PPL: 3.5766 | Interval Time: 47.07s
+Batch 39100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 39101/135018 | LR: 0.000271 | Train Loss: 1.2701 | Train PPL: 3.5610 | Interval Time: 47.22s
+Batch 39200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 39201/135018 | LR: 0.000271 | Train Loss: 1.2330 | Train PPL: 3.4314 | Interval Time: 47.14s
+Batch 39300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 39301/135018 | LR: 0.000271 | Train Loss: 1.2930 | Train PPL: 3.6437 | Interval Time: 47.18s
+Batch 39400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 39401/135018 | LR: 0.000271 | Train Loss: 1.2188 | Train PPL: 3.3830 | Interval Time: 47.17s
+Batch 39500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 39501/135018 | LR: 0.000271 | Train Loss: 1.2774 | Train PPL: 3.5874 | Interval Time: 47.13s
+Batch 39600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 39601/135018 | LR: 0.000270 | Train Loss: 1.2323 | Train PPL: 3.4290 | Interval Time: 47.12s
+Batch 39700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 39701/135018 | LR: 0.000270 | Train Loss: 1.3641 | Train PPL: 3.9120 | Interval Time: 47.08s
+Batch 39800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 39801/135018 | LR: 0.000270 | Train Loss: 1.3145 | Train PPL: 3.7228 | Interval Time: 47.06s
+Batch 39900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 39901/135018 | LR: 0.000270 | Train Loss: 1.3081 | Train PPL: 3.6990 | Interval Time: 47.12s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 40000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 40001/135018 | LR: 0.000270 | Train Loss: 1.2747 | Train PPL: 3.5777 | Interval Time: 56.24s
+Batch 40100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 40101/135018 | LR: 0.000269 | Train Loss: 1.2282 | Train PPL: 3.4151 | Interval Time: 46.89s
+Batch 40200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 40201/135018 | LR: 0.000269 | Train Loss: 1.2386 | Train PPL: 3.4507 | Interval Time: 47.04s
+Batch 40300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 40301/135018 | LR: 0.000269 | Train Loss: 1.2314 | Train PPL: 3.4259 | Interval Time: 47.10s
+Batch 40400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 40401/135018 | LR: 0.000269 | Train Loss: 1.1514 | Train PPL: 3.1626 | Interval Time: 46.96s
+Batch 40500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 40501/135018 | LR: 0.000268 | Train Loss: 1.2759 | Train PPL: 3.5818 | Interval Time: 47.04s
+Batch 40600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 40601/135018 | LR: 0.000268 | Train Loss: 1.2597 | Train PPL: 3.5244 | Interval Time: 47.05s
+Batch 40700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 40701/135018 | LR: 0.000268 | Train Loss: 1.3404 | Train PPL: 3.8207 | Interval Time: 46.99s
+Batch 40800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 40801/135018 | LR: 0.000268 | Train Loss: 1.4458 | Train PPL: 4.2453 | Interval Time: 47.00s
+Batch 40900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 40901/135018 | LR: 0.000268 | Train Loss: 1.3877 | Train PPL: 4.0056 | Interval Time: 46.96s
+Batch 41000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 41001/135018 | LR: 0.000267 | Train Loss: 1.1695 | Train PPL: 3.2204 | Interval Time: 46.99s
+Batch 41100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 41101/135018 | LR: 0.000267 | Train Loss: 1.2635 | Train PPL: 3.5378 | Interval Time: 46.92s
+Batch 41200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 41201/135018 | LR: 0.000267 | Train Loss: 1.3443 | Train PPL: 3.8355 | Interval Time: 46.98s
+Batch 41300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 41301/135018 | LR: 0.000267 | Train Loss: 1.3518 | Train PPL: 3.8644 | Interval Time: 46.98s
+Batch 41400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 41401/135018 | LR: 0.000266 | Train Loss: 1.2795 | Train PPL: 3.5950 | Interval Time: 46.98s
+Batch 41500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 41501/135018 | LR: 0.000266 | Train Loss: 1.1835 | Train PPL: 3.2657 | Interval Time: 46.97s
+Batch 41600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 41601/135018 | LR: 0.000266 | Train Loss: 1.1310 | Train PPL: 3.0988 | Interval Time: 46.96s
+Batch 41700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 41701/135018 | LR: 0.000266 | Train Loss: 1.3832 | Train PPL: 3.9877 | Interval Time: 47.01s
+Batch 41800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 41801/135018 | LR: 0.000265 | Train Loss: 1.1828 | Train PPL: 3.2635 | Interval Time: 46.99s
+Batch 41900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 41901/135018 | LR: 0.000265 | Train Loss: 1.2822 | Train PPL: 3.6047 | Interval Time: 46.93s
+Batch 42000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 42001/135018 | LR: 0.000265 | Train Loss: 1.4138 | Train PPL: 4.1115 | Interval Time: 46.90s
+Batch 42100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 42101/135018 | LR: 0.000265 | Train Loss: 1.2161 | Train PPL: 3.3741 | Interval Time: 46.84s
+Batch 42200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 42201/135018 | LR: 0.000265 | Train Loss: 1.3099 | Train PPL: 3.7059 | Interval Time: 46.93s
+Batch 42300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 42301/135018 | LR: 0.000264 | Train Loss: 1.1871 | Train PPL: 3.2776 | Interval Time: 46.86s
+Batch 42400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 42401/135018 | LR: 0.000264 | Train Loss: 1.3303 | Train PPL: 3.7823 | Interval Time: 46.97s
+Batch 42500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 42501/135018 | LR: 0.000264 | Train Loss: 1.1988 | Train PPL: 3.3163 | Interval Time: 46.94s
+Batch 42600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 42601/135018 | LR: 0.000264 | Train Loss: 1.3687 | Train PPL: 3.9304 | Interval Time: 46.97s
+Batch 42700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 42701/135018 | LR: 0.000263 | Train Loss: 1.2332 | Train PPL: 3.4322 | Interval Time: 47.00s
+Batch 42800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 42801/135018 | LR: 0.000263 | Train Loss: 1.1109 | Train PPL: 3.0370 | Interval Time: 46.96s
+Batch 42900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 42901/135018 | LR: 0.000263 | Train Loss: 1.3231 | Train PPL: 3.7550 | Interval Time: 46.98s
+Batch 43000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 43001/135018 | LR: 0.000263 | Train Loss: 1.3281 | Train PPL: 3.7737 | Interval Time: 47.01s
+Batch 43100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 43101/135018 | LR: 0.000262 | Train Loss: 1.3549 | Train PPL: 3.8765 | Interval Time: 47.03s
+Batch 43200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 43201/135018 | LR: 0.000262 | Train Loss: 1.3456 | Train PPL: 3.8404 | Interval Time: 47.03s
+Batch 43300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 43301/135018 | LR: 0.000262 | Train Loss: 1.3442 | Train PPL: 3.8350 | Interval Time: 47.10s
+Batch 43400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 43401/135018 | LR: 0.000262 | Train Loss: 1.1574 | Train PPL: 3.1816 | Interval Time: 47.08s
+Batch 43500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 43501/135018 | LR: 0.000261 | Train Loss: 1.3757 | Train PPL: 3.9579 | Interval Time: 47.03s
+Batch 43600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 43601/135018 | LR: 0.000261 | Train Loss: 1.3704 | Train PPL: 3.9370 | Interval Time: 47.09s
+Batch 43700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 43701/135018 | LR: 0.000261 | Train Loss: 1.1633 | Train PPL: 3.2004 | Interval Time: 47.11s
+Batch 43800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 43801/135018 | LR: 0.000261 | Train Loss: 1.2050 | Train PPL: 3.3368 | Interval Time: 47.09s
+Batch 43900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 43901/135018 | LR: 0.000260 | Train Loss: 1.3497 | Train PPL: 3.8564 | Interval Time: 47.04s
+Batch 44000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 44001/135018 | LR: 0.000260 | Train Loss: 1.2306 | Train PPL: 3.4233 | Interval Time: 47.16s
+Batch 44100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 44101/135018 | LR: 0.000260 | Train Loss: 1.2293 | Train PPL: 3.4189 | Interval Time: 47.11s
+Batch 44200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 44201/135018 | LR: 0.000260 | Train Loss: 1.3396 | Train PPL: 3.8174 | Interval Time: 47.11s
+Batch 44300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 44301/135018 | LR: 0.000259 | Train Loss: 1.1997 | Train PPL: 3.3190 | Interval Time: 47.17s
+Batch 44400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 44401/135018 | LR: 0.000259 | Train Loss: 1.4066 | Train PPL: 4.0820 | Interval Time: 47.13s
+Batch 44500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 44501/135018 | LR: 0.000259 | Train Loss: 1.3638 | Train PPL: 3.9110 | Interval Time: 47.09s
+Batch 44600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 44601/135018 | LR: 0.000259 | Train Loss: 1.3296 | Train PPL: 3.7794 | Interval Time: 47.14s
+Batch 44700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 44701/135018 | LR: 0.000258 | Train Loss: 1.1924 | Train PPL: 3.2951 | Interval Time: 47.16s
+Batch 44800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 44801/135018 | LR: 0.000258 | Train Loss: 1.2797 | Train PPL: 3.5957 | Interval Time: 47.07s
+Batch 44900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 44901/135018 | LR: 0.000258 | Train Loss: 1.2033 | Train PPL: 3.3312 | Interval Time: 47.13s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 45000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 45001/135018 | LR: 0.000258 | Train Loss: 1.2850 | Train PPL: 3.6146 | Interval Time: 56.42s
+Batch 45100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 45101/135018 | LR: 0.000257 | Train Loss: 1.2754 | Train PPL: 3.5801 | Interval Time: 46.93s
+Batch 45200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 45201/135018 | LR: 0.000257 | Train Loss: 1.1979 | Train PPL: 3.3132 | Interval Time: 47.06s
+Batch 45300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 45301/135018 | LR: 0.000257 | Train Loss: 1.2225 | Train PPL: 3.3957 | Interval Time: 47.03s
+Batch 45400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 45401/135018 | LR: 0.000257 | Train Loss: 1.3068 | Train PPL: 3.6943 | Interval Time: 47.05s
+Batch 45500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 45501/135018 | LR: 0.000256 | Train Loss: 1.3495 | Train PPL: 3.8553 | Interval Time: 47.04s
+Batch 45600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 45601/135018 | LR: 0.000256 | Train Loss: 1.2001 | Train PPL: 3.3203 | Interval Time: 47.03s
+Batch 45700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 45701/135018 | LR: 0.000256 | Train Loss: 1.2370 | Train PPL: 3.4453 | Interval Time: 47.06s
+Batch 45800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 45801/135018 | LR: 0.000256 | Train Loss: 1.2402 | Train PPL: 3.4563 | Interval Time: 47.02s
+Batch 45900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 45901/135018 | LR: 0.000255 | Train Loss: 1.3223 | Train PPL: 3.7521 | Interval Time: 47.04s
+Batch 46000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 46001/135018 | LR: 0.000255 | Train Loss: 1.2654 | Train PPL: 3.5444 | Interval Time: 46.98s
+Batch 46100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 46101/135018 | LR: 0.000255 | Train Loss: 1.4012 | Train PPL: 4.0599 | Interval Time: 47.05s
+Batch 46200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 46201/135018 | LR: 0.000255 | Train Loss: 1.1911 | Train PPL: 3.2905 | Interval Time: 46.96s
+Batch 46300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 46301/135018 | LR: 0.000254 | Train Loss: 1.2835 | Train PPL: 3.6094 | Interval Time: 47.05s
+Batch 46400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 46401/135018 | LR: 0.000254 | Train Loss: 1.3186 | Train PPL: 3.7383 | Interval Time: 46.94s
+Batch 46500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 46501/135018 | LR: 0.000254 | Train Loss: 1.2481 | Train PPL: 3.4838 | Interval Time: 46.90s
+Batch 46600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 46601/135018 | LR: 0.000254 | Train Loss: 1.1892 | Train PPL: 3.2844 | Interval Time: 47.02s
+Batch 46700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 46701/135018 | LR: 0.000253 | Train Loss: 1.3337 | Train PPL: 3.7950 | Interval Time: 46.95s
+Batch 46800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 46801/135018 | LR: 0.000253 | Train Loss: 1.3505 | Train PPL: 3.8592 | Interval Time: 46.98s
+Batch 46900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 46901/135018 | LR: 0.000253 | Train Loss: 1.2490 | Train PPL: 3.4867 | Interval Time: 46.95s
+Batch 47000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 47001/135018 | LR: 0.000252 | Train Loss: 1.3718 | Train PPL: 3.9424 | Interval Time: 46.99s
+Batch 47100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 47101/135018 | LR: 0.000252 | Train Loss: 1.3027 | Train PPL: 3.6790 | Interval Time: 46.94s
+Batch 47200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 47201/135018 | LR: 0.000252 | Train Loss: 1.2480 | Train PPL: 3.4833 | Interval Time: 47.03s
+Batch 47300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 47301/135018 | LR: 0.000252 | Train Loss: 1.2380 | Train PPL: 3.4486 | Interval Time: 46.96s
+Batch 47400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 47401/135018 | LR: 0.000251 | Train Loss: 1.1678 | Train PPL: 3.2150 | Interval Time: 47.03s
+Batch 47500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 47501/135018 | LR: 0.000251 | Train Loss: 1.3320 | Train PPL: 3.7887 | Interval Time: 46.97s
+Batch 47600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 47601/135018 | LR: 0.000251 | Train Loss: 1.3298 | Train PPL: 3.7802 | Interval Time: 47.03s
+Batch 47700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 47701/135018 | LR: 0.000251 | Train Loss: 1.2130 | Train PPL: 3.3634 | Interval Time: 47.07s
+Batch 47800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 47801/135018 | LR: 0.000250 | Train Loss: 1.3191 | Train PPL: 3.7400 | Interval Time: 47.03s
+Batch 47900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 47901/135018 | LR: 0.000250 | Train Loss: 1.2592 | Train PPL: 3.5226 | Interval Time: 47.04s
+Batch 48000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 48001/135018 | LR: 0.000250 | Train Loss: 1.2428 | Train PPL: 3.4654 | Interval Time: 47.04s
+Batch 48100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 48101/135018 | LR: 0.000249 | Train Loss: 1.3492 | Train PPL: 3.8544 | Interval Time: 47.00s
+Batch 48200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 48201/135018 | LR: 0.000249 | Train Loss: 1.2904 | Train PPL: 3.6342 | Interval Time: 47.04s
+Batch 48300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 48301/135018 | LR: 0.000249 | Train Loss: 1.2797 | Train PPL: 3.5954 | Interval Time: 47.01s
+Batch 48400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 48401/135018 | LR: 0.000249 | Train Loss: 1.2784 | Train PPL: 3.5909 | Interval Time: 47.04s
+Batch 48500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 48501/135018 | LR: 0.000248 | Train Loss: 1.1566 | Train PPL: 3.1792 | Interval Time: 46.96s
+Batch 48600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 48601/135018 | LR: 0.000248 | Train Loss: 1.2299 | Train PPL: 3.4209 | Interval Time: 47.05s
+Batch 48700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 48701/135018 | LR: 0.000248 | Train Loss: 1.2407 | Train PPL: 3.4581 | Interval Time: 46.99s
+Batch 48800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 48801/135018 | LR: 0.000248 | Train Loss: 1.1872 | Train PPL: 3.2779 | Interval Time: 47.06s
+Batch 48900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 48901/135018 | LR: 0.000247 | Train Loss: 1.2304 | Train PPL: 3.4227 | Interval Time: 47.05s
+Batch 49000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 49001/135018 | LR: 0.000247 | Train Loss: 1.2656 | Train PPL: 3.5454 | Interval Time: 47.11s
+Batch 49100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 49101/135018 | LR: 0.000247 | Train Loss: 1.3331 | Train PPL: 3.7928 | Interval Time: 47.08s
+Batch 49200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 49201/135018 | LR: 0.000246 | Train Loss: 1.3376 | Train PPL: 3.8098 | Interval Time: 47.09s
+Batch 49300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 49301/135018 | LR: 0.000246 | Train Loss: 1.2098 | Train PPL: 3.3529 | Interval Time: 47.11s
+Batch 49400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 49401/135018 | LR: 0.000246 | Train Loss: 1.3305 | Train PPL: 3.7829 | Interval Time: 47.07s
+Batch 49500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 49501/135018 | LR: 0.000246 | Train Loss: 1.2708 | Train PPL: 3.5639 | Interval Time: 47.07s
+Batch 49600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 49601/135018 | LR: 0.000245 | Train Loss: 1.2496 | Train PPL: 3.4890 | Interval Time: 47.04s
+Batch 49700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 49701/135018 | LR: 0.000245 | Train Loss: 1.1777 | Train PPL: 3.2470 | Interval Time: 47.05s
+Batch 49800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 49801/135018 | LR: 0.000245 | Train Loss: 1.3256 | Train PPL: 3.7646 | Interval Time: 47.00s
+Batch 49900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 49901/135018 | LR: 0.000245 | Train Loss: 1.2630 | Train PPL: 3.5360 | Interval Time: 47.06s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 50000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 50001/135018 | LR: 0.000244 | Train Loss: 1.3183 | Train PPL: 3.7370 | Interval Time: 56.29s
+Batch 50100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 50101/135018 | LR: 0.000244 | Train Loss: 1.2418 | Train PPL: 3.4617 | Interval Time: 46.82s
+Batch 50200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 50201/135018 | LR: 0.000244 | Train Loss: 1.3372 | Train PPL: 3.8083 | Interval Time: 46.96s
+Batch 50300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 50301/135018 | LR: 0.000243 | Train Loss: 1.4958 | Train PPL: 4.4628 | Interval Time: 46.94s
+Batch 50400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 50401/135018 | LR: 0.000243 | Train Loss: 1.2455 | Train PPL: 3.4747 | Interval Time: 46.99s
+Batch 50500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 50501/135018 | LR: 0.000243 | Train Loss: 1.3066 | Train PPL: 3.6935 | Interval Time: 46.93s
+Batch 50600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 50601/135018 | LR: 0.000243 | Train Loss: 1.3636 | Train PPL: 3.9101 | Interval Time: 46.95s
+Batch 50700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 50701/135018 | LR: 0.000242 | Train Loss: 1.2623 | Train PPL: 3.5336 | Interval Time: 47.00s
+Batch 50800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 50801/135018 | LR: 0.000242 | Train Loss: 1.2392 | Train PPL: 3.4527 | Interval Time: 47.01s
+Batch 50900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 50901/135018 | LR: 0.000242 | Train Loss: 1.2519 | Train PPL: 3.4971 | Interval Time: 46.97s
+Batch 51000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 51001/135018 | LR: 0.000241 | Train Loss: 1.2375 | Train PPL: 3.4471 | Interval Time: 46.98s
+Batch 51100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 51101/135018 | LR: 0.000241 | Train Loss: 1.3119 | Train PPL: 3.7132 | Interval Time: 46.98s
+Batch 51200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 51201/135018 | LR: 0.000241 | Train Loss: 1.3399 | Train PPL: 3.8187 | Interval Time: 46.88s
+Batch 51300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 51301/135018 | LR: 0.000241 | Train Loss: 1.2940 | Train PPL: 3.6475 | Interval Time: 46.99s
+Batch 51400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 51401/135018 | LR: 0.000240 | Train Loss: 1.1909 | Train PPL: 3.2901 | Interval Time: 46.95s
+Batch 51500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 51501/135018 | LR: 0.000240 | Train Loss: 1.1480 | Train PPL: 3.1518 | Interval Time: 47.03s
+Batch 51600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 51601/135018 | LR: 0.000240 | Train Loss: 1.2786 | Train PPL: 3.5915 | Interval Time: 47.01s
+Batch 51700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 51701/135018 | LR: 0.000239 | Train Loss: 1.1987 | Train PPL: 3.3158 | Interval Time: 47.03s
+Batch 51800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 51801/135018 | LR: 0.000239 | Train Loss: 1.1247 | Train PPL: 3.0793 | Interval Time: 47.01s
+Batch 51900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 51901/135018 | LR: 0.000239 | Train Loss: 1.2761 | Train PPL: 3.5825 | Interval Time: 46.97s
+Batch 52000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 52001/135018 | LR: 0.000238 | Train Loss: 1.3697 | Train PPL: 3.9341 | Interval Time: 47.00s
+Batch 52100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 52101/135018 | LR: 0.000238 | Train Loss: 1.1398 | Train PPL: 3.1260 | Interval Time: 46.97s
+Batch 52200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 52201/135018 | LR: 0.000238 | Train Loss: 1.2450 | Train PPL: 3.4731 | Interval Time: 47.04s
+Batch 52300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 52301/135018 | LR: 0.000238 | Train Loss: 1.2752 | Train PPL: 3.5796 | Interval Time: 47.08s
+Batch 52400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 52401/135018 | LR: 0.000237 | Train Loss: 1.3533 | Train PPL: 3.8702 | Interval Time: 47.07s
+Batch 52500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 52501/135018 | LR: 0.000237 | Train Loss: 1.2943 | Train PPL: 3.6486 | Interval Time: 47.01s
+Batch 52600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 52601/135018 | LR: 0.000237 | Train Loss: 1.4262 | Train PPL: 4.1628 | Interval Time: 47.11s
+Batch 52700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 52701/135018 | LR: 0.000236 | Train Loss: 1.1892 | Train PPL: 3.2845 | Interval Time: 47.07s
+Batch 52800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 52801/135018 | LR: 0.000236 | Train Loss: 1.2356 | Train PPL: 3.4406 | Interval Time: 47.11s
+Batch 52900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 52901/135018 | LR: 0.000236 | Train Loss: 1.2360 | Train PPL: 3.4418 | Interval Time: 47.06s
+Batch 53000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 53001/135018 | LR: 0.000236 | Train Loss: 1.2324 | Train PPL: 3.4293 | Interval Time: 47.04s
+Batch 53100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 53101/135018 | LR: 0.000235 | Train Loss: 1.3359 | Train PPL: 3.8036 | Interval Time: 47.01s
+Batch 53200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 53201/135018 | LR: 0.000235 | Train Loss: 1.1836 | Train PPL: 3.2663 | Interval Time: 47.02s
+Batch 53300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 53301/135018 | LR: 0.000235 | Train Loss: 1.2085 | Train PPL: 3.3484 | Interval Time: 47.02s
+Batch 53400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 53401/135018 | LR: 0.000234 | Train Loss: 1.2587 | Train PPL: 3.5209 | Interval Time: 47.04s
+Batch 53500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 53501/135018 | LR: 0.000234 | Train Loss: 1.2152 | Train PPL: 3.3711 | Interval Time: 46.95s
+Batch 53600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 53601/135018 | LR: 0.000234 | Train Loss: 1.2640 | Train PPL: 3.5397 | Interval Time: 47.00s
+Batch 53700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 53701/135018 | LR: 0.000233 | Train Loss: 1.2187 | Train PPL: 3.3828 | Interval Time: 46.91s
+Batch 53800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 53801/135018 | LR: 0.000233 | Train Loss: 1.2640 | Train PPL: 3.5397 | Interval Time: 46.98s
+Batch 53900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 53901/135018 | LR: 0.000233 | Train Loss: 1.2357 | Train PPL: 3.4407 | Interval Time: 46.90s
+Batch 54000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 54001/135018 | LR: 0.000233 | Train Loss: 1.2067 | Train PPL: 3.3426 | Interval Time: 46.99s
+Batch 54100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 54101/135018 | LR: 0.000232 | Train Loss: 1.2749 | Train PPL: 3.5784 | Interval Time: 46.91s
+Batch 54200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 54201/135018 | LR: 0.000232 | Train Loss: 1.2544 | Train PPL: 3.5056 | Interval Time: 46.98s
+Batch 54300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 54301/135018 | LR: 0.000232 | Train Loss: 1.2269 | Train PPL: 3.4107 | Interval Time: 46.90s
+Batch 54400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 54401/135018 | LR: 0.000231 | Train Loss: 1.0933 | Train PPL: 2.9841 | Interval Time: 46.94s
+Batch 54500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 54501/135018 | LR: 0.000231 | Train Loss: 1.0723 | Train PPL: 2.9220 | Interval Time: 46.88s
+Batch 54600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 54601/135018 | LR: 0.000231 | Train Loss: 1.2329 | Train PPL: 3.4312 | Interval Time: 46.93s
+Batch 54700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 54701/135018 | LR: 0.000230 | Train Loss: 1.1827 | Train PPL: 3.2632 | Interval Time: 46.89s
+Batch 54800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 54801/135018 | LR: 0.000230 | Train Loss: 1.1225 | Train PPL: 3.0726 | Interval Time: 46.88s
+Batch 54900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 54901/135018 | LR: 0.000230 | Train Loss: 1.2542 | Train PPL: 3.5051 | Interval Time: 46.84s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 55000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 55001/135018 | LR: 0.000229 | Train Loss: 1.3242 | Train PPL: 3.7593 | Interval Time: 56.07s
+Batch 55100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 55101/135018 | LR: 0.000229 | Train Loss: 1.2063 | Train PPL: 3.3409 | Interval Time: 46.73s
+Batch 55200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 55201/135018 | LR: 0.000229 | Train Loss: 1.2668 | Train PPL: 3.5495 | Interval Time: 46.75s
+Batch 55300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 55301/135018 | LR: 0.000229 | Train Loss: 1.2168 | Train PPL: 3.3762 | Interval Time: 46.91s
+Batch 55400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 55401/135018 | LR: 0.000228 | Train Loss: 1.0995 | Train PPL: 3.0027 | Interval Time: 46.90s
+Batch 55500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 55501/135018 | LR: 0.000228 | Train Loss: 1.1386 | Train PPL: 3.1223 | Interval Time: 46.92s
+Batch 55600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 55601/135018 | LR: 0.000228 | Train Loss: 1.2469 | Train PPL: 3.4796 | Interval Time: 46.95s
+Batch 55700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 55701/135018 | LR: 0.000227 | Train Loss: 1.2500 | Train PPL: 3.4905 | Interval Time: 46.92s
+Batch 55800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 55801/135018 | LR: 0.000227 | Train Loss: 1.2077 | Train PPL: 3.3458 | Interval Time: 46.92s
+Batch 55900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 55901/135018 | LR: 0.000227 | Train Loss: 1.2624 | Train PPL: 3.5337 | Interval Time: 46.96s
+Batch 56000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 56001/135018 | LR: 0.000226 | Train Loss: 1.1769 | Train PPL: 3.2443 | Interval Time: 47.00s
+Batch 56100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 56101/135018 | LR: 0.000226 | Train Loss: 1.2812 | Train PPL: 3.6008 | Interval Time: 46.98s
+Batch 56200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 56201/135018 | LR: 0.000226 | Train Loss: 1.2171 | Train PPL: 3.3774 | Interval Time: 46.98s
+Batch 56300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 56301/135018 | LR: 0.000225 | Train Loss: 1.1767 | Train PPL: 3.2435 | Interval Time: 47.01s
+Batch 56400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 56401/135018 | LR: 0.000225 | Train Loss: 1.1718 | Train PPL: 3.2278 | Interval Time: 46.98s
+Batch 56500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 56501/135018 | LR: 0.000225 | Train Loss: 1.1534 | Train PPL: 3.1690 | Interval Time: 46.97s
+Batch 56600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 56601/135018 | LR: 0.000225 | Train Loss: 1.2186 | Train PPL: 3.3826 | Interval Time: 46.95s
+Batch 56700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 56701/135018 | LR: 0.000224 | Train Loss: 1.2894 | Train PPL: 3.6307 | Interval Time: 47.00s
+Batch 56800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 56801/135018 | LR: 0.000224 | Train Loss: 1.2377 | Train PPL: 3.4475 | Interval Time: 46.98s
+Batch 56900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 56901/135018 | LR: 0.000224 | Train Loss: 1.2334 | Train PPL: 3.4330 | Interval Time: 47.05s
+Batch 57000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 57001/135018 | LR: 0.000223 | Train Loss: 1.3278 | Train PPL: 3.7729 | Interval Time: 47.05s
+Batch 57100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 57101/135018 | LR: 0.000223 | Train Loss: 1.2531 | Train PPL: 3.5011 | Interval Time: 47.06s
+Batch 57200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 57201/135018 | LR: 0.000223 | Train Loss: 1.2321 | Train PPL: 3.4286 | Interval Time: 47.05s
+Batch 57300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 57301/135018 | LR: 0.000222 | Train Loss: 1.2039 | Train PPL: 3.3331 | Interval Time: 47.06s
+Batch 57400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 57401/135018 | LR: 0.000222 | Train Loss: 1.1624 | Train PPL: 3.1976 | Interval Time: 47.11s
+Batch 57500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 57501/135018 | LR: 0.000222 | Train Loss: 1.2675 | Train PPL: 3.5520 | Interval Time: 47.11s
+Batch 57600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 57601/135018 | LR: 0.000221 | Train Loss: 1.3813 | Train PPL: 3.9799 | Interval Time: 47.05s
+Batch 57700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 57701/135018 | LR: 0.000221 | Train Loss: 1.2197 | Train PPL: 3.3862 | Interval Time: 47.17s
+Batch 57800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 57801/135018 | LR: 0.000221 | Train Loss: 1.3171 | Train PPL: 3.7324 | Interval Time: 47.06s
+Batch 57900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 57901/135018 | LR: 0.000220 | Train Loss: 1.0833 | Train PPL: 2.9545 | Interval Time: 47.04s
+Batch 58000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 58001/135018 | LR: 0.000220 | Train Loss: 1.2370 | Train PPL: 3.4453 | Interval Time: 47.07s
+Batch 58100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 58101/135018 | LR: 0.000220 | Train Loss: 1.1209 | Train PPL: 3.0677 | Interval Time: 46.97s
+Batch 58200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 58201/135018 | LR: 0.000219 | Train Loss: 1.2507 | Train PPL: 3.4928 | Interval Time: 47.05s
+Batch 58300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 58301/135018 | LR: 0.000219 | Train Loss: 1.1470 | Train PPL: 3.1488 | Interval Time: 47.06s
+Batch 58400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 58401/135018 | LR: 0.000219 | Train Loss: 1.3242 | Train PPL: 3.7593 | Interval Time: 46.98s
+Batch 58500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 58501/135018 | LR: 0.000218 | Train Loss: 1.1858 | Train PPL: 3.2732 | Interval Time: 47.00s
+Batch 58600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 58601/135018 | LR: 0.000218 | Train Loss: 1.0956 | Train PPL: 2.9911 | Interval Time: 46.99s
+Batch 58700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 58701/135018 | LR: 0.000218 | Train Loss: 1.3306 | Train PPL: 3.7833 | Interval Time: 46.95s
+Batch 58800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 58801/135018 | LR: 0.000218 | Train Loss: 1.2503 | Train PPL: 3.4912 | Interval Time: 46.94s
+Batch 58900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 58901/135018 | LR: 0.000217 | Train Loss: 1.2203 | Train PPL: 3.3882 | Interval Time: 46.95s
+Batch 59000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 59001/135018 | LR: 0.000217 | Train Loss: 1.1986 | Train PPL: 3.3156 | Interval Time: 46.95s
+Batch 59100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 59101/135018 | LR: 0.000217 | Train Loss: 1.1849 | Train PPL: 3.2703 | Interval Time: 47.00s
+Batch 59200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 59201/135018 | LR: 0.000216 | Train Loss: 1.2750 | Train PPL: 3.5788 | Interval Time: 46.94s
+Batch 59300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 59301/135018 | LR: 0.000216 | Train Loss: 1.2805 | Train PPL: 3.5983 | Interval Time: 46.93s
+Batch 59400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 59401/135018 | LR: 0.000216 | Train Loss: 1.1943 | Train PPL: 3.3013 | Interval Time: 46.81s
+Batch 59500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 59501/135018 | LR: 0.000215 | Train Loss: 1.3522 | Train PPL: 3.8658 | Interval Time: 46.88s
+Batch 59600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 59601/135018 | LR: 0.000215 | Train Loss: 1.2642 | Train PPL: 3.5402 | Interval Time: 46.86s
+Batch 59700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 59701/135018 | LR: 0.000215 | Train Loss: 1.2765 | Train PPL: 3.5841 | Interval Time: 46.87s
+Batch 59800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 59801/135018 | LR: 0.000214 | Train Loss: 1.1624 | Train PPL: 3.1977 | Interval Time: 46.93s
+Batch 59900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 59901/135018 | LR: 0.000214 | Train Loss: 1.2527 | Train PPL: 3.4997 | Interval Time: 46.87s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 60000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 60001/135018 | LR: 0.000214 | Train Loss: 1.2150 | Train PPL: 3.3704 | Interval Time: 56.31s
+Batch 60100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 60101/135018 | LR: 0.000213 | Train Loss: 1.1809 | Train PPL: 3.2572 | Interval Time: 46.70s
+Batch 60200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 60201/135018 | LR: 0.000213 | Train Loss: 1.2818 | Train PPL: 3.6030 | Interval Time: 46.86s
+Batch 60300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 60301/135018 | LR: 0.000213 | Train Loss: 1.2581 | Train PPL: 3.5189 | Interval Time: 46.91s
+Batch 60400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 60401/135018 | LR: 0.000212 | Train Loss: 1.1991 | Train PPL: 3.3171 | Interval Time: 46.86s
+Batch 60500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 60501/135018 | LR: 0.000212 | Train Loss: 1.1885 | Train PPL: 3.2821 | Interval Time: 46.93s
+Batch 60600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 60601/135018 | LR: 0.000212 | Train Loss: 1.2010 | Train PPL: 3.3234 | Interval Time: 47.00s
+Batch 60700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 60701/135018 | LR: 0.000211 | Train Loss: 1.1699 | Train PPL: 3.2217 | Interval Time: 46.93s
+Batch 60800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 60801/135018 | LR: 0.000211 | Train Loss: 1.1556 | Train PPL: 3.1760 | Interval Time: 47.00s
+Batch 60900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 60901/135018 | LR: 0.000211 | Train Loss: 1.2013 | Train PPL: 3.3246 | Interval Time: 46.99s
+Batch 61000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 61001/135018 | LR: 0.000210 | Train Loss: 1.2308 | Train PPL: 3.4241 | Interval Time: 46.93s
+Batch 61100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 61101/135018 | LR: 0.000210 | Train Loss: 1.1098 | Train PPL: 3.0339 | Interval Time: 47.07s
+Batch 61200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 61201/135018 | LR: 0.000210 | Train Loss: 1.2162 | Train PPL: 3.3744 | Interval Time: 47.09s
+Batch 61300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 61301/135018 | LR: 0.000209 | Train Loss: 1.2237 | Train PPL: 3.3997 | Interval Time: 47.05s
+Batch 61400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 61401/135018 | LR: 0.000209 | Train Loss: 1.2262 | Train PPL: 3.4082 | Interval Time: 47.15s
+Batch 61500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 61501/135018 | LR: 0.000209 | Train Loss: 1.1020 | Train PPL: 3.0101 | Interval Time: 47.15s
+Batch 61600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 61601/135018 | LR: 0.000208 | Train Loss: 1.1830 | Train PPL: 3.2643 | Interval Time: 47.13s
+Batch 61700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 61701/135018 | LR: 0.000208 | Train Loss: 1.1590 | Train PPL: 3.1869 | Interval Time: 47.07s
+Batch 61800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 61801/135018 | LR: 0.000208 | Train Loss: 1.2790 | Train PPL: 3.5932 | Interval Time: 47.10s
+Batch 61900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 61901/135018 | LR: 0.000207 | Train Loss: 1.2049 | Train PPL: 3.3364 | Interval Time: 47.17s
+Batch 62000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 62001/135018 | LR: 0.000207 | Train Loss: 1.3068 | Train PPL: 3.6944 | Interval Time: 47.20s
+Batch 62100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 62101/135018 | LR: 0.000207 | Train Loss: 1.1299 | Train PPL: 3.0954 | Interval Time: 47.11s
+Batch 62200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 62201/135018 | LR: 0.000206 | Train Loss: 1.2895 | Train PPL: 3.6308 | Interval Time: 47.16s
+Batch 62300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 62301/135018 | LR: 0.000206 | Train Loss: 1.1030 | Train PPL: 3.0133 | Interval Time: 47.19s
+Batch 62400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 62401/135018 | LR: 0.000206 | Train Loss: 1.2211 | Train PPL: 3.3910 | Interval Time: 47.15s
+Batch 62500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 62501/135018 | LR: 0.000205 | Train Loss: 1.2849 | Train PPL: 3.6143 | Interval Time: 47.16s
+Batch 62600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 62601/135018 | LR: 0.000205 | Train Loss: 1.1759 | Train PPL: 3.2410 | Interval Time: 47.11s
+Batch 62700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 62701/135018 | LR: 0.000205 | Train Loss: 1.2030 | Train PPL: 3.3303 | Interval Time: 47.13s
+Batch 62800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 62801/135018 | LR: 0.000204 | Train Loss: 1.2152 | Train PPL: 3.3710 | Interval Time: 47.11s
+Batch 62900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 62901/135018 | LR: 0.000204 | Train Loss: 1.2822 | Train PPL: 3.6045 | Interval Time: 47.14s
+Batch 63000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 63001/135018 | LR: 0.000204 | Train Loss: 1.2761 | Train PPL: 3.5827 | Interval Time: 47.07s
+Batch 63100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 63101/135018 | LR: 0.000203 | Train Loss: 1.2962 | Train PPL: 3.6553 | Interval Time: 47.03s
+Batch 63200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 63201/135018 | LR: 0.000203 | Train Loss: 1.2393 | Train PPL: 3.4531 | Interval Time: 47.03s
+Batch 63300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 63301/135018 | LR: 0.000203 | Train Loss: 1.1428 | Train PPL: 3.1355 | Interval Time: 46.98s
+Batch 63400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 63401/135018 | LR: 0.000202 | Train Loss: 1.2120 | Train PPL: 3.3603 | Interval Time: 47.06s
+Batch 63500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 63501/135018 | LR: 0.000202 | Train Loss: 1.1605 | Train PPL: 3.1916 | Interval Time: 46.99s
+Batch 63600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 63601/135018 | LR: 0.000202 | Train Loss: 1.1727 | Train PPL: 3.2306 | Interval Time: 47.01s
+Batch 63700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 63701/135018 | LR: 0.000201 | Train Loss: 1.1770 | Train PPL: 3.2445 | Interval Time: 47.08s
+Batch 63800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 63801/135018 | LR: 0.000201 | Train Loss: 1.3021 | Train PPL: 3.6769 | Interval Time: 46.99s
+Batch 63900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 63901/135018 | LR: 0.000201 | Train Loss: 1.1178 | Train PPL: 3.0580 | Interval Time: 46.88s
+Batch 64000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 64001/135018 | LR: 0.000200 | Train Loss: 1.2403 | Train PPL: 3.4566 | Interval Time: 46.90s
+Batch 64100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 64101/135018 | LR: 0.000200 | Train Loss: 1.1808 | Train PPL: 3.2570 | Interval Time: 46.92s
+Batch 64200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 64201/135018 | LR: 0.000200 | Train Loss: 1.1450 | Train PPL: 3.1425 | Interval Time: 46.88s
+Batch 64300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 64301/135018 | LR: 0.000199 | Train Loss: 1.2545 | Train PPL: 3.5060 | Interval Time: 46.89s
+Batch 64400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 64401/135018 | LR: 0.000199 | Train Loss: 1.3953 | Train PPL: 4.0362 | Interval Time: 46.86s
+Batch 64500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 64501/135018 | LR: 0.000199 | Train Loss: 1.2565 | Train PPL: 3.5130 | Interval Time: 46.90s
+Batch 64600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 64601/135018 | LR: 0.000198 | Train Loss: 1.2010 | Train PPL: 3.3236 | Interval Time: 46.82s
+Batch 64700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 64701/135018 | LR: 0.000198 | Train Loss: 1.2154 | Train PPL: 3.3716 | Interval Time: 46.93s
+Batch 64800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 64801/135018 | LR: 0.000198 | Train Loss: 1.1778 | Train PPL: 3.2471 | Interval Time: 46.82s
+Batch 64900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 64901/135018 | LR: 0.000197 | Train Loss: 1.1999 | Train PPL: 3.3198 | Interval Time: 46.87s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 65000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 65001/135018 | LR: 0.000197 | Train Loss: 1.1782 | Train PPL: 3.2486 | Interval Time: 56.10s
+Batch 65100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 65101/135018 | LR: 0.000197 | Train Loss: 1.1853 | Train PPL: 3.2717 | Interval Time: 46.80s
+Batch 65200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 65201/135018 | LR: 0.000196 | Train Loss: 1.0767 | Train PPL: 2.9350 | Interval Time: 46.90s
+Batch 65300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 65301/135018 | LR: 0.000196 | Train Loss: 1.1537 | Train PPL: 3.1699 | Interval Time: 46.90s
+Batch 65400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 65401/135018 | LR: 0.000196 | Train Loss: 1.1313 | Train PPL: 3.0998 | Interval Time: 46.97s
+Batch 65500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 65501/135018 | LR: 0.000195 | Train Loss: 1.2472 | Train PPL: 3.4807 | Interval Time: 46.95s
+Batch 65600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 65601/135018 | LR: 0.000195 | Train Loss: 1.1943 | Train PPL: 3.3012 | Interval Time: 46.89s
+Batch 65700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 65701/135018 | LR: 0.000195 | Train Loss: 1.1370 | Train PPL: 3.1175 | Interval Time: 47.00s
+Batch 65800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 65801/135018 | LR: 0.000194 | Train Loss: 1.2450 | Train PPL: 3.4728 | Interval Time: 47.05s
+Batch 65900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 65901/135018 | LR: 0.000194 | Train Loss: 1.1507 | Train PPL: 3.1605 | Interval Time: 47.05s
+Batch 66000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 66001/135018 | LR: 0.000194 | Train Loss: 1.2268 | Train PPL: 3.4104 | Interval Time: 47.01s
+Batch 66100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 66101/135018 | LR: 0.000193 | Train Loss: 1.3372 | Train PPL: 3.8083 | Interval Time: 47.07s
+Batch 66200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 66201/135018 | LR: 0.000193 | Train Loss: 1.3094 | Train PPL: 3.7039 | Interval Time: 47.08s
+Batch 66300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 66301/135018 | LR: 0.000193 | Train Loss: 1.1505 | Train PPL: 3.1596 | Interval Time: 47.06s
+Batch 66400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 66401/135018 | LR: 0.000192 | Train Loss: 1.2967 | Train PPL: 3.6573 | Interval Time: 47.14s
+Batch 66500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 66501/135018 | LR: 0.000192 | Train Loss: 1.1684 | Train PPL: 3.2169 | Interval Time: 47.08s
+Batch 66600 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 66601/135018 | LR: 0.000192 | Train Loss: 1.1526 | Train PPL: 3.1663 | Interval Time: 47.05s
+Batch 66700 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 66701/135018 | LR: 0.000191 | Train Loss: 1.1586 | Train PPL: 3.1856 | Interval Time: 47.07s
+Batch 66800 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 66801/135018 | LR: 0.000191 | Train Loss: 1.2113 | Train PPL: 3.3579 | Interval Time: 47.14s
+Batch 66900 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 66901/135018 | LR: 0.000191 | Train Loss: 1.1449 | Train PPL: 3.1422 | Interval Time: 47.10s
+Batch 67000 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 67001/135018 | LR: 0.000190 | Train Loss: 1.3671 | Train PPL: 3.9241 | Interval Time: 47.07s
+Batch 67100 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 67101/135018 | LR: 0.000190 | Train Loss: 1.2664 | Train PPL: 3.5479 | Interval Time: 47.08s
+Batch 67200 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 67201/135018 | LR: 0.000190 | Train Loss: 1.2076 | Train PPL: 3.3453 | Interval Time: 47.09s
+Batch 67300 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 67301/135018 | LR: 0.000189 | Train Loss: 1.1522 | Train PPL: 3.1650 | Interval Time: 47.11s
+Batch 67400 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 67401/135018 | LR: 0.000189 | Train Loss: 1.2810 | Train PPL: 3.6001 | Interval Time: 47.10s
+Batch 67500 | Memory: 6222.56 MB (GPU)
+Epoch 1 | Step 67501/135018 | LR: 0.000188 | Train Loss: 1.2508 | Train PPL: 3.4931 | Interval Time: 46.98s
+[Epoch 1 Train Done] Time: 31901.30s | Avg Loss: 1.4875 | Train PPL: 4.43 | Memory: 6222.56 MB (GPU)
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/epoch_1.pt
+[Epoch 1 Val Done] Time: 155.88s | Val Loss: 1.2028 | Val PPL: 3.33 | Memory: 6222.56 MB (GPU)
+
+--- Epoch 2 ---
+Initial memory: 6222.56 MB (GPU)
+Batch 0 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 67510/135018 | LR: 0.000188 | Train Loss: 1.1818 | Train PPL: 3.2604 | Interval Time: 0.48s
+Batch 100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 67610/135018 | LR: 0.000188 | Train Loss: 1.1300 | Train PPL: 3.0956 | Interval Time: 46.95s
+Batch 200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 67710/135018 | LR: 0.000188 | Train Loss: 1.0580 | Train PPL: 2.8807 | Interval Time: 46.91s
+Batch 300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 67810/135018 | LR: 0.000187 | Train Loss: 1.1624 | Train PPL: 3.1976 | Interval Time: 46.95s
+Batch 400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 67910/135018 | LR: 0.000187 | Train Loss: 1.1797 | Train PPL: 3.2534 | Interval Time: 46.87s
+Batch 500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 68010/135018 | LR: 0.000187 | Train Loss: 1.1410 | Train PPL: 3.1300 | Interval Time: 46.85s
+Batch 600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 68110/135018 | LR: 0.000186 | Train Loss: 1.1331 | Train PPL: 3.1052 | Interval Time: 46.85s
+Batch 700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 68210/135018 | LR: 0.000186 | Train Loss: 1.2119 | Train PPL: 3.3597 | Interval Time: 46.91s
+Batch 800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 68310/135018 | LR: 0.000186 | Train Loss: 1.1720 | Train PPL: 3.2285 | Interval Time: 46.83s
+Batch 900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 68410/135018 | LR: 0.000185 | Train Loss: 1.3166 | Train PPL: 3.7306 | Interval Time: 46.84s
+Batch 1000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 68510/135018 | LR: 0.000185 | Train Loss: 1.1220 | Train PPL: 3.0709 | Interval Time: 46.82s
+Batch 1100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 68610/135018 | LR: 0.000185 | Train Loss: 1.2428 | Train PPL: 3.4653 | Interval Time: 46.83s
+Batch 1200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 68710/135018 | LR: 0.000184 | Train Loss: 1.1898 | Train PPL: 3.2863 | Interval Time: 46.86s
+Batch 1300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 68810/135018 | LR: 0.000184 | Train Loss: 1.2348 | Train PPL: 3.4378 | Interval Time: 46.85s
+Batch 1400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 68910/135018 | LR: 0.000184 | Train Loss: 1.1132 | Train PPL: 3.0442 | Interval Time: 46.95s
+Batch 1500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 69010/135018 | LR: 0.000183 | Train Loss: 1.0593 | Train PPL: 2.8845 | Interval Time: 46.90s
+Batch 1600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 69110/135018 | LR: 0.000183 | Train Loss: 1.1304 | Train PPL: 3.0969 | Interval Time: 46.92s
+Batch 1700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 69210/135018 | LR: 0.000183 | Train Loss: 1.1841 | Train PPL: 3.2677 | Interval Time: 46.86s
+Batch 1800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 69310/135018 | LR: 0.000182 | Train Loss: 1.0909 | Train PPL: 2.9770 | Interval Time: 46.88s
+Batch 1900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 69410/135018 | LR: 0.000182 | Train Loss: 1.2220 | Train PPL: 3.3941 | Interval Time: 46.91s
+Batch 2000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 69510/135018 | LR: 0.000182 | Train Loss: 1.2580 | Train PPL: 3.5185 | Interval Time: 46.89s
+Batch 2100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 69610/135018 | LR: 0.000181 | Train Loss: 1.2580 | Train PPL: 3.5182 | Interval Time: 46.89s
+Batch 2200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 69710/135018 | LR: 0.000181 | Train Loss: 1.1413 | Train PPL: 3.1309 | Interval Time: 47.00s
+Batch 2300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 69810/135018 | LR: 0.000180 | Train Loss: 1.2732 | Train PPL: 3.5722 | Interval Time: 47.04s
+Batch 2400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 69910/135018 | LR: 0.000180 | Train Loss: 1.1878 | Train PPL: 3.2798 | Interval Time: 47.04s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 2500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 70010/135018 | LR: 0.000180 | Train Loss: 1.0076 | Train PPL: 2.7389 | Interval Time: 55.84s
+Batch 2600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 70110/135018 | LR: 0.000179 | Train Loss: 1.0826 | Train PPL: 2.9524 | Interval Time: 46.97s
+Batch 2700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 70210/135018 | LR: 0.000179 | Train Loss: 1.2192 | Train PPL: 3.3845 | Interval Time: 47.09s
+Batch 2800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 70310/135018 | LR: 0.000179 | Train Loss: 1.3137 | Train PPL: 3.7201 | Interval Time: 47.11s
+Batch 2900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 70410/135018 | LR: 0.000178 | Train Loss: 1.1347 | Train PPL: 3.1101 | Interval Time: 47.16s
+Batch 3000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 70510/135018 | LR: 0.000178 | Train Loss: 1.0935 | Train PPL: 2.9846 | Interval Time: 47.21s
+Batch 3100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 70610/135018 | LR: 0.000178 | Train Loss: 1.0399 | Train PPL: 2.8289 | Interval Time: 47.26s
+Batch 3200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 70710/135018 | LR: 0.000177 | Train Loss: 1.1709 | Train PPL: 3.2249 | Interval Time: 47.26s
+Batch 3300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 70810/135018 | LR: 0.000177 | Train Loss: 1.2073 | Train PPL: 3.3446 | Interval Time: 47.32s
+Batch 3400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 70910/135018 | LR: 0.000177 | Train Loss: 1.1409 | Train PPL: 3.1296 | Interval Time: 47.32s
+Batch 3500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 71010/135018 | LR: 0.000176 | Train Loss: 1.1043 | Train PPL: 3.0173 | Interval Time: 47.36s
+Batch 3600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 71110/135018 | LR: 0.000176 | Train Loss: 1.2050 | Train PPL: 3.3368 | Interval Time: 47.31s
+Batch 3700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 71210/135018 | LR: 0.000176 | Train Loss: 1.1617 | Train PPL: 3.1953 | Interval Time: 47.30s
+Batch 3800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 71310/135018 | LR: 0.000175 | Train Loss: 1.2441 | Train PPL: 3.4700 | Interval Time: 47.26s
+Batch 3900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 71410/135018 | LR: 0.000175 | Train Loss: 1.0915 | Train PPL: 2.9786 | Interval Time: 47.40s
+Batch 4000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 71510/135018 | LR: 0.000175 | Train Loss: 1.2597 | Train PPL: 3.5245 | Interval Time: 47.33s
+Batch 4100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 71610/135018 | LR: 0.000174 | Train Loss: 1.1479 | Train PPL: 3.1514 | Interval Time: 47.30s
+Batch 4200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 71710/135018 | LR: 0.000174 | Train Loss: 1.1134 | Train PPL: 3.0448 | Interval Time: 47.34s
+Batch 4300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 71810/135018 | LR: 0.000174 | Train Loss: 1.2034 | Train PPL: 3.3314 | Interval Time: 47.42s
+Batch 4400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 71910/135018 | LR: 0.000173 | Train Loss: 1.3201 | Train PPL: 3.7436 | Interval Time: 47.32s
+Batch 4500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 72010/135018 | LR: 0.000173 | Train Loss: 1.1505 | Train PPL: 3.1599 | Interval Time: 47.45s
+Batch 4600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 72110/135018 | LR: 0.000173 | Train Loss: 1.1216 | Train PPL: 3.0697 | Interval Time: 47.38s
+Batch 4700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 72210/135018 | LR: 0.000172 | Train Loss: 1.1678 | Train PPL: 3.2149 | Interval Time: 47.48s
+Batch 4800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 72310/135018 | LR: 0.000172 | Train Loss: 1.1238 | Train PPL: 3.0766 | Interval Time: 47.43s
+Batch 4900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 72410/135018 | LR: 0.000171 | Train Loss: 1.1439 | Train PPL: 3.1390 | Interval Time: 47.30s
+Batch 5000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 72510/135018 | LR: 0.000171 | Train Loss: 1.1418 | Train PPL: 3.1323 | Interval Time: 47.28s
+Batch 5100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 72610/135018 | LR: 0.000171 | Train Loss: 1.1690 | Train PPL: 3.2187 | Interval Time: 47.30s
+Batch 5200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 72710/135018 | LR: 0.000170 | Train Loss: 1.2499 | Train PPL: 3.4899 | Interval Time: 47.25s
+Batch 5300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 72810/135018 | LR: 0.000170 | Train Loss: 1.2783 | Train PPL: 3.5905 | Interval Time: 47.34s
+Batch 5400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 72910/135018 | LR: 0.000170 | Train Loss: 1.1966 | Train PPL: 3.3088 | Interval Time: 47.32s
+Batch 5500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 73010/135018 | LR: 0.000169 | Train Loss: 1.2461 | Train PPL: 3.4768 | Interval Time: 47.36s
+Batch 5600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 73110/135018 | LR: 0.000169 | Train Loss: 1.1723 | Train PPL: 3.2295 | Interval Time: 47.46s
+Batch 5700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 73210/135018 | LR: 0.000169 | Train Loss: 1.1389 | Train PPL: 3.1232 | Interval Time: 47.45s
+Batch 5800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 73310/135018 | LR: 0.000168 | Train Loss: 1.0647 | Train PPL: 2.9001 | Interval Time: 47.47s
+Batch 5900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 73410/135018 | LR: 0.000168 | Train Loss: 1.1223 | Train PPL: 3.0718 | Interval Time: 47.51s
+Batch 6000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 73510/135018 | LR: 0.000168 | Train Loss: 1.1996 | Train PPL: 3.3186 | Interval Time: 47.47s
+Batch 6100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 73610/135018 | LR: 0.000167 | Train Loss: 1.2464 | Train PPL: 3.4779 | Interval Time: 47.51s
+Batch 6200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 73710/135018 | LR: 0.000167 | Train Loss: 1.1919 | Train PPL: 3.2933 | Interval Time: 47.54s
+Batch 6300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 73810/135018 | LR: 0.000167 | Train Loss: 1.1460 | Train PPL: 3.1455 | Interval Time: 47.49s
+Batch 6400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 73910/135018 | LR: 0.000166 | Train Loss: 1.1447 | Train PPL: 3.1415 | Interval Time: 47.46s
+Batch 6500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 74010/135018 | LR: 0.000166 | Train Loss: 1.1256 | Train PPL: 3.0822 | Interval Time: 47.37s
+Batch 6600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 74110/135018 | LR: 0.000166 | Train Loss: 1.3465 | Train PPL: 3.8440 | Interval Time: 47.35s
+Batch 6700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 74210/135018 | LR: 0.000165 | Train Loss: 1.1206 | Train PPL: 3.0666 | Interval Time: 47.31s
+Batch 6800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 74310/135018 | LR: 0.000165 | Train Loss: 1.0650 | Train PPL: 2.9008 | Interval Time: 47.32s
+Batch 6900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 74410/135018 | LR: 0.000164 | Train Loss: 1.1506 | Train PPL: 3.1600 | Interval Time: 47.27s
+Batch 7000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 74510/135018 | LR: 0.000164 | Train Loss: 1.1897 | Train PPL: 3.2860 | Interval Time: 47.27s
+Batch 7100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 74610/135018 | LR: 0.000164 | Train Loss: 1.0996 | Train PPL: 3.0030 | Interval Time: 47.40s
+Batch 7200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 74710/135018 | LR: 0.000163 | Train Loss: 1.1758 | Train PPL: 3.2406 | Interval Time: 47.32s
+Batch 7300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 74810/135018 | LR: 0.000163 | Train Loss: 1.1862 | Train PPL: 3.2748 | Interval Time: 47.33s
+Batch 7400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 74910/135018 | LR: 0.000163 | Train Loss: 1.1035 | Train PPL: 3.0146 | Interval Time: 47.37s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 7500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 75010/135018 | LR: 0.000162 | Train Loss: 1.1334 | Train PPL: 3.1063 | Interval Time: 56.42s
+Batch 7600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 75110/135018 | LR: 0.000162 | Train Loss: 1.2676 | Train PPL: 3.5523 | Interval Time: 47.33s
+Batch 7700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 75210/135018 | LR: 0.000162 | Train Loss: 1.1489 | Train PPL: 3.1547 | Interval Time: 47.35s
+Batch 7800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 75310/135018 | LR: 0.000161 | Train Loss: 1.1724 | Train PPL: 3.2299 | Interval Time: 47.40s
+Batch 7900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 75410/135018 | LR: 0.000161 | Train Loss: 1.2892 | Train PPL: 3.6300 | Interval Time: 47.34s
+Batch 8000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 75510/135018 | LR: 0.000161 | Train Loss: 1.1316 | Train PPL: 3.1007 | Interval Time: 47.36s
+Batch 8100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 75610/135018 | LR: 0.000160 | Train Loss: 1.1774 | Train PPL: 3.2461 | Interval Time: 47.38s
+Batch 8200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 75710/135018 | LR: 0.000160 | Train Loss: 1.0995 | Train PPL: 3.0028 | Interval Time: 47.38s
+Batch 8300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 75810/135018 | LR: 0.000160 | Train Loss: 1.0800 | Train PPL: 2.9448 | Interval Time: 47.36s
+Batch 8400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 75910/135018 | LR: 0.000159 | Train Loss: 1.1443 | Train PPL: 3.1404 | Interval Time: 47.33s
+Batch 8500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 76010/135018 | LR: 0.000159 | Train Loss: 1.1530 | Train PPL: 3.1676 | Interval Time: 47.34s
+Batch 8600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 76110/135018 | LR: 0.000159 | Train Loss: 1.1687 | Train PPL: 3.2178 | Interval Time: 47.25s
+Batch 8700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 76210/135018 | LR: 0.000158 | Train Loss: 1.0714 | Train PPL: 2.9195 | Interval Time: 47.26s
+Batch 8800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 76310/135018 | LR: 0.000158 | Train Loss: 1.1236 | Train PPL: 3.0758 | Interval Time: 47.34s
+Batch 8900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 76410/135018 | LR: 0.000158 | Train Loss: 1.1032 | Train PPL: 3.0139 | Interval Time: 47.31s
+Batch 9000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 76510/135018 | LR: 0.000157 | Train Loss: 1.1865 | Train PPL: 3.2755 | Interval Time: 47.31s
+Batch 9100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 76610/135018 | LR: 0.000157 | Train Loss: 1.0373 | Train PPL: 2.8216 | Interval Time: 47.35s
+Batch 9200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 76710/135018 | LR: 0.000156 | Train Loss: 1.1169 | Train PPL: 3.0554 | Interval Time: 47.30s
+Batch 9300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 76810/135018 | LR: 0.000156 | Train Loss: 1.2341 | Train PPL: 3.4351 | Interval Time: 47.40s
+Batch 9400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 76910/135018 | LR: 0.000156 | Train Loss: 1.3677 | Train PPL: 3.9262 | Interval Time: 47.39s
+Batch 9500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 77010/135018 | LR: 0.000155 | Train Loss: 1.0979 | Train PPL: 2.9978 | Interval Time: 47.41s
+Batch 9600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 77110/135018 | LR: 0.000155 | Train Loss: 1.1838 | Train PPL: 3.2667 | Interval Time: 47.39s
+Batch 9700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 77210/135018 | LR: 0.000155 | Train Loss: 1.2136 | Train PPL: 3.3655 | Interval Time: 47.33s
+Batch 9800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 77310/135018 | LR: 0.000154 | Train Loss: 1.1430 | Train PPL: 3.1362 | Interval Time: 47.34s
+Batch 9900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 77410/135018 | LR: 0.000154 | Train Loss: 1.2149 | Train PPL: 3.3700 | Interval Time: 47.31s
+Batch 10000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 77510/135018 | LR: 0.000154 | Train Loss: 1.0392 | Train PPL: 2.8271 | Interval Time: 47.26s
+Batch 10100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 77610/135018 | LR: 0.000153 | Train Loss: 1.1991 | Train PPL: 3.3170 | Interval Time: 47.21s
+Batch 10200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 77710/135018 | LR: 0.000153 | Train Loss: 1.0914 | Train PPL: 2.9786 | Interval Time: 47.28s
+Batch 10300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 77810/135018 | LR: 0.000153 | Train Loss: 1.2898 | Train PPL: 3.6320 | Interval Time: 47.32s
+Batch 10400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 77910/135018 | LR: 0.000152 | Train Loss: 1.1371 | Train PPL: 3.1176 | Interval Time: 47.27s
+Batch 10500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 78010/135018 | LR: 0.000152 | Train Loss: 1.0683 | Train PPL: 2.9106 | Interval Time: 47.32s
+Batch 10600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 78110/135018 | LR: 0.000152 | Train Loss: 1.0972 | Train PPL: 2.9958 | Interval Time: 47.33s
+Batch 10700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 78210/135018 | LR: 0.000151 | Train Loss: 1.0505 | Train PPL: 2.8592 | Interval Time: 47.38s
+Batch 10800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 78310/135018 | LR: 0.000151 | Train Loss: 1.1102 | Train PPL: 3.0351 | Interval Time: 47.38s
+Batch 10900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 78410/135018 | LR: 0.000151 | Train Loss: 1.1387 | Train PPL: 3.1227 | Interval Time: 47.36s
+Batch 11000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 78510/135018 | LR: 0.000150 | Train Loss: 1.2369 | Train PPL: 3.4449 | Interval Time: 47.35s
+Batch 11100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 78610/135018 | LR: 0.000150 | Train Loss: 1.0940 | Train PPL: 2.9862 | Interval Time: 47.26s
+Batch 11200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 78710/135018 | LR: 0.000150 | Train Loss: 1.1323 | Train PPL: 3.1028 | Interval Time: 47.26s
+Batch 11300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 78810/135018 | LR: 0.000149 | Train Loss: 1.0745 | Train PPL: 2.9284 | Interval Time: 47.26s
+Batch 11400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 78910/135018 | LR: 0.000149 | Train Loss: 1.1454 | Train PPL: 3.1438 | Interval Time: 47.31s
+Batch 11500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 79010/135018 | LR: 0.000148 | Train Loss: 1.1180 | Train PPL: 3.0589 | Interval Time: 47.22s
+Batch 11600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 79110/135018 | LR: 0.000148 | Train Loss: 1.0892 | Train PPL: 2.9718 | Interval Time: 47.15s
+Batch 11700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 79210/135018 | LR: 0.000148 | Train Loss: 1.2484 | Train PPL: 3.4848 | Interval Time: 47.21s
+Batch 11800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 79310/135018 | LR: 0.000147 | Train Loss: 1.1503 | Train PPL: 3.1590 | Interval Time: 47.22s
+Batch 11900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 79410/135018 | LR: 0.000147 | Train Loss: 1.2040 | Train PPL: 3.3333 | Interval Time: 47.19s
+Batch 12000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 79510/135018 | LR: 0.000147 | Train Loss: 1.2321 | Train PPL: 3.4285 | Interval Time: 47.21s
+Batch 12100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 79610/135018 | LR: 0.000146 | Train Loss: 1.1401 | Train PPL: 3.1270 | Interval Time: 47.19s
+Batch 12200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 79710/135018 | LR: 0.000146 | Train Loss: 1.0655 | Train PPL: 2.9024 | Interval Time: 47.30s
+Batch 12300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 79810/135018 | LR: 0.000146 | Train Loss: 1.2116 | Train PPL: 3.3590 | Interval Time: 47.22s
+Batch 12400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 79910/135018 | LR: 0.000145 | Train Loss: 1.1860 | Train PPL: 3.2740 | Interval Time: 47.21s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 12500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 80010/135018 | LR: 0.000145 | Train Loss: 1.2481 | Train PPL: 3.4837 | Interval Time: 56.16s
+Batch 12600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 80110/135018 | LR: 0.000145 | Train Loss: 1.1181 | Train PPL: 3.0589 | Interval Time: 47.07s
+Batch 12700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 80210/135018 | LR: 0.000144 | Train Loss: 1.2254 | Train PPL: 3.4056 | Interval Time: 47.18s
+Batch 12800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 80310/135018 | LR: 0.000144 | Train Loss: 1.1751 | Train PPL: 3.2384 | Interval Time: 47.30s
+Batch 12900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 80410/135018 | LR: 0.000144 | Train Loss: 1.1024 | Train PPL: 3.0115 | Interval Time: 47.24s
+Batch 13000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 80510/135018 | LR: 0.000143 | Train Loss: 1.0841 | Train PPL: 2.9566 | Interval Time: 47.18s
+Batch 13100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 80610/135018 | LR: 0.000143 | Train Loss: 1.2075 | Train PPL: 3.3452 | Interval Time: 47.22s
+Batch 13200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 80710/135018 | LR: 0.000143 | Train Loss: 1.1471 | Train PPL: 3.1490 | Interval Time: 47.24s
+Batch 13300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 80810/135018 | LR: 0.000142 | Train Loss: 1.1610 | Train PPL: 3.1930 | Interval Time: 47.17s
+Batch 13400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 80910/135018 | LR: 0.000142 | Train Loss: 1.2604 | Train PPL: 3.5269 | Interval Time: 47.28s
+Batch 13500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 81010/135018 | LR: 0.000142 | Train Loss: 1.1185 | Train PPL: 3.0603 | Interval Time: 47.17s
+Batch 13600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 81110/135018 | LR: 0.000141 | Train Loss: 1.1821 | Train PPL: 3.2613 | Interval Time: 47.17s
+Batch 13700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 81210/135018 | LR: 0.000141 | Train Loss: 1.0792 | Train PPL: 2.9424 | Interval Time: 47.25s
+Batch 13800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 81310/135018 | LR: 0.000141 | Train Loss: 1.2762 | Train PPL: 3.5831 | Interval Time: 47.21s
+Batch 13900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 81410/135018 | LR: 0.000140 | Train Loss: 1.1556 | Train PPL: 3.1758 | Interval Time: 47.25s
+Batch 14000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 81510/135018 | LR: 0.000140 | Train Loss: 1.1003 | Train PPL: 3.0052 | Interval Time: 47.25s
+Batch 14100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 81610/135018 | LR: 0.000140 | Train Loss: 1.1431 | Train PPL: 3.1363 | Interval Time: 47.23s
+Batch 14200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 81710/135018 | LR: 0.000139 | Train Loss: 1.1825 | Train PPL: 3.2624 | Interval Time: 47.23s
+Batch 14300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 81810/135018 | LR: 0.000139 | Train Loss: 1.2018 | Train PPL: 3.3262 | Interval Time: 47.21s
+Batch 14400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 81910/135018 | LR: 0.000138 | Train Loss: 1.1260 | Train PPL: 3.0834 | Interval Time: 47.16s
+Batch 14500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 82010/135018 | LR: 0.000138 | Train Loss: 1.2212 | Train PPL: 3.3912 | Interval Time: 47.19s
+Batch 14600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 82110/135018 | LR: 0.000138 | Train Loss: 1.0376 | Train PPL: 2.8223 | Interval Time: 47.16s
+Batch 14700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 82210/135018 | LR: 0.000137 | Train Loss: 1.1766 | Train PPL: 3.2434 | Interval Time: 47.17s
+Batch 14800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 82310/135018 | LR: 0.000137 | Train Loss: 1.0788 | Train PPL: 2.9411 | Interval Time: 47.22s
+Batch 14900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 82410/135018 | LR: 0.000137 | Train Loss: 1.1481 | Train PPL: 3.1524 | Interval Time: 47.17s
+Batch 15000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 82510/135018 | LR: 0.000136 | Train Loss: 1.1449 | Train PPL: 3.1423 | Interval Time: 47.19s
+Batch 15100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 82610/135018 | LR: 0.000136 | Train Loss: 1.1727 | Train PPL: 3.2308 | Interval Time: 47.19s
+Batch 15200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 82710/135018 | LR: 0.000136 | Train Loss: 1.1725 | Train PPL: 3.2301 | Interval Time: 47.19s
+Batch 15300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 82810/135018 | LR: 0.000135 | Train Loss: 1.1409 | Train PPL: 3.1296 | Interval Time: 47.21s
+Batch 15400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 82910/135018 | LR: 0.000135 | Train Loss: 1.2060 | Train PPL: 3.3402 | Interval Time: 47.19s
+Batch 15500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 83010/135018 | LR: 0.000135 | Train Loss: 1.1966 | Train PPL: 3.3089 | Interval Time: 47.11s
+Batch 15600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 83110/135018 | LR: 0.000134 | Train Loss: 1.1605 | Train PPL: 3.1917 | Interval Time: 47.24s
+Batch 15700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 83210/135018 | LR: 0.000134 | Train Loss: 1.1208 | Train PPL: 3.0672 | Interval Time: 47.13s
+Batch 15800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 83310/135018 | LR: 0.000134 | Train Loss: 1.0581 | Train PPL: 2.8808 | Interval Time: 47.23s
+Batch 15900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 83410/135018 | LR: 0.000133 | Train Loss: 1.2464 | Train PPL: 3.4780 | Interval Time: 47.11s
+Batch 16000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 83510/135018 | LR: 0.000133 | Train Loss: 1.2391 | Train PPL: 3.4526 | Interval Time: 47.18s
+Batch 16100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 83610/135018 | LR: 0.000133 | Train Loss: 1.0735 | Train PPL: 2.9256 | Interval Time: 47.15s
+Batch 16200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 83710/135018 | LR: 0.000132 | Train Loss: 1.1230 | Train PPL: 3.0740 | Interval Time: 47.10s
+Batch 16300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 83810/135018 | LR: 0.000132 | Train Loss: 1.0700 | Train PPL: 2.9155 | Interval Time: 47.16s
+Batch 16400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 83910/135018 | LR: 0.000132 | Train Loss: 1.2025 | Train PPL: 3.3284 | Interval Time: 47.13s
+Batch 16500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 84010/135018 | LR: 0.000131 | Train Loss: 1.0664 | Train PPL: 2.9048 | Interval Time: 47.13s
+Batch 16600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 84110/135018 | LR: 0.000131 | Train Loss: 1.1191 | Train PPL: 3.0620 | Interval Time: 47.15s
+Batch 16700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 84210/135018 | LR: 0.000131 | Train Loss: 1.2255 | Train PPL: 3.4060 | Interval Time: 47.10s
+Batch 16800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 84310/135018 | LR: 0.000130 | Train Loss: 1.0602 | Train PPL: 2.8870 | Interval Time: 47.15s
+Batch 16900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 84410/135018 | LR: 0.000130 | Train Loss: 1.1354 | Train PPL: 3.1125 | Interval Time: 47.13s
+Batch 17000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 84510/135018 | LR: 0.000130 | Train Loss: 1.2100 | Train PPL: 3.3535 | Interval Time: 47.15s
+Batch 17100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 84610/135018 | LR: 0.000129 | Train Loss: 1.0617 | Train PPL: 2.8914 | Interval Time: 47.22s
+Batch 17200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 84710/135018 | LR: 0.000129 | Train Loss: 1.1810 | Train PPL: 3.2576 | Interval Time: 47.17s
+Batch 17300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 84810/135018 | LR: 0.000129 | Train Loss: 1.0163 | Train PPL: 2.7629 | Interval Time: 47.20s
+Batch 17400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 84910/135018 | LR: 0.000128 | Train Loss: 1.0949 | Train PPL: 2.9888 | Interval Time: 47.13s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 17500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 85010/135018 | LR: 0.000128 | Train Loss: 1.2951 | Train PPL: 3.6515 | Interval Time: 55.73s
+Batch 17600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 85110/135018 | LR: 0.000128 | Train Loss: 1.1508 | Train PPL: 3.1609 | Interval Time: 47.02s
+Batch 17700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 85210/135018 | LR: 0.000127 | Train Loss: 1.0748 | Train PPL: 2.9294 | Interval Time: 47.09s
+Batch 17800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 85310/135018 | LR: 0.000127 | Train Loss: 1.2590 | Train PPL: 3.5218 | Interval Time: 47.15s
+Batch 17900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 85410/135018 | LR: 0.000127 | Train Loss: 1.1755 | Train PPL: 3.2399 | Interval Time: 47.12s
+Batch 18000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 85510/135018 | LR: 0.000126 | Train Loss: 1.0507 | Train PPL: 2.8598 | Interval Time: 47.16s
+Batch 18100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 85610/135018 | LR: 0.000126 | Train Loss: 1.2446 | Train PPL: 3.4716 | Interval Time: 47.17s
+Batch 18200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 85710/135018 | LR: 0.000126 | Train Loss: 1.0798 | Train PPL: 2.9442 | Interval Time: 47.19s
+Batch 18300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 85810/135018 | LR: 0.000125 | Train Loss: 1.1244 | Train PPL: 3.0782 | Interval Time: 47.16s
+Batch 18400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 85910/135018 | LR: 0.000125 | Train Loss: 1.0884 | Train PPL: 2.9695 | Interval Time: 47.21s
+Batch 18500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 86010/135018 | LR: 0.000125 | Train Loss: 1.1953 | Train PPL: 3.3047 | Interval Time: 47.18s
+Batch 18600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 86110/135018 | LR: 0.000124 | Train Loss: 1.1370 | Train PPL: 3.1173 | Interval Time: 47.20s
+Batch 18700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 86210/135018 | LR: 0.000124 | Train Loss: 1.1810 | Train PPL: 3.2576 | Interval Time: 47.15s
+Batch 18800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 86310/135018 | LR: 0.000124 | Train Loss: 1.2357 | Train PPL: 3.4407 | Interval Time: 47.22s
+Batch 18900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 86410/135018 | LR: 0.000123 | Train Loss: 1.0902 | Train PPL: 2.9749 | Interval Time: 47.17s
+Batch 19000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 86510/135018 | LR: 0.000123 | Train Loss: 1.1873 | Train PPL: 3.2782 | Interval Time: 47.17s
+Batch 19100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 86610/135018 | LR: 0.000123 | Train Loss: 1.2481 | Train PPL: 3.4836 | Interval Time: 47.18s
+Batch 19200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 86710/135018 | LR: 0.000122 | Train Loss: 1.0211 | Train PPL: 2.7762 | Interval Time: 47.18s
+Batch 19300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 86810/135018 | LR: 0.000122 | Train Loss: 1.1929 | Train PPL: 3.2967 | Interval Time: 47.21s
+Batch 19400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 86910/135018 | LR: 0.000122 | Train Loss: 1.1109 | Train PPL: 3.0371 | Interval Time: 47.19s
+Batch 19500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 87010/135018 | LR: 0.000121 | Train Loss: 1.0790 | Train PPL: 2.9416 | Interval Time: 47.10s
+Batch 19600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 87110/135018 | LR: 0.000121 | Train Loss: 1.1401 | Train PPL: 3.1269 | Interval Time: 47.27s
+Batch 19700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 87210/135018 | LR: 0.000121 | Train Loss: 1.0652 | Train PPL: 2.9014 | Interval Time: 47.15s
+Batch 19800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 87310/135018 | LR: 0.000120 | Train Loss: 1.1050 | Train PPL: 3.0191 | Interval Time: 47.23s
+Batch 19900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 87410/135018 | LR: 0.000120 | Train Loss: 1.1247 | Train PPL: 3.0793 | Interval Time: 47.26s
+Batch 20000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 87510/135018 | LR: 0.000120 | Train Loss: 1.1551 | Train PPL: 3.1742 | Interval Time: 47.22s
+Batch 20100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 87610/135018 | LR: 0.000119 | Train Loss: 1.1732 | Train PPL: 3.2324 | Interval Time: 47.20s
+Batch 20200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 87710/135018 | LR: 0.000119 | Train Loss: 1.2365 | Train PPL: 3.4437 | Interval Time: 47.25s
+Batch 20300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 87810/135018 | LR: 0.000119 | Train Loss: 1.2063 | Train PPL: 3.3413 | Interval Time: 47.28s
+Batch 20400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 87910/135018 | LR: 0.000118 | Train Loss: 1.1449 | Train PPL: 3.1420 | Interval Time: 47.16s
+Batch 20500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 88010/135018 | LR: 0.000118 | Train Loss: 1.3087 | Train PPL: 3.7012 | Interval Time: 47.24s
+Batch 20600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 88110/135018 | LR: 0.000118 | Train Loss: 1.1433 | Train PPL: 3.1372 | Interval Time: 47.21s
+Batch 20700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 88210/135018 | LR: 0.000117 | Train Loss: 1.0633 | Train PPL: 2.8958 | Interval Time: 47.27s
+Batch 20800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 88310/135018 | LR: 0.000117 | Train Loss: 1.1387 | Train PPL: 3.1228 | Interval Time: 47.17s
+Batch 20900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 88410/135018 | LR: 0.000117 | Train Loss: 1.1922 | Train PPL: 3.2943 | Interval Time: 47.20s
+Batch 21000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 88510/135018 | LR: 0.000116 | Train Loss: 1.2410 | Train PPL: 3.4590 | Interval Time: 47.19s
+Batch 21100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 88610/135018 | LR: 0.000116 | Train Loss: 1.1020 | Train PPL: 3.0101 | Interval Time: 47.19s
+Batch 21200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 88710/135018 | LR: 0.000116 | Train Loss: 1.1590 | Train PPL: 3.1868 | Interval Time: 47.23s
+Batch 21300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 88810/135018 | LR: 0.000115 | Train Loss: 1.1544 | Train PPL: 3.1722 | Interval Time: 47.13s
+Batch 21400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 88910/135018 | LR: 0.000115 | Train Loss: 1.0892 | Train PPL: 2.9718 | Interval Time: 47.18s
+Batch 21500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 89010/135018 | LR: 0.000115 | Train Loss: 1.1709 | Train PPL: 3.2248 | Interval Time: 47.24s
+Batch 21600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 89110/135018 | LR: 0.000114 | Train Loss: 1.1869 | Train PPL: 3.2768 | Interval Time: 47.26s
+Batch 21700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 89210/135018 | LR: 0.000114 | Train Loss: 1.0572 | Train PPL: 2.8784 | Interval Time: 47.30s
+Batch 21800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 89310/135018 | LR: 0.000114 | Train Loss: 1.1192 | Train PPL: 3.0624 | Interval Time: 47.26s
+Batch 21900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 89410/135018 | LR: 0.000113 | Train Loss: 1.0551 | Train PPL: 2.8723 | Interval Time: 47.19s
+Batch 22000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 89510/135018 | LR: 0.000113 | Train Loss: 1.2364 | Train PPL: 3.4433 | Interval Time: 47.22s
+Batch 22100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 89610/135018 | LR: 0.000113 | Train Loss: 1.2590 | Train PPL: 3.5220 | Interval Time: 47.19s
+Batch 22200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 89710/135018 | LR: 0.000113 | Train Loss: 1.1537 | Train PPL: 3.1699 | Interval Time: 47.19s
+Batch 22300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 89810/135018 | LR: 0.000112 | Train Loss: 1.1231 | Train PPL: 3.0743 | Interval Time: 47.16s
+Batch 22400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 89910/135018 | LR: 0.000112 | Train Loss: 1.1879 | Train PPL: 3.2801 | Interval Time: 47.16s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 22500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 90010/135018 | LR: 0.000112 | Train Loss: 1.0987 | Train PPL: 3.0002 | Interval Time: 55.97s
+Batch 22600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 90110/135018 | LR: 0.000111 | Train Loss: 0.9857 | Train PPL: 2.6797 | Interval Time: 47.06s
+Batch 22700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 90210/135018 | LR: 0.000111 | Train Loss: 1.0551 | Train PPL: 2.8724 | Interval Time: 47.19s
+Batch 22800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 90310/135018 | LR: 0.000111 | Train Loss: 1.0435 | Train PPL: 2.8392 | Interval Time: 47.12s
+Batch 22900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 90410/135018 | LR: 0.000110 | Train Loss: 1.1345 | Train PPL: 3.1096 | Interval Time: 47.23s
+Batch 23000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 90510/135018 | LR: 0.000110 | Train Loss: 1.1717 | Train PPL: 3.2275 | Interval Time: 47.20s
+Batch 23100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 90610/135018 | LR: 0.000110 | Train Loss: 1.1811 | Train PPL: 3.2580 | Interval Time: 47.15s
+Batch 23200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 90710/135018 | LR: 0.000109 | Train Loss: 1.2234 | Train PPL: 3.3987 | Interval Time: 47.22s
+Batch 23300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 90810/135018 | LR: 0.000109 | Train Loss: 1.0608 | Train PPL: 2.8886 | Interval Time: 47.19s
+Batch 23400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 90910/135018 | LR: 0.000109 | Train Loss: 1.2260 | Train PPL: 3.4076 | Interval Time: 47.16s
+Batch 23500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 91010/135018 | LR: 0.000108 | Train Loss: 1.1224 | Train PPL: 3.0721 | Interval Time: 47.17s
+Batch 23600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 91110/135018 | LR: 0.000108 | Train Loss: 1.0085 | Train PPL: 2.7415 | Interval Time: 47.12s
+Batch 23700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 91210/135018 | LR: 0.000108 | Train Loss: 1.1768 | Train PPL: 3.2439 | Interval Time: 47.11s
+Batch 23800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 91310/135018 | LR: 0.000107 | Train Loss: 1.1384 | Train PPL: 3.1217 | Interval Time: 47.08s
+Batch 23900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 91410/135018 | LR: 0.000107 | Train Loss: 1.2684 | Train PPL: 3.5550 | Interval Time: 47.11s
+Batch 24000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 91510/135018 | LR: 0.000107 | Train Loss: 1.1456 | Train PPL: 3.1442 | Interval Time: 47.17s
+Batch 24100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 91610/135018 | LR: 0.000106 | Train Loss: 1.0915 | Train PPL: 2.9788 | Interval Time: 47.08s
+Batch 24200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 91710/135018 | LR: 0.000106 | Train Loss: 1.0630 | Train PPL: 2.8951 | Interval Time: 47.11s
+Batch 24300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 91810/135018 | LR: 0.000106 | Train Loss: 1.1230 | Train PPL: 3.0740 | Interval Time: 47.07s
+Batch 24400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 91910/135018 | LR: 0.000106 | Train Loss: 1.1357 | Train PPL: 3.1135 | Interval Time: 47.16s
+Batch 24500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 92010/135018 | LR: 0.000105 | Train Loss: 1.1525 | Train PPL: 3.1662 | Interval Time: 47.20s
+Batch 24600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 92110/135018 | LR: 0.000105 | Train Loss: 1.0644 | Train PPL: 2.8991 | Interval Time: 47.17s
+Batch 24700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 92210/135018 | LR: 0.000105 | Train Loss: 0.9961 | Train PPL: 2.7078 | Interval Time: 47.21s
+Batch 24800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 92310/135018 | LR: 0.000104 | Train Loss: 1.0468 | Train PPL: 2.8484 | Interval Time: 47.26s
+Batch 24900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 92410/135018 | LR: 0.000104 | Train Loss: 1.1120 | Train PPL: 3.0406 | Interval Time: 47.26s
+Batch 25000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 92510/135018 | LR: 0.000104 | Train Loss: 1.2575 | Train PPL: 3.5166 | Interval Time: 47.16s
+Batch 25100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 92610/135018 | LR: 0.000103 | Train Loss: 1.1003 | Train PPL: 3.0051 | Interval Time: 47.23s
+Batch 25200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 92710/135018 | LR: 0.000103 | Train Loss: 1.1192 | Train PPL: 3.0625 | Interval Time: 47.20s
+Batch 25300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 92810/135018 | LR: 0.000103 | Train Loss: 1.0914 | Train PPL: 2.9784 | Interval Time: 47.20s
+Batch 25400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 92910/135018 | LR: 0.000102 | Train Loss: 1.1606 | Train PPL: 3.1917 | Interval Time: 47.13s
+Batch 25500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 93010/135018 | LR: 0.000102 | Train Loss: 1.0970 | Train PPL: 2.9952 | Interval Time: 47.13s
+Batch 25600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 93110/135018 | LR: 0.000102 | Train Loss: 1.1376 | Train PPL: 3.1194 | Interval Time: 47.15s
+Batch 25700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 93210/135018 | LR: 0.000101 | Train Loss: 1.0685 | Train PPL: 2.9110 | Interval Time: 47.18s
+Batch 25800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 93310/135018 | LR: 0.000101 | Train Loss: 1.1912 | Train PPL: 3.2910 | Interval Time: 47.11s
+Batch 25900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 93410/135018 | LR: 0.000101 | Train Loss: 1.1234 | Train PPL: 3.0753 | Interval Time: 47.11s
+Batch 26000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 93510/135018 | LR: 0.000101 | Train Loss: 1.1754 | Train PPL: 3.2395 | Interval Time: 47.20s
+Batch 26100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 93610/135018 | LR: 0.000100 | Train Loss: 1.2038 | Train PPL: 3.3326 | Interval Time: 47.18s
+Batch 26200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 93710/135018 | LR: 0.000100 | Train Loss: 1.1690 | Train PPL: 3.2187 | Interval Time: 47.25s
+Batch 26300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 93810/135018 | LR: 0.000100 | Train Loss: 1.0676 | Train PPL: 2.9085 | Interval Time: 47.18s
+Batch 26400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 93910/135018 | LR: 0.000099 | Train Loss: 1.1735 | Train PPL: 3.2334 | Interval Time: 47.22s
+Batch 26500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 94010/135018 | LR: 0.000099 | Train Loss: 1.0758 | Train PPL: 2.9324 | Interval Time: 47.19s
+Batch 26600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 94110/135018 | LR: 0.000099 | Train Loss: 1.2017 | Train PPL: 3.3257 | Interval Time: 47.24s
+Batch 26700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 94210/135018 | LR: 0.000098 | Train Loss: 1.1000 | Train PPL: 3.0042 | Interval Time: 47.19s
+Batch 26800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 94310/135018 | LR: 0.000098 | Train Loss: 1.0274 | Train PPL: 2.7938 | Interval Time: 47.27s
+Batch 26900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 94410/135018 | LR: 0.000098 | Train Loss: 1.2057 | Train PPL: 3.3390 | Interval Time: 47.19s
+Batch 27000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 94510/135018 | LR: 0.000098 | Train Loss: 1.1760 | Train PPL: 3.2413 | Interval Time: 47.25s
+Batch 27100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 94610/135018 | LR: 0.000097 | Train Loss: 1.0762 | Train PPL: 2.9336 | Interval Time: 47.19s
+Batch 27200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 94710/135018 | LR: 0.000097 | Train Loss: 1.1543 | Train PPL: 3.1717 | Interval Time: 47.19s
+Batch 27300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 94810/135018 | LR: 0.000097 | Train Loss: 1.1995 | Train PPL: 3.3183 | Interval Time: 47.16s
+Batch 27400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 94910/135018 | LR: 0.000096 | Train Loss: 1.1604 | Train PPL: 3.1912 | Interval Time: 47.11s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 27500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 95010/135018 | LR: 0.000096 | Train Loss: 1.1576 | Train PPL: 3.1824 | Interval Time: 55.75s
+Batch 27600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 95110/135018 | LR: 0.000096 | Train Loss: 1.1331 | Train PPL: 3.1052 | Interval Time: 47.09s
+Batch 27700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 95210/135018 | LR: 0.000095 | Train Loss: 1.1066 | Train PPL: 3.0241 | Interval Time: 47.28s
+Batch 27800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 95310/135018 | LR: 0.000095 | Train Loss: 1.0831 | Train PPL: 2.9539 | Interval Time: 47.18s
+Batch 27900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 95410/135018 | LR: 0.000095 | Train Loss: 1.1641 | Train PPL: 3.2030 | Interval Time: 47.29s
+Batch 28000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 95510/135018 | LR: 0.000095 | Train Loss: 1.0504 | Train PPL: 2.8587 | Interval Time: 47.25s
+Batch 28100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 95610/135018 | LR: 0.000094 | Train Loss: 1.1686 | Train PPL: 3.2175 | Interval Time: 47.22s
+Batch 28200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 95710/135018 | LR: 0.000094 | Train Loss: 1.0658 | Train PPL: 2.9031 | Interval Time: 47.25s
+Batch 28300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 95810/135018 | LR: 0.000094 | Train Loss: 1.0588 | Train PPL: 2.8830 | Interval Time: 47.19s
+Batch 28400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 95910/135018 | LR: 0.000093 | Train Loss: 1.0666 | Train PPL: 2.9054 | Interval Time: 47.19s
+Batch 28500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 96010/135018 | LR: 0.000093 | Train Loss: 1.1251 | Train PPL: 3.0804 | Interval Time: 47.21s
+Batch 28600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 96110/135018 | LR: 0.000093 | Train Loss: 1.2104 | Train PPL: 3.3549 | Interval Time: 47.26s
+Batch 28700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 96210/135018 | LR: 0.000092 | Train Loss: 1.0293 | Train PPL: 2.7990 | Interval Time: 47.19s
+Batch 28800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 96310/135018 | LR: 0.000092 | Train Loss: 1.1434 | Train PPL: 3.1374 | Interval Time: 47.14s
+Batch 28900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 96410/135018 | LR: 0.000092 | Train Loss: 1.1493 | Train PPL: 3.1558 | Interval Time: 47.12s
+Batch 29000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 96510/135018 | LR: 0.000092 | Train Loss: 1.0660 | Train PPL: 2.9038 | Interval Time: 47.19s
+Batch 29100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 96610/135018 | LR: 0.000091 | Train Loss: 1.0696 | Train PPL: 2.9141 | Interval Time: 47.11s
+Batch 29200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 96710/135018 | LR: 0.000091 | Train Loss: 1.1596 | Train PPL: 3.1887 | Interval Time: 47.13s
+Batch 29300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 96810/135018 | LR: 0.000091 | Train Loss: 1.1030 | Train PPL: 3.0131 | Interval Time: 47.21s
+Batch 29400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 96910/135018 | LR: 0.000090 | Train Loss: 1.1038 | Train PPL: 3.0156 | Interval Time: 47.24s
+Batch 29500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 97010/135018 | LR: 0.000090 | Train Loss: 1.0360 | Train PPL: 2.8179 | Interval Time: 47.22s
+Batch 29600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 97110/135018 | LR: 0.000090 | Train Loss: 0.9620 | Train PPL: 2.6170 | Interval Time: 47.20s
+Batch 29700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 97210/135018 | LR: 0.000090 | Train Loss: 1.2610 | Train PPL: 3.5291 | Interval Time: 47.22s
+Batch 29800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 97310/135018 | LR: 0.000089 | Train Loss: 1.0546 | Train PPL: 2.8709 | Interval Time: 47.20s
+Batch 29900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 97410/135018 | LR: 0.000089 | Train Loss: 1.1279 | Train PPL: 3.0893 | Interval Time: 47.22s
+Batch 30000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 97510/135018 | LR: 0.000089 | Train Loss: 1.1281 | Train PPL: 3.0898 | Interval Time: 47.22s
+Batch 30100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 97610/135018 | LR: 0.000088 | Train Loss: 1.1485 | Train PPL: 3.1534 | Interval Time: 47.21s
+Batch 30200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 97710/135018 | LR: 0.000088 | Train Loss: 1.0704 | Train PPL: 2.9165 | Interval Time: 47.22s
+Batch 30300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 97810/135018 | LR: 0.000088 | Train Loss: 1.1531 | Train PPL: 3.1681 | Interval Time: 47.22s
+Batch 30400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 97910/135018 | LR: 0.000088 | Train Loss: 1.1167 | Train PPL: 3.0549 | Interval Time: 47.21s
+Batch 30500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 98010/135018 | LR: 0.000087 | Train Loss: 1.1588 | Train PPL: 3.1861 | Interval Time: 47.18s
+Batch 30600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 98110/135018 | LR: 0.000087 | Train Loss: 1.0667 | Train PPL: 2.9059 | Interval Time: 47.21s
+Batch 30700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 98210/135018 | LR: 0.000087 | Train Loss: 1.0074 | Train PPL: 2.7385 | Interval Time: 47.23s
+Batch 30800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 98310/135018 | LR: 0.000086 | Train Loss: 1.1457 | Train PPL: 3.1446 | Interval Time: 47.26s
+Batch 30900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 98410/135018 | LR: 0.000086 | Train Loss: 1.1994 | Train PPL: 3.3180 | Interval Time: 47.23s
+Batch 31000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 98510/135018 | LR: 0.000086 | Train Loss: 1.0066 | Train PPL: 2.7361 | Interval Time: 47.29s
+Batch 31100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 98610/135018 | LR: 0.000086 | Train Loss: 1.1454 | Train PPL: 3.1435 | Interval Time: 47.24s
+Batch 31200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 98710/135018 | LR: 0.000085 | Train Loss: 1.0310 | Train PPL: 2.8038 | Interval Time: 47.26s
+Batch 31300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 98810/135018 | LR: 0.000085 | Train Loss: 1.1126 | Train PPL: 3.0423 | Interval Time: 47.26s
+Batch 31400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 98910/135018 | LR: 0.000085 | Train Loss: 1.1510 | Train PPL: 3.1614 | Interval Time: 47.26s
+Batch 31500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 99010/135018 | LR: 0.000084 | Train Loss: 1.1782 | Train PPL: 3.2487 | Interval Time: 47.32s
+Batch 31600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 99110/135018 | LR: 0.000084 | Train Loss: 1.1311 | Train PPL: 3.0991 | Interval Time: 47.24s
+Batch 31700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 99210/135018 | LR: 0.000084 | Train Loss: 1.0815 | Train PPL: 2.9492 | Interval Time: 47.29s
+Batch 31800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 99310/135018 | LR: 0.000084 | Train Loss: 1.0315 | Train PPL: 2.8054 | Interval Time: 47.20s
+Batch 31900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 99410/135018 | LR: 0.000083 | Train Loss: 1.1372 | Train PPL: 3.1181 | Interval Time: 47.22s
+Batch 32000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 99510/135018 | LR: 0.000083 | Train Loss: 1.1075 | Train PPL: 3.0268 | Interval Time: 47.15s
+Batch 32100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 99610/135018 | LR: 0.000083 | Train Loss: 1.0430 | Train PPL: 2.8379 | Interval Time: 47.10s
+Batch 32200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 99710/135018 | LR: 0.000082 | Train Loss: 1.1286 | Train PPL: 3.0914 | Interval Time: 47.22s
+Batch 32300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 99810/135018 | LR: 0.000082 | Train Loss: 1.0356 | Train PPL: 2.8169 | Interval Time: 47.21s
+Batch 32400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 99910/135018 | LR: 0.000082 | Train Loss: 1.1332 | Train PPL: 3.1056 | Interval Time: 47.27s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 32500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 100010/135018 | LR: 0.000082 | Train Loss: 1.0585 | Train PPL: 2.8820 | Interval Time: 55.95s
+Batch 32600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 100110/135018 | LR: 0.000081 | Train Loss: 1.0535 | Train PPL: 2.8676 | Interval Time: 47.11s
+Batch 32700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 100210/135018 | LR: 0.000081 | Train Loss: 1.0639 | Train PPL: 2.8978 | Interval Time: 47.26s
+Batch 32800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 100310/135018 | LR: 0.000081 | Train Loss: 1.0867 | Train PPL: 2.9645 | Interval Time: 47.19s
+Batch 32900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 100410/135018 | LR: 0.000081 | Train Loss: 1.1341 | Train PPL: 3.1082 | Interval Time: 47.33s
+Batch 33000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 100510/135018 | LR: 0.000080 | Train Loss: 1.1792 | Train PPL: 3.2519 | Interval Time: 47.31s
+Batch 33100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 100610/135018 | LR: 0.000080 | Train Loss: 1.0134 | Train PPL: 2.7551 | Interval Time: 47.28s
+Batch 33200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 100710/135018 | LR: 0.000080 | Train Loss: 1.0063 | Train PPL: 2.7354 | Interval Time: 47.22s
+Batch 33300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 100810/135018 | LR: 0.000079 | Train Loss: 1.0978 | Train PPL: 2.9975 | Interval Time: 47.14s
+Batch 33400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 100910/135018 | LR: 0.000079 | Train Loss: 1.0962 | Train PPL: 2.9929 | Interval Time: 47.16s
+Batch 33500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 101010/135018 | LR: 0.000079 | Train Loss: 1.0269 | Train PPL: 2.7923 | Interval Time: 47.14s
+Batch 33600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 101110/135018 | LR: 0.000079 | Train Loss: 1.2219 | Train PPL: 3.3935 | Interval Time: 47.11s
+Batch 33700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 101210/135018 | LR: 0.000078 | Train Loss: 1.0510 | Train PPL: 2.8606 | Interval Time: 47.15s
+Batch 33800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 101310/135018 | LR: 0.000078 | Train Loss: 1.1604 | Train PPL: 3.1912 | Interval Time: 47.12s
+Batch 33900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 101410/135018 | LR: 0.000078 | Train Loss: 1.0407 | Train PPL: 2.8312 | Interval Time: 47.15s
+Batch 34000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 101510/135018 | LR: 0.000078 | Train Loss: 1.0684 | Train PPL: 2.9107 | Interval Time: 47.17s
+Batch 34100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 101610/135018 | LR: 0.000077 | Train Loss: 1.1487 | Train PPL: 3.1542 | Interval Time: 47.17s
+Batch 34200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 101710/135018 | LR: 0.000077 | Train Loss: 1.1047 | Train PPL: 3.0184 | Interval Time: 47.24s
+Batch 34300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 101810/135018 | LR: 0.000077 | Train Loss: 1.0829 | Train PPL: 2.9533 | Interval Time: 47.24s
+Batch 34400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 101910/135018 | LR: 0.000077 | Train Loss: 1.1346 | Train PPL: 3.1098 | Interval Time: 47.24s
+Batch 34500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 102010/135018 | LR: 0.000076 | Train Loss: 1.0515 | Train PPL: 2.8618 | Interval Time: 47.26s
+Batch 34600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 102110/135018 | LR: 0.000076 | Train Loss: 1.0241 | Train PPL: 2.7846 | Interval Time: 47.24s
+Batch 34700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 102210/135018 | LR: 0.000076 | Train Loss: 1.1577 | Train PPL: 3.1825 | Interval Time: 47.18s
+Batch 34800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 102310/135018 | LR: 0.000075 | Train Loss: 1.1723 | Train PPL: 3.2293 | Interval Time: 47.19s
+Batch 34900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 102410/135018 | LR: 0.000075 | Train Loss: 1.1510 | Train PPL: 3.1615 | Interval Time: 47.19s
+Batch 35000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 102510/135018 | LR: 0.000075 | Train Loss: 1.1238 | Train PPL: 3.0766 | Interval Time: 47.23s
+Batch 35100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 102610/135018 | LR: 0.000075 | Train Loss: 1.0862 | Train PPL: 2.9631 | Interval Time: 47.21s
+Batch 35200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 102710/135018 | LR: 0.000074 | Train Loss: 1.0427 | Train PPL: 2.8369 | Interval Time: 47.24s
+Batch 35300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 102810/135018 | LR: 0.000074 | Train Loss: 1.1436 | Train PPL: 3.1382 | Interval Time: 47.16s
+Batch 35400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 102910/135018 | LR: 0.000074 | Train Loss: 1.0711 | Train PPL: 2.9187 | Interval Time: 47.12s
+Batch 35500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 103010/135018 | LR: 0.000074 | Train Loss: 1.0549 | Train PPL: 2.8718 | Interval Time: 47.17s
+Batch 35600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 103110/135018 | LR: 0.000073 | Train Loss: 1.0341 | Train PPL: 2.8125 | Interval Time: 47.20s
+Batch 35700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 103210/135018 | LR: 0.000073 | Train Loss: 1.1652 | Train PPL: 3.2065 | Interval Time: 47.20s
+Batch 35800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 103310/135018 | LR: 0.000073 | Train Loss: 1.1027 | Train PPL: 3.0121 | Interval Time: 47.17s
+Batch 35900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 103410/135018 | LR: 0.000073 | Train Loss: 1.0943 | Train PPL: 2.9870 | Interval Time: 47.16s
+Batch 36000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 103510/135018 | LR: 0.000072 | Train Loss: 0.9949 | Train PPL: 2.7045 | Interval Time: 47.22s
+Batch 36100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 103610/135018 | LR: 0.000072 | Train Loss: 1.0913 | Train PPL: 2.9783 | Interval Time: 47.30s
+Batch 36200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 103710/135018 | LR: 0.000072 | Train Loss: 1.0612 | Train PPL: 2.8898 | Interval Time: 47.21s
+Batch 36300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 103810/135018 | LR: 0.000072 | Train Loss: 1.2065 | Train PPL: 3.3416 | Interval Time: 47.22s
+Batch 36400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 103910/135018 | LR: 0.000071 | Train Loss: 1.1974 | Train PPL: 3.3115 | Interval Time: 47.28s
+Batch 36500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 104010/135018 | LR: 0.000071 | Train Loss: 1.1846 | Train PPL: 3.2694 | Interval Time: 47.28s
+Batch 36600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 104110/135018 | LR: 0.000071 | Train Loss: 1.0502 | Train PPL: 2.8582 | Interval Time: 47.38s
+Batch 36700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 104210/135018 | LR: 0.000071 | Train Loss: 1.0156 | Train PPL: 2.7610 | Interval Time: 47.32s
+Batch 36800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 104310/135018 | LR: 0.000070 | Train Loss: 1.1152 | Train PPL: 3.0500 | Interval Time: 47.32s
+Batch 36900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 104410/135018 | LR: 0.000070 | Train Loss: 1.0517 | Train PPL: 2.8626 | Interval Time: 47.36s
+Batch 37000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 104510/135018 | LR: 0.000070 | Train Loss: 1.1539 | Train PPL: 3.1705 | Interval Time: 47.34s
+Batch 37100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 104610/135018 | LR: 0.000070 | Train Loss: 1.0821 | Train PPL: 2.9508 | Interval Time: 47.36s
+Batch 37200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 104710/135018 | LR: 0.000069 | Train Loss: 1.1506 | Train PPL: 3.1602 | Interval Time: 47.38s
+Batch 37300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 104810/135018 | LR: 0.000069 | Train Loss: 1.0600 | Train PPL: 2.8865 | Interval Time: 47.40s
+Batch 37400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 104910/135018 | LR: 0.000069 | Train Loss: 1.0742 | Train PPL: 2.9278 | Interval Time: 47.35s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 37500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 105010/135018 | LR: 0.000069 | Train Loss: 1.0759 | Train PPL: 2.9328 | Interval Time: 56.11s
+Batch 37600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 105110/135018 | LR: 0.000068 | Train Loss: 1.1056 | Train PPL: 3.0211 | Interval Time: 47.28s
+Batch 37700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 105210/135018 | LR: 0.000068 | Train Loss: 1.0051 | Train PPL: 2.7322 | Interval Time: 47.33s
+Batch 37800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 105310/135018 | LR: 0.000068 | Train Loss: 1.0477 | Train PPL: 2.8512 | Interval Time: 47.26s
+Batch 37900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 105410/135018 | LR: 0.000068 | Train Loss: 0.9987 | Train PPL: 2.7149 | Interval Time: 47.43s
+Batch 38000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 105510/135018 | LR: 0.000067 | Train Loss: 0.9941 | Train PPL: 2.7022 | Interval Time: 47.32s
+Batch 38100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 105610/135018 | LR: 0.000067 | Train Loss: 1.1676 | Train PPL: 3.2143 | Interval Time: 47.40s
+Batch 38200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 105710/135018 | LR: 0.000067 | Train Loss: 1.0070 | Train PPL: 2.7374 | Interval Time: 47.27s
+Batch 38300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 105810/135018 | LR: 0.000067 | Train Loss: 1.1001 | Train PPL: 3.0045 | Interval Time: 47.40s
+Batch 38400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 105910/135018 | LR: 0.000066 | Train Loss: 1.0163 | Train PPL: 2.7630 | Interval Time: 47.40s
+Batch 38500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 106010/135018 | LR: 0.000066 | Train Loss: 1.1282 | Train PPL: 3.0902 | Interval Time: 47.32s
+Batch 38600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 106110/135018 | LR: 0.000066 | Train Loss: 1.1008 | Train PPL: 3.0066 | Interval Time: 47.39s
+Batch 38700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 106210/135018 | LR: 0.000066 | Train Loss: 1.0525 | Train PPL: 2.8649 | Interval Time: 47.42s
+Batch 38800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 106310/135018 | LR: 0.000066 | Train Loss: 1.1955 | Train PPL: 3.3051 | Interval Time: 47.43s
+Batch 38900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 106410/135018 | LR: 0.000065 | Train Loss: 0.9803 | Train PPL: 2.6652 | Interval Time: 47.45s
+Batch 39000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 106510/135018 | LR: 0.000065 | Train Loss: 0.9940 | Train PPL: 2.7020 | Interval Time: 47.38s
+Batch 39100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 106610/135018 | LR: 0.000065 | Train Loss: 1.0107 | Train PPL: 2.7474 | Interval Time: 47.41s
+Batch 39200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 106710/135018 | LR: 0.000065 | Train Loss: 1.1629 | Train PPL: 3.1991 | Interval Time: 47.40s
+Batch 39300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 106810/135018 | LR: 0.000064 | Train Loss: 1.1741 | Train PPL: 3.2353 | Interval Time: 47.44s
+Batch 39400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 106910/135018 | LR: 0.000064 | Train Loss: 1.1178 | Train PPL: 3.0581 | Interval Time: 47.47s
+Batch 39500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 107010/135018 | LR: 0.000064 | Train Loss: 1.1100 | Train PPL: 3.0342 | Interval Time: 47.39s
+Batch 39600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 107110/135018 | LR: 0.000064 | Train Loss: 1.1362 | Train PPL: 3.1149 | Interval Time: 47.46s
+Batch 39700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 107210/135018 | LR: 0.000063 | Train Loss: 1.1816 | Train PPL: 3.2595 | Interval Time: 47.48s
+Batch 39800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 107310/135018 | LR: 0.000063 | Train Loss: 1.1115 | Train PPL: 3.0388 | Interval Time: 47.44s
+Batch 39900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 107410/135018 | LR: 0.000063 | Train Loss: 0.9910 | Train PPL: 2.6938 | Interval Time: 47.40s
+Batch 40000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 107510/135018 | LR: 0.000063 | Train Loss: 1.0604 | Train PPL: 2.8875 | Interval Time: 47.49s
+Batch 40100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 107610/135018 | LR: 0.000062 | Train Loss: 1.1947 | Train PPL: 3.3025 | Interval Time: 47.46s
+Batch 40200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 107710/135018 | LR: 0.000062 | Train Loss: 0.9883 | Train PPL: 2.6865 | Interval Time: 47.47s
+Batch 40300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 107810/135018 | LR: 0.000062 | Train Loss: 1.0748 | Train PPL: 2.9294 | Interval Time: 47.45s
+Batch 40400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 107910/135018 | LR: 0.000062 | Train Loss: 1.0950 | Train PPL: 2.9891 | Interval Time: 47.56s
+Batch 40500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 108010/135018 | LR: 0.000062 | Train Loss: 1.1481 | Train PPL: 3.1521 | Interval Time: 47.42s
+Batch 40600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 108110/135018 | LR: 0.000061 | Train Loss: 1.1030 | Train PPL: 3.0133 | Interval Time: 47.46s
+Batch 40700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 108210/135018 | LR: 0.000061 | Train Loss: 1.0802 | Train PPL: 2.9454 | Interval Time: 47.48s
+Batch 40800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 108310/135018 | LR: 0.000061 | Train Loss: 1.1290 | Train PPL: 3.0926 | Interval Time: 47.50s
+Batch 40900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 108410/135018 | LR: 0.000061 | Train Loss: 1.1344 | Train PPL: 3.1094 | Interval Time: 47.53s
+Batch 41000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 108510/135018 | LR: 0.000060 | Train Loss: 1.0372 | Train PPL: 2.8212 | Interval Time: 47.44s
+Batch 41100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 108610/135018 | LR: 0.000060 | Train Loss: 1.1752 | Train PPL: 3.2387 | Interval Time: 47.55s
+Batch 41200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 108710/135018 | LR: 0.000060 | Train Loss: 0.9701 | Train PPL: 2.6382 | Interval Time: 47.50s
+Batch 41300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 108810/135018 | LR: 0.000060 | Train Loss: 1.1301 | Train PPL: 3.0961 | Interval Time: 47.54s
+Batch 41400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 108910/135018 | LR: 0.000060 | Train Loss: 1.1627 | Train PPL: 3.1987 | Interval Time: 47.48s
+Batch 41500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 109010/135018 | LR: 0.000059 | Train Loss: 1.2035 | Train PPL: 3.3319 | Interval Time: 47.50s
+Batch 41600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 109110/135018 | LR: 0.000059 | Train Loss: 1.0857 | Train PPL: 2.9614 | Interval Time: 47.55s
+Batch 41700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 109210/135018 | LR: 0.000059 | Train Loss: 1.0159 | Train PPL: 2.7620 | Interval Time: 47.52s
+Batch 41800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 109310/135018 | LR: 0.000059 | Train Loss: 0.9630 | Train PPL: 2.6196 | Interval Time: 47.55s
+Batch 41900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 109410/135018 | LR: 0.000059 | Train Loss: 1.0499 | Train PPL: 2.8574 | Interval Time: 47.53s
+Batch 42000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 109510/135018 | LR: 0.000058 | Train Loss: 1.1491 | Train PPL: 3.1552 | Interval Time: 47.54s
+Batch 42100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 109610/135018 | LR: 0.000058 | Train Loss: 1.1256 | Train PPL: 3.0820 | Interval Time: 47.57s
+Batch 42200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 109710/135018 | LR: 0.000058 | Train Loss: 1.0727 | Train PPL: 2.9232 | Interval Time: 47.59s
+Batch 42300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 109810/135018 | LR: 0.000058 | Train Loss: 1.0034 | Train PPL: 2.7274 | Interval Time: 47.58s
+Batch 42400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 109910/135018 | LR: 0.000057 | Train Loss: 1.0911 | Train PPL: 2.9776 | Interval Time: 47.53s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 42500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 110010/135018 | LR: 0.000057 | Train Loss: 1.1128 | Train PPL: 3.0430 | Interval Time: 56.75s
+Batch 42600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 110110/135018 | LR: 0.000057 | Train Loss: 1.1055 | Train PPL: 3.0207 | Interval Time: 47.43s
+Batch 42700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 110210/135018 | LR: 0.000057 | Train Loss: 1.0015 | Train PPL: 2.7223 | Interval Time: 47.50s
+Batch 42800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 110310/135018 | LR: 0.000057 | Train Loss: 1.0964 | Train PPL: 2.9932 | Interval Time: 47.55s
+Batch 42900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 110410/135018 | LR: 0.000056 | Train Loss: 1.1112 | Train PPL: 3.0380 | Interval Time: 47.59s
+Batch 43000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 110510/135018 | LR: 0.000056 | Train Loss: 1.1365 | Train PPL: 3.1159 | Interval Time: 47.60s
+Batch 43100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 110610/135018 | LR: 0.000056 | Train Loss: 1.0413 | Train PPL: 2.8328 | Interval Time: 47.57s
+Batch 43200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 110710/135018 | LR: 0.000056 | Train Loss: 1.0068 | Train PPL: 2.7369 | Interval Time: 47.58s
+Batch 43300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 110810/135018 | LR: 0.000056 | Train Loss: 1.0936 | Train PPL: 2.9851 | Interval Time: 47.56s
+Batch 43400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 110910/135018 | LR: 0.000055 | Train Loss: 1.1065 | Train PPL: 3.0238 | Interval Time: 47.52s
+Batch 43500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 111010/135018 | LR: 0.000055 | Train Loss: 1.1032 | Train PPL: 3.0139 | Interval Time: 47.64s
+Batch 43600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 111110/135018 | LR: 0.000055 | Train Loss: 1.0043 | Train PPL: 2.7300 | Interval Time: 47.61s
+Batch 43700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 111210/135018 | LR: 0.000055 | Train Loss: 1.1738 | Train PPL: 3.2344 | Interval Time: 47.58s
+Batch 43800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 111310/135018 | LR: 0.000055 | Train Loss: 0.9742 | Train PPL: 2.6490 | Interval Time: 47.60s
+Batch 43900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 111410/135018 | LR: 0.000054 | Train Loss: 0.9275 | Train PPL: 2.5282 | Interval Time: 47.60s
+Batch 44000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 111510/135018 | LR: 0.000054 | Train Loss: 1.1160 | Train PPL: 3.0526 | Interval Time: 47.60s
+Batch 44100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 111610/135018 | LR: 0.000054 | Train Loss: 1.0864 | Train PPL: 2.9636 | Interval Time: 47.59s
+Batch 44200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 111710/135018 | LR: 0.000054 | Train Loss: 1.2498 | Train PPL: 3.4897 | Interval Time: 47.66s
+Batch 44300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 111810/135018 | LR: 0.000054 | Train Loss: 1.0858 | Train PPL: 2.9619 | Interval Time: 47.59s
+Batch 44400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 111910/135018 | LR: 0.000053 | Train Loss: 1.1248 | Train PPL: 3.0797 | Interval Time: 47.64s
+Batch 44500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 112010/135018 | LR: 0.000053 | Train Loss: 1.1065 | Train PPL: 3.0239 | Interval Time: 47.55s
+Batch 44600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 112110/135018 | LR: 0.000053 | Train Loss: 1.0892 | Train PPL: 2.9718 | Interval Time: 47.56s
+Batch 44700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 112210/135018 | LR: 0.000053 | Train Loss: 1.0118 | Train PPL: 2.7505 | Interval Time: 47.58s
+Batch 44800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 112310/135018 | LR: 0.000053 | Train Loss: 1.1358 | Train PPL: 3.1136 | Interval Time: 47.55s
+Batch 44900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 112410/135018 | LR: 0.000052 | Train Loss: 1.0958 | Train PPL: 2.9917 | Interval Time: 47.58s
+Batch 45000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 112510/135018 | LR: 0.000052 | Train Loss: 1.0464 | Train PPL: 2.8473 | Interval Time: 47.59s
+Batch 45100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 112610/135018 | LR: 0.000052 | Train Loss: 1.0665 | Train PPL: 2.9051 | Interval Time: 47.59s
+Batch 45200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 112710/135018 | LR: 0.000052 | Train Loss: 1.1751 | Train PPL: 3.2385 | Interval Time: 47.57s
+Batch 45300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 112810/135018 | LR: 0.000052 | Train Loss: 1.1278 | Train PPL: 3.0889 | Interval Time: 47.60s
+Batch 45400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 112910/135018 | LR: 0.000051 | Train Loss: 1.0647 | Train PPL: 2.9001 | Interval Time: 47.59s
+Batch 45500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 113010/135018 | LR: 0.000051 | Train Loss: 1.1408 | Train PPL: 3.1294 | Interval Time: 47.67s
+Batch 45600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 113110/135018 | LR: 0.000051 | Train Loss: 1.0609 | Train PPL: 2.8891 | Interval Time: 47.60s
+Batch 45700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 113210/135018 | LR: 0.000051 | Train Loss: 1.0698 | Train PPL: 2.9148 | Interval Time: 47.62s
+Batch 45800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 113310/135018 | LR: 0.000051 | Train Loss: 1.1110 | Train PPL: 3.0372 | Interval Time: 47.55s
+Batch 45900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 113410/135018 | LR: 0.000051 | Train Loss: 1.0078 | Train PPL: 2.7394 | Interval Time: 47.62s
+Batch 46000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 113510/135018 | LR: 0.000050 | Train Loss: 1.0990 | Train PPL: 3.0012 | Interval Time: 47.62s
+Batch 46100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 113610/135018 | LR: 0.000050 | Train Loss: 1.0487 | Train PPL: 2.8540 | Interval Time: 47.69s
+Batch 46200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 113710/135018 | LR: 0.000050 | Train Loss: 0.9961 | Train PPL: 2.7077 | Interval Time: 47.61s
+Batch 46300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 113810/135018 | LR: 0.000050 | Train Loss: 1.1057 | Train PPL: 3.0214 | Interval Time: 47.64s
+Batch 46400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 113910/135018 | LR: 0.000050 | Train Loss: 1.0842 | Train PPL: 2.9571 | Interval Time: 47.59s
+Batch 46500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 114010/135018 | LR: 0.000049 | Train Loss: 1.0374 | Train PPL: 2.8219 | Interval Time: 47.61s
+Batch 46600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 114110/135018 | LR: 0.000049 | Train Loss: 1.1924 | Train PPL: 3.2949 | Interval Time: 47.59s
+Batch 46700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 114210/135018 | LR: 0.000049 | Train Loss: 1.0609 | Train PPL: 2.8891 | Interval Time: 47.58s
+Batch 46800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 114310/135018 | LR: 0.000049 | Train Loss: 1.1120 | Train PPL: 3.0403 | Interval Time: 47.59s
+Batch 46900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 114410/135018 | LR: 0.000049 | Train Loss: 1.0352 | Train PPL: 2.8157 | Interval Time: 47.64s
+Batch 47000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 114510/135018 | LR: 0.000049 | Train Loss: 1.1406 | Train PPL: 3.1286 | Interval Time: 47.70s
+Batch 47100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 114610/135018 | LR: 0.000048 | Train Loss: 0.9911 | Train PPL: 2.6941 | Interval Time: 47.61s
+Batch 47200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 114710/135018 | LR: 0.000048 | Train Loss: 1.0707 | Train PPL: 2.9176 | Interval Time: 47.62s
+Batch 47300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 114810/135018 | LR: 0.000048 | Train Loss: 1.0174 | Train PPL: 2.7660 | Interval Time: 47.60s
+Batch 47400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 114910/135018 | LR: 0.000048 | Train Loss: 1.0405 | Train PPL: 2.8305 | Interval Time: 47.59s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 47500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 115010/135018 | LR: 0.000048 | Train Loss: 1.1259 | Train PPL: 3.0831 | Interval Time: 56.98s
+Batch 47600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 115110/135018 | LR: 0.000047 | Train Loss: 0.9991 | Train PPL: 2.7159 | Interval Time: 47.56s
+Batch 47700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 115210/135018 | LR: 0.000047 | Train Loss: 1.0294 | Train PPL: 2.7995 | Interval Time: 47.64s
+Batch 47800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 115310/135018 | LR: 0.000047 | Train Loss: 1.0302 | Train PPL: 2.8017 | Interval Time: 47.77s
+Batch 47900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 115410/135018 | LR: 0.000047 | Train Loss: 1.0174 | Train PPL: 2.7661 | Interval Time: 47.72s
+Batch 48000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 115510/135018 | LR: 0.000047 | Train Loss: 1.0438 | Train PPL: 2.8400 | Interval Time: 47.75s
+Batch 48100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 115610/135018 | LR: 0.000047 | Train Loss: 1.0064 | Train PPL: 2.7357 | Interval Time: 47.70s
+Batch 48200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 115710/135018 | LR: 0.000046 | Train Loss: 1.1071 | Train PPL: 3.0256 | Interval Time: 47.64s
+Batch 48300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 115810/135018 | LR: 0.000046 | Train Loss: 1.1789 | Train PPL: 3.2508 | Interval Time: 47.67s
+Batch 48400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 115910/135018 | LR: 0.000046 | Train Loss: 1.0301 | Train PPL: 2.8014 | Interval Time: 47.69s
+Batch 48500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 116010/135018 | LR: 0.000046 | Train Loss: 1.0971 | Train PPL: 2.9954 | Interval Time: 47.78s
+Batch 48600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 116110/135018 | LR: 0.000046 | Train Loss: 1.1411 | Train PPL: 3.1301 | Interval Time: 47.73s
+Batch 48700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 116210/135018 | LR: 0.000046 | Train Loss: 0.9553 | Train PPL: 2.5994 | Interval Time: 47.70s
+Batch 48800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 116310/135018 | LR: 0.000045 | Train Loss: 1.1705 | Train PPL: 3.2235 | Interval Time: 47.69s
+Batch 48900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 116410/135018 | LR: 0.000045 | Train Loss: 1.1575 | Train PPL: 3.1820 | Interval Time: 47.65s
+Batch 49000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 116510/135018 | LR: 0.000045 | Train Loss: 1.1238 | Train PPL: 3.0765 | Interval Time: 47.72s
+Batch 49100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 116610/135018 | LR: 0.000045 | Train Loss: 1.2073 | Train PPL: 3.3446 | Interval Time: 47.67s
+Batch 49200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 116710/135018 | LR: 0.000045 | Train Loss: 1.0564 | Train PPL: 2.8760 | Interval Time: 47.70s
+Batch 49300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 116810/135018 | LR: 0.000045 | Train Loss: 1.0334 | Train PPL: 2.8106 | Interval Time: 47.73s
+Batch 49400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 116910/135018 | LR: 0.000045 | Train Loss: 1.2065 | Train PPL: 3.3417 | Interval Time: 47.75s
+Batch 49500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 117010/135018 | LR: 0.000044 | Train Loss: 1.0989 | Train PPL: 3.0008 | Interval Time: 47.88s
+Batch 49600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 117110/135018 | LR: 0.000044 | Train Loss: 1.0910 | Train PPL: 2.9772 | Interval Time: 47.88s
+Batch 49700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 117210/135018 | LR: 0.000044 | Train Loss: 1.1230 | Train PPL: 3.0742 | Interval Time: 47.76s
+Batch 49800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 117310/135018 | LR: 0.000044 | Train Loss: 0.9769 | Train PPL: 2.6561 | Interval Time: 47.80s
+Batch 49900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 117410/135018 | LR: 0.000044 | Train Loss: 1.1057 | Train PPL: 3.0214 | Interval Time: 47.74s
+Batch 50000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 117510/135018 | LR: 0.000044 | Train Loss: 1.0081 | Train PPL: 2.7403 | Interval Time: 47.83s
+Batch 50100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 117610/135018 | LR: 0.000043 | Train Loss: 1.1500 | Train PPL: 3.1581 | Interval Time: 47.77s
+Batch 50200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 117710/135018 | LR: 0.000043 | Train Loss: 1.0771 | Train PPL: 2.9363 | Interval Time: 47.78s
+Batch 50300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 117810/135018 | LR: 0.000043 | Train Loss: 1.1360 | Train PPL: 3.1143 | Interval Time: 47.70s
+Batch 50400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 117910/135018 | LR: 0.000043 | Train Loss: 1.0432 | Train PPL: 2.8381 | Interval Time: 47.84s
+Batch 50500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 118010/135018 | LR: 0.000043 | Train Loss: 1.0328 | Train PPL: 2.8088 | Interval Time: 47.72s
+Batch 50600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 118110/135018 | LR: 0.000043 | Train Loss: 1.0469 | Train PPL: 2.8487 | Interval Time: 47.78s
+Batch 50700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 118210/135018 | LR: 0.000043 | Train Loss: 1.0932 | Train PPL: 2.9837 | Interval Time: 47.62s
+Batch 50800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 118310/135018 | LR: 0.000042 | Train Loss: 1.0782 | Train PPL: 2.9395 | Interval Time: 47.85s
+Batch 50900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 118410/135018 | LR: 0.000042 | Train Loss: 1.1500 | Train PPL: 3.1581 | Interval Time: 47.61s
+Batch 51000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 118510/135018 | LR: 0.000042 | Train Loss: 1.0413 | Train PPL: 2.8328 | Interval Time: 47.49s
+Batch 51100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 118610/135018 | LR: 0.000042 | Train Loss: 1.0131 | Train PPL: 2.7542 | Interval Time: 47.55s
+Batch 51200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 118710/135018 | LR: 0.000042 | Train Loss: 0.9753 | Train PPL: 2.6519 | Interval Time: 47.34s
+Batch 51300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 118810/135018 | LR: 0.000042 | Train Loss: 1.0951 | Train PPL: 2.9894 | Interval Time: 47.28s
+Batch 51400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 118910/135018 | LR: 0.000042 | Train Loss: 1.0897 | Train PPL: 2.9734 | Interval Time: 47.22s
+Batch 51500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 119010/135018 | LR: 0.000041 | Train Loss: 1.1915 | Train PPL: 3.2919 | Interval Time: 47.30s
+Batch 51600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 119110/135018 | LR: 0.000041 | Train Loss: 1.1315 | Train PPL: 3.1003 | Interval Time: 47.27s
+Batch 51700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 119210/135018 | LR: 0.000041 | Train Loss: 1.0781 | Train PPL: 2.9391 | Interval Time: 47.25s
+Batch 51800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 119310/135018 | LR: 0.000041 | Train Loss: 1.0268 | Train PPL: 2.7923 | Interval Time: 47.16s
+Batch 51900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 119410/135018 | LR: 0.000041 | Train Loss: 1.0521 | Train PPL: 2.8638 | Interval Time: 47.26s
+Batch 52000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 119510/135018 | LR: 0.000041 | Train Loss: 1.1063 | Train PPL: 3.0230 | Interval Time: 47.15s
+Batch 52100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 119610/135018 | LR: 0.000041 | Train Loss: 0.9875 | Train PPL: 2.6845 | Interval Time: 47.21s
+Batch 52200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 119710/135018 | LR: 0.000040 | Train Loss: 1.0549 | Train PPL: 2.8718 | Interval Time: 47.25s
+Batch 52300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 119810/135018 | LR: 0.000040 | Train Loss: 1.1028 | Train PPL: 3.0127 | Interval Time: 47.22s
+Batch 52400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 119910/135018 | LR: 0.000040 | Train Loss: 1.0443 | Train PPL: 2.8414 | Interval Time: 47.23s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 52500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 120010/135018 | LR: 0.000040 | Train Loss: 1.1714 | Train PPL: 3.2265 | Interval Time: 56.49s
+Batch 52600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 120110/135018 | LR: 0.000040 | Train Loss: 1.0764 | Train PPL: 2.9340 | Interval Time: 47.17s
+Batch 52700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 120210/135018 | LR: 0.000040 | Train Loss: 1.1947 | Train PPL: 3.3025 | Interval Time: 47.24s
+Batch 52800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 120310/135018 | LR: 0.000040 | Train Loss: 1.0808 | Train PPL: 2.9470 | Interval Time: 47.28s
+Batch 52900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 120410/135018 | LR: 0.000040 | Train Loss: 1.0132 | Train PPL: 2.7545 | Interval Time: 47.33s
+Batch 53000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 120510/135018 | LR: 0.000039 | Train Loss: 1.1038 | Train PPL: 3.0157 | Interval Time: 47.36s
+Batch 53100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 120610/135018 | LR: 0.000039 | Train Loss: 1.0420 | Train PPL: 2.8348 | Interval Time: 47.37s
+Batch 53200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 120710/135018 | LR: 0.000039 | Train Loss: 1.0192 | Train PPL: 2.7709 | Interval Time: 47.44s
+Batch 53300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 120810/135018 | LR: 0.000039 | Train Loss: 1.0826 | Train PPL: 2.9523 | Interval Time: 47.40s
+Batch 53400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 120910/135018 | LR: 0.000039 | Train Loss: 1.0696 | Train PPL: 2.9143 | Interval Time: 47.41s
+Batch 53500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 121010/135018 | LR: 0.000039 | Train Loss: 1.0031 | Train PPL: 2.7267 | Interval Time: 47.38s
+Batch 53600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 121110/135018 | LR: 0.000039 | Train Loss: 1.0972 | Train PPL: 2.9957 | Interval Time: 47.39s
+Batch 53700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 121210/135018 | LR: 0.000039 | Train Loss: 1.0519 | Train PPL: 2.8631 | Interval Time: 47.37s
+Batch 53800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 121310/135018 | LR: 0.000038 | Train Loss: 1.0032 | Train PPL: 2.7270 | Interval Time: 47.35s
+Batch 53900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 121410/135018 | LR: 0.000038 | Train Loss: 0.9941 | Train PPL: 2.7022 | Interval Time: 47.36s
+Batch 54000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 121510/135018 | LR: 0.000038 | Train Loss: 1.0185 | Train PPL: 2.7689 | Interval Time: 47.32s
+Batch 54100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 121610/135018 | LR: 0.000038 | Train Loss: 1.0162 | Train PPL: 2.7627 | Interval Time: 47.36s
+Batch 54200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 121710/135018 | LR: 0.000038 | Train Loss: 1.0865 | Train PPL: 2.9638 | Interval Time: 47.28s
+Batch 54300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 121810/135018 | LR: 0.000038 | Train Loss: 0.9726 | Train PPL: 2.6448 | Interval Time: 47.32s
+Batch 54400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 121910/135018 | LR: 0.000038 | Train Loss: 0.9534 | Train PPL: 2.5944 | Interval Time: 47.25s
+Batch 54500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 122010/135018 | LR: 0.000038 | Train Loss: 1.0697 | Train PPL: 2.9144 | Interval Time: 47.30s
+Batch 54600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 122110/135018 | LR: 0.000037 | Train Loss: 1.0087 | Train PPL: 2.7420 | Interval Time: 47.35s
+Batch 54700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 122210/135018 | LR: 0.000037 | Train Loss: 1.1101 | Train PPL: 3.0348 | Interval Time: 47.37s
+Batch 54800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 122310/135018 | LR: 0.000037 | Train Loss: 1.0871 | Train PPL: 2.9657 | Interval Time: 47.31s
+Batch 54900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 122410/135018 | LR: 0.000037 | Train Loss: 1.0334 | Train PPL: 2.8107 | Interval Time: 47.39s
+Batch 55000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 122510/135018 | LR: 0.000037 | Train Loss: 1.1024 | Train PPL: 3.0114 | Interval Time: 47.34s
+Batch 55100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 122610/135018 | LR: 0.000037 | Train Loss: 1.0231 | Train PPL: 2.7818 | Interval Time: 47.33s
+Batch 55200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 122710/135018 | LR: 0.000037 | Train Loss: 1.1091 | Train PPL: 3.0317 | Interval Time: 47.29s
+Batch 55300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 122810/135018 | LR: 0.000037 | Train Loss: 1.0903 | Train PPL: 2.9752 | Interval Time: 47.21s
+Batch 55400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 122910/135018 | LR: 0.000037 | Train Loss: 1.1562 | Train PPL: 3.1780 | Interval Time: 47.35s
+Batch 55500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 123010/135018 | LR: 0.000036 | Train Loss: 1.0996 | Train PPL: 3.0028 | Interval Time: 47.27s
+Batch 55600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 123110/135018 | LR: 0.000036 | Train Loss: 1.0386 | Train PPL: 2.8253 | Interval Time: 47.28s
+Batch 55700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 123210/135018 | LR: 0.000036 | Train Loss: 1.0574 | Train PPL: 2.8790 | Interval Time: 47.35s
+Batch 55800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 123310/135018 | LR: 0.000036 | Train Loss: 1.0400 | Train PPL: 2.8294 | Interval Time: 47.26s
+Batch 55900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 123410/135018 | LR: 0.000036 | Train Loss: 0.9912 | Train PPL: 2.6944 | Interval Time: 47.23s
+Batch 56000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 123510/135018 | LR: 0.000036 | Train Loss: 1.0275 | Train PPL: 2.7940 | Interval Time: 47.25s
+Batch 56100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 123610/135018 | LR: 0.000036 | Train Loss: 1.1882 | Train PPL: 3.2810 | Interval Time: 47.34s
+Batch 56200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 123710/135018 | LR: 0.000036 | Train Loss: 1.1142 | Train PPL: 3.0470 | Interval Time: 47.37s
+Batch 56300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 123810/135018 | LR: 0.000036 | Train Loss: 1.0321 | Train PPL: 2.8069 | Interval Time: 47.30s
+Batch 56400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 123910/135018 | LR: 0.000036 | Train Loss: 1.0593 | Train PPL: 2.8842 | Interval Time: 47.43s
+Batch 56500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 124010/135018 | LR: 0.000035 | Train Loss: 1.0441 | Train PPL: 2.8409 | Interval Time: 47.46s
+Batch 56600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 124110/135018 | LR: 0.000035 | Train Loss: 0.9509 | Train PPL: 2.5880 | Interval Time: 47.42s
+Batch 56700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 124210/135018 | LR: 0.000035 | Train Loss: 0.9240 | Train PPL: 2.5194 | Interval Time: 47.49s
+Batch 56800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 124310/135018 | LR: 0.000035 | Train Loss: 1.0590 | Train PPL: 2.8834 | Interval Time: 47.50s
+Batch 56900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 124410/135018 | LR: 0.000035 | Train Loss: 1.0453 | Train PPL: 2.8443 | Interval Time: 47.38s
+Batch 57000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 124510/135018 | LR: 0.000035 | Train Loss: 0.9814 | Train PPL: 2.6683 | Interval Time: 47.37s
+Batch 57100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 124610/135018 | LR: 0.000035 | Train Loss: 1.0328 | Train PPL: 2.8090 | Interval Time: 47.48s
+Batch 57200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 124710/135018 | LR: 0.000035 | Train Loss: 1.1127 | Train PPL: 3.0426 | Interval Time: 47.49s
+Batch 57300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 124810/135018 | LR: 0.000035 | Train Loss: 0.9874 | Train PPL: 2.6844 | Interval Time: 47.47s
+Batch 57400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 124910/135018 | LR: 0.000035 | Train Loss: 0.9412 | Train PPL: 2.5630 | Interval Time: 47.33s
+[Checkpoint] Saved: ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt
+Batch 57500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 125010/135018 | LR: 0.000034 | Train Loss: 1.1372 | Train PPL: 3.1181 | Interval Time: 57.04s
+Batch 57600 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 125110/135018 | LR: 0.000034 | Train Loss: 0.9929 | Train PPL: 2.6990 | Interval Time: 47.25s
+Batch 57700 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 125210/135018 | LR: 0.000034 | Train Loss: 1.1558 | Train PPL: 3.1764 | Interval Time: 47.36s
+Batch 57800 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 125310/135018 | LR: 0.000034 | Train Loss: 1.0353 | Train PPL: 2.8160 | Interval Time: 47.30s
+Batch 57900 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 125410/135018 | LR: 0.000034 | Train Loss: 1.0672 | Train PPL: 2.9073 | Interval Time: 47.37s
+Batch 58000 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 125510/135018 | LR: 0.000034 | Train Loss: 1.1309 | Train PPL: 3.0985 | Interval Time: 47.40s
+Batch 58100 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 125610/135018 | LR: 0.000034 | Train Loss: 0.9852 | Train PPL: 2.6784 | Interval Time: 47.35s
+Batch 58200 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 125710/135018 | LR: 0.000034 | Train Loss: 1.0855 | Train PPL: 2.9609 | Interval Time: 47.35s
+Batch 58300 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 125810/135018 | LR: 0.000034 | Train Loss: 1.0855 | Train PPL: 2.9608 | Interval Time: 47.31s
+Batch 58400 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 125910/135018 | LR: 0.000034 | Train Loss: 1.0050 | Train PPL: 2.7320 | Interval Time: 47.35s
+Batch 58500 | Memory: 6222.56 MB (GPU)
+Epoch 2 | Step 126010/135018 | LR: 0.000034 | Train Loss: 1.1097 | Train PPL: 3.0334 | Interval Time: 47.43s

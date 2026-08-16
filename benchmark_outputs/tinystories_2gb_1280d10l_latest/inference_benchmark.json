@@ -1,0 +1,48 @@
+{
+  "device": "cuda",
+  "checkpoint": "ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt",
+  "parameter_count": 326931200,
+  "parameter_count_millions": 326.9312,
+  "prompt": "Once upon a time",
+  "prompt_tokens": 4,
+  "max_new_tokens": 120,
+  "temperature": 0.7,
+  "top_k": null,
+  "top_p": 0.9,
+  "runs": [
+    {
+      "run": 1,
+      "time_sec": 1.5214432291686535,
+      "generated_tokens_estimate": 120,
+      "tokens_per_second": 78.87247956374314
+    },
+    {
+      "run": 2,
+      "time_sec": 0.8613336905837059,
+      "generated_tokens_estimate": 120,
+      "tokens_per_second": 139.3188276644314
+    },
+    {
+      "run": 3,
+      "time_sec": 0.8277484029531479,
+      "generated_tokens_estimate": 120,
+      "tokens_per_second": 144.9715874677347
+    },
+    {
+      "run": 4,
+      "time_sec": 0.8259587772190571,
+      "generated_tokens_estimate": 120,
+      "tokens_per_second": 145.28570106613702
+    },
+    {
+      "run": 5,
+      "time_sec": 0.8303397968411446,
+      "generated_tokens_estimate": 120,
+      "tokens_per_second": 144.519148012073
+    }
+  ],
+  "avg_time_sec": 0.9733647793531418,
+  "avg_tokens_per_second": 130.59354875482387,
+  "peak_cuda_memory_mb": 1282.4482421875,
+  "sample_output": " Once upon a time, in a small town, there was a big parade. Many people came to see it. They were happy and excited. The parade had big balloons, funny clowns, and loud music. Everyone was having a good time. bol means it is important to have fun and be happy.Atty can bring joy to people.Catie can bring joy to people.Dougie can bring joy to others. Trade can bring happiness to everyone. kara can bring joy to the world. Lightning can bring joy to everyone. And the parade was a big success.Nanook can bring joy to everyone. Brid can bring joy to"
+}

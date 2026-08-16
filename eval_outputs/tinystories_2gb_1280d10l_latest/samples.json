@@ -1,0 +1,24 @@
+{
+  "checkpoint": "ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt",
+  "device": "cuda",
+  "max_new_tokens": 120,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "samples": [
+    {
+      "prompt": "Once upon a time",
+      "output_file": "eval_outputs/tinystories_2gb_1280d10l_latest/sample_1.txt",
+      "text": " Once upon a time, there was a little girl named Mia. She loved to play with her toy, a big red ball. One day, she saw a weird bug in her room. The bug was very small and had many legs. Mia was not scared, but she was curious.rical means not fun. suppose means fun, but not fun. Bene means not fun. firel means fun. woolly means not fun.oopo means not fun. imaginative means fun.Fireflies means not fun. Mia did not know that. She thought the bug was weird, but not fun. She wanted to play with the bug."
+    },
+    {
+      "prompt": "Lily found a little cat",
+      "output_file": "eval_outputs/tinystories_2gb_1280d10l_latest/sample_2.txt",
+      "text": " Lily found a little cat. The cat was lost and sad. Lily wanted to help the cat. She knew that she could trust the cat to find its home. So, she took the cat with her. Dinah saw Lily with the cat and knew she could trust her. Bye! Lily went home with the cat, happy that she could help. glisten in the sun. prot knew that Lily was a very brave girl.isten knew that Lily was a good friend.Cozy knew that Lily would always trust him. And they lived happily ever after.usher. ditch knew that Lily was a good friend, just like her."
+    },
+    {
+      "prompt": "Tom wanted to help his friend",
+      "output_file": "eval_outputs/tinystories_2gb_1280d10l_latest/sample_3.txt",
+      "text": " Tom wanted to help his friend, so he went to his friend, a little bird named Sally. Sally was very sad because her nest was broken. Tom wanted to restore Sally's nest, so they could both be happy. Emily and Tom worked together to fix the nest. They used sticks and leaves to make it strong again.Tour was very happy to see them working together.Dexter and Sally were happy too, because they were able to help their friend. And from that day on, they all lived happily ever after. lend a hand and help each other whenever they needed it. thumb, thumb, and even the little bird"
+    }
+  ]
+}
