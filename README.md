@@ -1,91 +1,66 @@
 # mini-transformer
 
-A hand-written Mini GPT / decoder-only Transformer language model for learning and experimentation.
+A from-scratch Mini GPT / decoder-only Transformer implementation for learning language model pretraining.
 
-This repository implements a compact language-modeling pipeline from tokenization and data preparation to model training, checkpoint loading, text generation, unit tests, and inference benchmarking. The project is based on the Datawhale DIY-LLM Assignment 1 learning task, with extra training scripts, evaluation scripts, benchmark outputs, and lightweight experiment artifacts.
-
-## Current Status
-
-The current trained checkpoint is not tracked by Git because it is about 2GB. It was trained separately on AutoDL and can be placed at:
-
-```text
-ckpt_tinystories_300mb_1024d6l/epoch_1.pt
-```
-
-Current checkpoint summary:
-
-```text
-Dataset subset: TinyStories, about 300MB raw text
-Training epoch: 1
-Model size: 178.83M parameters
-Checkpoint size: about 2.0GB
-Benchmark device: CUDA GPU
-Average inference speed: about 171 tokens/s
-Peak CUDA memory during benchmark: about 716 MB
-```
-
-The model can generate short TinyStories-style English text. The output is readable and usually follows the prompt, but it still contains repeated phrases, unusual words, and occasional entity drift because it was trained from scratch on a small subset for only one epoch.
+This project is based on Datawhale DIY-LLM Assignment 1, but has been extended into a more complete training and evaluation pipeline.
 
 ## Features
 
-- Custom `Linear` layer and embedding layer
-- `RMSNorm`
-- RoPE rotary positional embedding
+- BPE tokenizer loading
+- Decoder-only Transformer language model
+- RMSNorm
+- RoPE positional embedding
 - Multi-head causal self-attention
 - SwiGLU feed-forward network
-- Pre-norm Transformer block
-- Decoder-only `TransformerLM`
-- Custom `AdamW` optimizer
-- Next-token prediction training loop
-- Cosine learning-rate schedule with warmup
-- Checkpoint save/load
-- Top-k / top-p sampling inference
-- Unit tests with `pytest`
-- Real checkpoint text-sample generation
-- Real checkpoint inference benchmark
+- Custom AdamW optimizer
+- Next-token prediction training
+- Checkpoint saving and resuming
+- Text generation with top-k / top-p sampling
+- Evaluation sample generation
+- Inference benchmark
+- Lightweight training logs and result artifacts
 
 ## Project Structure
 
 ```text
 mini-transformer/
-|-- model.py                              # model architecture: RoPE, attention, SwiGLU, TransformerLM
-|-- train.py                              # training loop, dataset, optimizer, checkpoint, PPL curves
-|-- prepare_data.py                       # raw text -> token ids -> data.bin
-|-- infer.py                              # load checkpoint and generate text
-|-- requirements.txt                      # Python dependencies
-|-- README.md                             # project documentation
-|-- EVAL_COMMANDS.md                      # evaluation and benchmark commands
-|-- bpe_tokenizer/
-|   `-- tokenizer.json                    # BPE tokenizer vocabulary and merge rules
-|-- data/
-|   |-- .gitkeep
-|   |-- tiny_corpus.txt                   # small smoke-test corpus
-|   `-- raw/
-|       `-- .gitkeep                      # raw datasets are ignored by Git
-|-- ckpt_tinystories_300mb_1024d6l/
-|   |-- .gitkeep
-|   |-- train_ppl.png                     # lightweight training curve
-|   |-- val_ppl.png                       # lightweight validation curve
-|   `-- epoch_1.pt                        # external checkpoint, not tracked by Git
-|-- logs/
-|   |-- .gitkeep
-|   |-- train_300mb_180m.log              # 300MB training log
-|   `-- train_1gb_1536d12l.log            # 1GB interrupted training log
-|-- scripts/
-|   |-- prepare_tinystories_300mb.py      # build 300MB TinyStories token bin
-|   |-- prepare_tinystories_1gb.py        # build 1GB TinyStories token bin
-|   |-- generate_samples.py               # generate sample outputs from checkpoint
-|   `-- run_eval.sh                       # run tests, samples, benchmark
-|-- tests/
-|   |-- test_model.py                     # model forward and generation-related tests
-|   |-- test_dataset.py                   # causal dataset test
-|   |-- test_train_step.py                # one-step training/backward test
-|   `-- test_checkpoint.py                # checkpoint save/load test
-|-- benchmarks/
-|   `-- benchmark_inference.py            # real checkpoint inference benchmark
-|-- eval_outputs/                         # generated text samples, optional tracked small artifacts
-|-- benchmark_outputs/                    # benchmark JSON result, optional tracked small artifacts
-`-- test_outputs/                         # pytest output text, optional tracked small artifact
+├── model.py                         # model architecture and generation utilities
+├── train.py                         # training loop, checkpointing, validation, PPL curves
+├── infer.py                         # load checkpoint and generate text
+├── prepare_data.py                  # generic text-to-token-bin preprocessing
+├── requirements.txt                 # Python dependencies
+├── README.md
+├── EVAL_COMMANDS.md                 # evaluation command examples
+├── bpe_tokenizer/
+│   └── tokenizer.json               # BPE tokenizer vocabulary and merge rules
+├── data/
+│   ├── .gitkeep
+│   ├── tiny_corpus.txt              # small smoke-test corpus
+│   └── raw/
+│       └── .gitkeep                 # raw large datasets are not tracked
+├── scripts/
+│   ├── prepare_tinystories_300mb.py # prepare 300MB TinyStories subset
+│   ├── prepare_tinystories_1gb.py   # prepare 1GB TinyStories subset
+│   ├── prepare_tinystories_2gb.py   # prepare 2GB TinyStories subset
+│   ├── generate_samples.py          # generate evaluation samples
+│   └── run_eval.sh                  # evaluation helper script
+├── tests/
+│   ├── test_model.py
+│   ├── test_dataset.py
+│   ├── test_train_step.py
+│   └── test_checkpoint.py
+├── benchmarks/
+│   └── benchmark_inference.py       # inference speed and memory benchmark
+├── eval_outputs/
+│   ├── tinystories_300mb_1024d6l_epoch1/
+│   └── tinystories_2gb_1280d10l_latest/
+├── benchmark_outputs/
+│   ├── tinystories_300mb_1024d6l_epoch1/
+│   └── tinystories_2gb_1280d10l_latest/
+└── logs/
+    ├── train_300mb_180m.log
+    ├── train_1gb_1536d12l.log
+    └── train_2gb_1280d10l_2ep_fixed.log
 ```
 
 ## Environment
@@ -100,58 +75,66 @@ Main dependencies:
 
 ```text
 torch
-transformers
 numpy
 matplotlib
+tokenizers
+transformers
 pytest
 ```
 
-Check CUDA:
+Recommended GPU environment:
+
+- CUDA-enabled GPU
+- 16GB+ VRAM for small experiments
+- 32GB+ VRAM recommended for larger runs
+
+## Dataset
+
+The main dataset used in the larger experiments is TinyStories:
 
 ```bash
-python - <<'PY'
-import torch
-print(torch.__version__)
-print(torch.cuda.is_available())
-if torch.cuda.is_available():
-    print(torch.cuda.get_device_name(0))
-PY
+mkdir -p data/raw
+
+curl -L -C - \
+  "https://hf-mirror.com/datasets/roneneldan/TinyStories/resolve/main/TinyStoriesV2-GPT4-train.txt" \
+  -o data/raw/TinyStoriesV2-GPT4-train.txt
 ```
+
+Large raw data files are ignored by Git and should be kept locally or on the training machine.
 
 ## Data Preparation
 
-Raw and tokenized datasets are not tracked by Git. Large files should be placed under `data/raw/` or `data/*.bin` locally.
-
-Example: prepare a 300MB TinyStories subset:
+Prepare a 300MB TinyStories subset:
 
 ```bash
 python scripts/prepare_tinystories_300mb.py
 ```
 
-Example: prepare a 1GB TinyStories subset:
+Prepare a 2GB TinyStories subset:
 
 ```bash
-python scripts/prepare_tinystories_1gb.py
+python scripts/prepare_tinystories_2gb.py
 ```
 
-Expected outputs:
+The preprocessing script reads raw text, tokenizes it with `bpe_tokenizer/tokenizer.json`, and saves token IDs as a binary `.bin` file.
+
+Example outputs:
 
 ```text
 data/raw/TinyStories_300MB.txt
 data/tinystories_300mb.bin
 
-data/raw/TinyStories_1GB.txt
-data/tinystories_1gb.bin
+data/raw/TinyStories_2GB.txt
+data/tinystories_2gb.bin
 ```
 
-These generated files are ignored by `.gitignore`.
+These files are not uploaded to GitHub.
 
 ## Training
 
-Example training command for the 300MB / 178M-parameter run:
+### 300MB Baseline Run
 
 ```bash
-mkdir -p logs
 PYTHONUNBUFFERED=1 python train.py \
   --data_path data/tinystories_300mb.bin \
   --epochs 1 \
@@ -164,44 +147,76 @@ PYTHONUNBUFFERED=1 python train.py \
   2>&1 | tee logs/train_300mb_180m.log
 ```
 
-The resulting checkpoint is large and is intentionally ignored by Git:
+### 2GB Larger Run
 
-```text
-ckpt_tinystories_300mb_1024d6l/epoch_1.pt
+```bash
+PYTHONUNBUFFERED=1 python train.py \
+  --data_path data/tinystories_2gb.bin \
+  --epochs 2 \
+  --batch_size 12 \
+  --context_length 512 \
+  --d_model 1280 \
+  --num_heads 16 \
+  --num_layers 10 \
+  --save_every_steps 5000 \
+  --max_val_batches 1000 \
+  --checkpoint_dir ckpt_tinystories_2gb_1280d10l_2ep_fixed \
+  2>&1 | tee logs/train_2gb_1280d10l_2ep_fixed.log
 ```
 
-Training curves are lightweight and can be tracked:
+The training script saves:
 
-```text
-ckpt_tinystories_300mb_1024d6l/train_ppl.png
-ckpt_tinystories_300mb_1024d6l/val_ppl.png
-```
+- `latest.pt`
+- `epoch_*.pt`
+- `interrupted.pt` if interrupted
+- `train_ppl.png`
+- `val_ppl.png`
+
+Checkpoints are ignored by Git because they are large.
 
 ## Inference
 
-Run text generation from a trained checkpoint:
+Generate text from a checkpoint:
 
 ```bash
 python infer.py \
-  --checkpoint ckpt_tinystories_300mb_1024d6l/epoch_1.pt \
+  --checkpoint ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt \
   --prompt "Once upon a time" \
   --max_new_tokens 120 \
   --temperature 0.7 \
   --top_p 0.9
 ```
 
-Another prompt:
+Another example:
 
 ```bash
 python infer.py \
-  --checkpoint ckpt_tinystories_300mb_1024d6l/epoch_1.pt \
+  --checkpoint ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt \
   --prompt "Lily found a little cat" \
   --max_new_tokens 120 \
   --temperature 0.7 \
   --top_p 0.9
 ```
 
-## Tests
+## Evaluation
+
+Generate multiple fixed samples:
+
+```bash
+python scripts/generate_samples.py \
+  --checkpoint ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt \
+  --output_dir eval_outputs/tinystories_2gb_1280d10l_latest
+```
+
+Run inference benchmark:
+
+```bash
+PYTHONPATH=. python benchmarks/benchmark_inference.py \
+  --checkpoint ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt \
+  --runs 5 \
+  --max_new_tokens 120 \
+  --output benchmark_outputs/tinystories_2gb_1280d10l_latest/inference_benchmark.json
+```
 
 Run unit tests:
 
@@ -209,116 +224,70 @@ Run unit tests:
 python -m pytest tests -q
 ```
 
-Current result:
+## Experiment Results
 
-```text
-5 passed, 1 warning
-```
+This repository currently contains evaluation artifacts for two TinyStories training runs.
 
-The warning comes from PyTorch `torch.load(weights_only=False)` future behavior and does not affect current correctness.
+### 1. TinyStories 300MB Baseline
 
-## Evaluation Samples
+- Checkpoint: `ckpt_tinystories_300mb_1024d6l/epoch_1.pt`
+- Model size: about 178M parameters
+- Training data: 300MB TinyStories subset
+- Epochs: 1
+- Train PPL: about 6.67
+- Val PPL: about 4.34
+- Evaluation outputs:
+  - `eval_outputs/tinystories_300mb_1024d6l_epoch1/`
+  - `benchmark_outputs/tinystories_300mb_1024d6l_epoch1/`
 
-Generate multiple sample outputs from the checkpoint:
+### 2. TinyStories 2GB Larger Run
 
-```bash
-python scripts/generate_samples.py \
-  --checkpoint ckpt_tinystories_300mb_1024d6l/epoch_1.pt
-```
+- Checkpoint: `ckpt_tinystories_2gb_1280d10l_2ep_fixed/latest.pt`
+- Model size: 326.93M parameters
+- Training data: 2GB TinyStories subset
+- Epochs: close to 2 epochs
+- Evaluation outputs:
+  - `eval_outputs/tinystories_2gb_1280d10l_latest/`
+  - `benchmark_outputs/tinystories_2gb_1280d10l_latest/`
 
-Expected outputs:
+Inference benchmark:
 
-```text
-eval_outputs/sample_1.txt
-eval_outputs/sample_2.txt
-eval_outputs/sample_3.txt
-eval_outputs/samples.json
-```
+| Model | Params | Avg tokens/s | Avg time for 120 tokens | Peak CUDA memory |
+|---|---:|---:|---:|---:|
+| 300MB baseline | about 178M | about 171 tokens/s | about 0.70s | about 716 MB |
+| 2GB larger run | 326.93M | 130.59 tokens/s | 0.973s | 1282.45 MB |
 
-These files are small and can be used as qualitative evidence that the checkpoint can generate text.
+Compared with the 300MB baseline, the 2GB model produces more coherent TinyStories-style outputs, with better story structure and fewer abrupt breaks. The trade-off is slower inference and higher GPU memory usage.
 
-## Inference Benchmark
+## Large File Policy
 
-Run real-checkpoint benchmark:
+The following files are intentionally not uploaded to GitHub:
 
-```bash
-python benchmarks/benchmark_inference.py \
-  --checkpoint ckpt_tinystories_300mb_1024d6l/epoch_1.pt \
-  --runs 5 \
-  --max_new_tokens 120 \
-  --output benchmark_outputs/inference_benchmark.json
-```
+- model checkpoints: `*.pt`, `*.pth`
+- tokenized datasets: `*.bin`
+- raw datasets: `data/raw/*.txt`
+- large TinyStories subset files
 
-Current benchmark result:
+Tracked files include:
 
-```text
-Device: CUDA
-Parameters: 178.83M
-Prompt: Once upon a time
-Max new tokens: 120
-Average time: about 0.70 seconds
-Average speed: about 171 tokens/s
-Peak CUDA memory: about 716 MB
-```
+- source code
+- tokenizer JSON
+- small test corpus
+- training scripts
+- evaluation scripts
+- training logs
+- generated sample outputs
+- benchmark JSON files
+- lightweight training curves
 
-Benchmark output file:
-
-```text
-benchmark_outputs/inference_benchmark.json
-```
-
-## Run All Evaluation Steps
+Before committing, check that no large files are staged:
 
 ```bash
-bash scripts/run_eval.sh
+git diff --cached --name-only | grep -E '\.pt$|\.bin$|TinyStories.*\.txt$' || echo "OK: no large model/data files staged"
 ```
 
-This runs:
+## Notes
 
-```text
-1. pytest unit tests
-2. sample generation
-3. checkpoint inference benchmark
-```
+This project is mainly for learning how GPT-style language models work internally.
 
-## Git Tracking Policy
-
-Tracked:
-
-```text
-source code
-unit tests
-benchmark scripts
-sample-generation scripts
-README / command docs
-small logs
-small PNG training curves
-small JSON/text evaluation outputs
-```
-
-Ignored:
-
-```text
-*.pt / *.pth checkpoint files
-*.bin tokenized datasets
-raw TinyStories text files
-cache directories
-large generated datasets
-```
-
-Reason: GitHub is not suitable for multi-GB model weights or datasets. Keep those files on the training machine, local disk, cloud storage, or a model/dataset hosting service.
-
-## Interpretation of Current Model Quality
-
-The current 300MB checkpoint is useful as an engineering proof of a complete Mini GPT training pipeline. It demonstrates that the model can be trained, saved, loaded, benchmarked, and used for generation.
-
-However, it is not a high-quality language model yet. The model was trained from scratch on a limited subset for one epoch, so generated stories may include:
-
-```text
-unusual words
-repeated phrases
-weak long-range consistency
-entity/name drift
-```
-
-This is expected for the current training scale. Improving quality would require more data, more training steps, better checkpointing, and more systematic evaluation.
+It is not an instruction-tuned model. The generated text is expected to follow the TinyStories style, but it may still contain repeated phrases, unusual names, or unstable long-range coherence. This is normal for a small Transformer trained from scratch on a limited dataset.
